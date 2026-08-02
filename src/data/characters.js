@@ -445,12 +445,12 @@ export const characters = [
     "bio": [
       {
         "heading": {
-          "en": "The God of Deduction",
-          "vi": "Vị Thần Diễn Dịch"
+          "en": "The Weapon of Reason",
+          "vi": "Vũ Khí Của Công Lý"
         },
         "text": {
-          "en": "In the gas-lit labyrinth of Victorian London, where the darkest crimes dissolve into the choking fog, a singular mind cuts through the shadows like a blade of pure logic. Sherlock Holmes is not a mere man; he is the undisputed god of DEDUCTION. When Scotland Yard stands paralyzed by the bizarre and the macabre, it is the resident of 221B Baker Street who illuminates the truth, turning the chaotic tapestry of human malice into an elegant masterpiece of reason.",
-          "vi": "Trong mê cung dưới ánh đèn gas của London thời Victoria, nơi những tội ác đen tối nhất tan biến vào làn sương mù nghẹt thở, có một bộ óc độc tôn xé toạc bóng tối như một lưỡi dao của sự logic thuần túy. Sherlock Holmes không chỉ là một kẻ phàm trần; ông là vị thần không thể tranh cãi của nghệ thuật diễn dịch. Khi Scotland Yard đứng chôn chân trước những điều kỳ dị và rùng rợn, chính vị khách ngụ tại 221B phố Baker là người đã thắp sáng sự thật, biến bức màn hỗn loạn của ác ý nhân loại thành một kiệt tác thanh lịch của lý trí."
+          "en": "If there is one person who can unravel every mystery through the sheer power of the intellect, it is Sherlock Holmes. In the gas-lit LABYRINTH of Victorian London, he possesses no superpowers, commands no worldly authority, and wields no destructive weapons. Yet, with his extraordinary powers of observation and razor-sharp DEDUCTION, Holmes became the most formidable weapon of justice against the forces of crime—turning the chaotic tapestry of human malice into an elegant masterpiece of reason.",
+          "vi": "Nếu có một người có thể giải mã mọi bí ẩn chỉ bằng sức mạnh của trí tuệ, thì đó chính là Sherlock Holmes. Trong mê cung dưới ánh đèn gas của London thời Victoria, ông không sở hữu siêu năng lực, không mang trong tay quyền lực hay vũ khí hủy diệt, nhưng chỉ với khả năng quan sát phi thường và tư duy diễn dịch sắc bén, Holmes đã trở thành vũ khí sắc bén nhất của công lý trước những thế lực tội ác—biến bức màn hỗn loạn của ác ý nhân loại thành một kiệt tác thanh lịch của lý trí."
         },
         "image": "https://images.unsplash.com/photo-1620063268832-60cc07b4f53d?q=80&w=1000&auto=format&fit=crop"
       },
@@ -538,8 +538,8 @@ export const characters = [
           "vi": "Kiến Trúc Sư Của Sự Tàn Phá"
         },
         "text": {
-          "en": "Behind the veil of civilization, a phantom architect masterminds the symphony of global ruin. Professor James Moriarty is the absolute apex of criminality—the 'Napoleon of Crime' whose sheer intellect rivals that of the gods. He is the terrifying reflection in the mirror of justice, a monstrous GENIUS cloaked in the IMPECCABLE garments of an ARISTOCRATIC academic, existing as the dark, inevitable eclipse to Sherlock Holmes' brilliant light.",
-          "vi": "Đằng sau bức màn của nền văn minh, một vị kiến trúc sư bóng ma đang vạch ra bản giao hưởng của sự tàn phá toàn cầu. Giáo sư James Moriarty là đỉnh cao tuyệt đối của giới tội phạm—'Napoleon của Tội ác', kẻ có trí tuệ siêu phàm sánh ngang với các vị thần. Hắn là sự phản chiếu kinh hoàng trong tấm gương của công lý, một ác quỷ thiên tài khoác lên mình bộ trang phục hoàn hảo của một học giả quý tộc, tồn tại như một hiện tượng nhật thực đen tối và tất yếu đối với ánh sáng chói lọi của Sherlock Holmes."
+          "en": "The brighter the light, the deeper the shadow. If Sherlock Holmes is the embodiment of intellect used to protect justice, then Professor James Moriarty is the PHANTOM architect who uses that same INTELLECT to manipulate crime. He is the absolute apex of criminality—the 'Napoleon of Crime' and a monstrous GENIUS cloaked in the IMPECCABLE garments of an ARISTOCRATIC academic, existing as the dark, inevitable eclipse to Sherlock Holmes' brilliant light.",
+          "vi": "Ánh sáng càng rực rỡ thì bóng tối càng sâu thẳm. Nếu Sherlock Holmes là hiện thân của trí tuệ dùng để bảo vệ công lý, thì Giáo sư James Moriarty chính là vị kiến trúc sư bóng ma sử dụng cùng một trí tuệ ấy để thao túng tội ác. Hắn là đỉnh cao tuyệt đối của giới tội phạm—'Napoleon của Tội ác', một ác quỷ thiên tài khoác lên mình bộ trang phục hoàn hảo của một học giả quý tộc, tồn tại như một hiện tượng nhật thực đen tối và tất yếu đối với ánh sáng chói lọi của Sherlock Holmes."
         },
         "image": "https://images.unsplash.com/photo-1600704406184-7a136bfb1b74?q=80&w=1000&auto=format&fit=crop"
       },
@@ -1679,8 +1679,8 @@ export const characters = [
           "vi": "Gánh Nặng Của Sư Tử Vàng"
         },
         "text": {
-          "en": "Clad in gilded armor and radiating the arrogant brilliance of House Lannister, Jaime stood as a paragon of knightly perfection. He was the Golden Lion, a warrior of unmatched lethality whose name inspired awe and envy across Westeros. Yet, behind the triumphant smiles and dazzling swordplay lay a soul entangled in a web of forbidden desires and shattering betrayals, walking a treacherous path where honor and disgrace collided in a maelstrom of blood.",
-          "vi": "Khoác lên mình bộ giáp mạ vàng và tỏa ra thứ ánh sáng kiêu ngạo của Gia tộc Lannister, Jaime hiện lên như một khuôn mẫu của sự hoàn hảo hiệp sĩ. Anh là Sư Tử Vàng, một chiến binh với sức mạnh chết chóc vô song, người mà cái tên đã gieo rắc cả sự kinh hãi lẫn ghen tị trên khắp Westeros. Thế nhưng, đằng sau nụ cười đắc thắng và những đường kiếm tuyệt mỹ ấy là một linh hồn bị mắc kẹt trong mạng nhện của những khát theo cấm đoán và những sự phản bội kinh hoàng, bước đi trên con đường hiểm ác nơi danh dự và nỗi ô nhục va chạm trong một vòng xoáy máu."
+          "en": "There are names carved into history by glorious deeds, and names cursed by prejudice. But there are also names that inspire both awe and contempt in equal measure. \"The KINGSLAYER\" – three simple words enough to make the entire continent of Westeros turn its gaze. That is the title of Jaime Lannister, the most gifted knight in the history of the Seven Kingdoms, who bears upon his shoulders the glory of a legend and an indelible disgrace he can never wash away. Clad in gilded armor and radiating the ARROGANT BRILLIANCE of House Lannister, he is the Golden Lion, walking a treacherous path where honor and disgrace collide in a maelstrom of blood.",
+          "vi": "Có những cái tên được khắc vào lịch sử bằng chiến công, có những cái tên bị nguyền rủa bởi định kiến. Nhưng cũng có những cái tên vừa khiến người đời kính phục, vừa khiến họ khinh miệt. \"The Kingslayer\" – Kẻ Sát Vua. Chỉ ba từ ấy đã đủ để cả lục địa Westeros phải ngoảnh nhìn. Đó là danh xưng của Jaime Lannister, hiệp sĩ tài năng bậc nhất trong lịch sử Bảy Vương Quốc, người mang trên vai vinh quang của một huyền thoại và nỗi ô nhục mà cả đời không thể gột rửa. Khoác lên mình bộ giáp mạ vàng và tỏa ra thứ ánh sáng kiêu ngạo của Gia tộc Lannister, anh là Sư Tử Vàng, bước đi trên con đường hiểm ác nơi danh dự và nỗi ô nhục va chạm trong một vòng xoáy máu."
         },
         "image": "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=1000&auto=format&fit=crop"
       },
