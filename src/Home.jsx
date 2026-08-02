@@ -8,7 +8,7 @@ function Home() {
   const [summary, setSummary] = React.useState({ total: 0, counts: {} });
 
   React.useEffect(() => {
-    const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:9999';
+    const baseUrl = import.meta.env.VITE_API_URL;
     fetch(`${baseUrl}/api/vocabulary/summary`)
       .then(res => res.json())
       .then(data => setSummary(data))

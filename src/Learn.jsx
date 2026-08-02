@@ -15,7 +15,7 @@ function Learn() {
   const [isLoadingSummary, setIsLoadingSummary] = useState(true);
   
   const navigate = useNavigate();
-  const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:9999';
+  const baseUrl = import.meta.env.VITE_API_URL;
 
   useEffect(() => {
     fetch(`${baseUrl}/api/vocabulary/summary`)

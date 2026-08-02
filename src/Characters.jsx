@@ -10,7 +10,7 @@ function Characters() {
   const [loading, setLoading] = useState(true);
   const [charLoading, setCharLoading] = useState(false);
 
-  const apiUrl = import.meta.env.VITE_API_URL || 'https://wolflingo-be.onrender.com';
+  const apiUrl = import.meta.env.VITE_API_URL;
 
   // Fetch characters from backend
   useEffect(() => {
