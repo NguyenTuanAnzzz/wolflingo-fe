@@ -165,6 +165,11 @@ export const characters = [
         text: 'Despite his comical demeanor, Shurikenger is a tragic and deeply honorable warrior. Trong trận chiến cuối cùng chống lại Sandaru, một trong những thủ lĩnh tàn bạo nhất của Jakanja, Shurikenger đã quyết định hi sinh thân mình để tạo cơ hội cho những người đồng đội. He made the ultimate sacrifice to protect his friends and the world, proving that true heroism does not require a name or a face. Câu nói cuối cùng của anh về loài hoa đã trở thành một trong những khoảnh khắc xúc động nhất của lịch sử Super Sentai.',
       }
     ],
+    gallery: [
+      'https://images.unsplash.com/photo-1542281286-9e0a16bb7366?q=80&w=1000&auto=format&fit=crop',
+      'https://images.unsplash.com/photo-1578589318433-39b51156cb14?q=80&w=1000&auto=format&fit=crop',
+      'https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop'
+    ],
     vocabulary: [
       { word: 'Phantom', meaning: 'Bóng ma, ảo ảnh', type: 'Noun' },
       { word: 'Disguise', meaning: 'Cải trang, ngụy trang', type: 'Verb / Noun' },

@@ -6,13 +6,17 @@ function Characters() {
   const navigate = useNavigate();
   const [characters, setCharacters] = useState([]);
   const [selectedChar, setSelectedChar] = useState(null);
+  const [fullChar, setFullChar] = useState(null);
   const [loading, setLoading] = useState(true);
+  const [charLoading, setCharLoading] = useState(false);
+
+  const apiUrl = import.meta.env.VITE_API_URL || 'https://wolflingo-be.onrender.com';
 
   // Fetch characters from backend
   useEffect(() => {
     const fetchCharacters = async () => {
       try {
-        const response = await fetch('https://wolflingo.onrender.com/api/characters');
+        const response = await fetch(`${apiUrl}/api/characters`);
         const data = await response.json();
         setCharacters(data);
       } catch (error) {
@@ -22,7 +26,21 @@ function Characters() {
       }
     };
     fetchCharacters();
-  }, []);
+  }, [apiUrl]);
+
+  const handleSelectChar = async (id) => {
+    setSelectedChar(id);
+    setCharLoading(true);
+    try {
+      const response = await fetch(`${apiUrl}/api/characters/${id}`);
+      const data = await response.json();
+      setFullChar(data);
+    } catch (error) {
+      console.error('Error fetching character details:', error);
+    } finally {
+      setCharLoading(false);
+    }
+  };
 
   // Scroll to top when a character is selected
   useEffect(() => {
@@ -40,7 +58,15 @@ function Characters() {
   }
 
   if (selectedChar) {
-    const char = characters.find(c => c.id === selectedChar);
+    if (charLoading || !fullChar) {
+      return (
+        <div className="min-h-screen bg-[#050505] flex items-center justify-center">
+          <div className="w-12 h-12 border-4 border-fuchsia-500 border-t-transparent rounded-full animate-spin"></div>
+        </div>
+      );
+    }
+
+    const char = fullChar;
     
     return (
       <div className="min-h-screen bg-[#050505] text-white font-inter selection:bg-fuchsia-500/30">
@@ -97,6 +123,25 @@ function Characters() {
                   </div>
                 ))}
               </div>
+
+              {char.gallery && char.gallery.length > 0 && (
+                <div className="mt-16">
+                  <h3 className="text-2xl font-bold text-gray-100 mb-6 flex items-center gap-2 border-b border-white/10 pb-4">
+                    <Sparkles className="text-blue-400" /> Thư viện ảnh (Gallery)
+                  </h3>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                    {char.gallery.map((img, idx) => (
+                      <div key={idx} className="rounded-xl overflow-hidden border border-white/10 shadow-lg">
+                        <img 
+                          src={img} 
+                          alt={`${char.name} gallery ${idx + 1}`} 
+                          className="w-full h-64 object-cover hover:scale-110 transition-transform duration-700" 
+                        />
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
             </section>
           </div>
 
@@ -168,7 +213,7 @@ function Characters() {
           {characters.map(char => (
             <div 
               key={char.id}
-              onClick={() => setSelectedChar(char.id)}
+              onClick={() => handleSelectChar(char.id)}
               className="group cursor-pointer relative overflow-hidden rounded-2xl aspect-[3/4] border border-white/10 hover:border-purple-500/50 transition-all duration-500 shadow-2xl"
             >
               <img 
