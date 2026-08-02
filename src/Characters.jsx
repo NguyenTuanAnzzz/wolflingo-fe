@@ -1,11 +1,28 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Sparkles, Sword, BookOpen, Quote, ChevronLeft } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import { characters } from './data/characters';
 
 function Characters() {
   const navigate = useNavigate();
+  const [characters, setCharacters] = useState([]);
   const [selectedChar, setSelectedChar] = useState(null);
+  const [loading, setLoading] = useState(true);
+
+  // Fetch characters from backend
+  useEffect(() => {
+    const fetchCharacters = async () => {
+      try {
+        const response = await fetch('https://wolflingo.onrender.com/api/characters');
+        const data = await response.json();
+        setCharacters(data);
+      } catch (error) {
+        console.error('Error fetching characters:', error);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchCharacters();
+  }, []);
 
   // Scroll to top when a character is selected
   useEffect(() => {
@@ -13,6 +30,14 @@ function Characters() {
       window.scrollTo(0, 0);
     }
   }, [selectedChar]);
+
+  if (loading) {
+    return (
+      <div className="min-h-screen bg-[#050505] flex items-center justify-center">
+        <div className="w-12 h-12 border-4 border-fuchsia-500 border-t-transparent rounded-full animate-spin"></div>
+      </div>
+    );
+  }
 
   if (selectedChar) {
     const char = characters.find(c => c.id === selectedChar);

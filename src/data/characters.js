@@ -148,16 +148,21 @@ export const characters = [
     bio: [
       {
         heading: 'The Mysterious Ninja (Ninja bí ẩn)',
-        text: 'Shurikenger is a key ally in Ninpuu Sentai Hurricaneger. True to his title, "The Ten-Faced Phantom" (Tenkū Ninja Shurikenger), his real identity and face are completely unknown. He renounced his former life and name to become the ultimate weapon of the Space Union Ninja School, dedicating himself solely to the path of the ninja.',
+        text: 'Shurikenger is a key ally in Ninpuu Sentai Hurricaneger. True to his title, "The Ten-Faced Phantom" (Tenkū Ninja Shurikenger), his real identity and face are completely unknown. He renounced his former life, erased his own memories of who he once was, and abandoned his name to become the ultimate weapon of the Space Union Ninja School, dedicating himself solely to the path of the ninja. Không ai biết được khuôn mặt thật đằng sau chiếc mặt nạ xanh ấy, nhưng ý chí chiến đấu bảo vệ Trái Đất của anh là điều không thể bàn cãi.',
         image: 'https://images.unsplash.com/photo-1578589318433-39b51156cb14?q=80&w=1000&auto=format&fit=crop'
       },
       {
         heading: 'Master of Disguise (Bậc thầy cải trang)',
-        text: 'Rather than having a civilian form, Shurikenger constantly disguises himself as various ordinary people (often played by veteran Super Sentai actors). He is notoriously eccentric, frequently peppering his speech with broken English phrases like "I am Ninja of Ninja!" and "Me, me, me!" which creates a humorous contrast with his formidable combat skills.',
+        text: 'Rather than having a civilian form, Shurikenger constantly disguises himself as various ordinary people (often played by veteran Super Sentai actors). He is notoriously eccentric, frequently peppering his speech with broken English phrases like "I am Ninja of Ninja!" and "Me, me, me!" which creates a humorous contrast with his formidable combat skills. Dưới những lớp vỏ bọc hài hước đó, Shurikenger luôn theo dõi, bảo vệ và hỗ trợ các Hurricaneger và Gouraiger từ bóng tối, trở thành một người thầy, một người đồng đội vô hình nhưng vô cùng vững chắc.',
+      },
+      {
+        heading: 'Fire Mode & Tenkuujin (Chế độ hỏa lực & Thiên Không Thần)',
+        text: 'When pushed to his limits, Shurikenger can shed his heavy armor to activate "Fire Mode" (Chế độ Hỏa lực). In this form, he trades defense for blinding speed and overwhelming offensive power. He also commands the mighty Tenkuujin (Thiên Không Thần), a helicopter-themed mecha that provides crucial support in giant battles. Khả năng chiến đấu của anh vĩ đại đến mức ngay cả những kẻ thù mạnh nhất cũng phải e dè.',
+        image: 'https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop'
       },
       {
         heading: 'Ultimate Sacrifice (Sự hiến tế tối thượng)',
-        text: 'Despite his comical demeanor, Shurikenger is a tragic and deeply honorable warrior. He pilots the Tenkuujin and possesses Fire Mode, which drastically increases his combat power. In the end, he makes the ultimate sacrifice to protect his friends and the world from the evil Jakanja space ninja clan.',
+        text: 'Despite his comical demeanor, Shurikenger is a tragic and deeply honorable warrior. Trong trận chiến cuối cùng chống lại Sandaru, một trong những thủ lĩnh tàn bạo nhất của Jakanja, Shurikenger đã quyết định hi sinh thân mình để tạo cơ hội cho những người đồng đội. He made the ultimate sacrifice to protect his friends and the world, proving that true heroism does not require a name or a face. Câu nói cuối cùng của anh về loài hoa đã trở thành một trong những khoảnh khắc xúc động nhất của lịch sử Super Sentai.',
       }
     ],
     vocabulary: [
@@ -167,6 +172,7 @@ export const characters = [
       { word: 'Sacrifice', meaning: 'Sự hy sinh', type: 'Noun' }
     ],
     quotes: [
+      { en: "Even if I forget the name of a flower, people still know what makes it beautiful.", vi: "Cho dù ta có quên đi tên một loài hoa, thì con người vẫn biết hoa đẹp ở điểm nào." },
       { en: "I am Ninja of Ninja! The green light bullet! Tenkū Ninja Shurikenger!", vi: "Ta là Ninja của các Ninja! Viên đạn ánh sáng xanh! Thiên Không Ninja Shurikenger!" },
       { en: "Oh my God! No way!", vi: "Ôi trời ơi! Không thể nào!" },
       { en: "See you again! Bye bye!", vi: "Hẹn gặp lại! Tạm biệt!" }
