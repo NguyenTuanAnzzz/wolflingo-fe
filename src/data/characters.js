@@ -7,19 +7,30 @@ export const characters = [
     color: 'from-gray-700 to-black',
     bio: [
       {
+        heading: 'The Mortal Among Gods (Con người giữa những vị thần)',
+        text: 'In a world where gods soar through the skies and aliens can destroy planets with supernatural strength, there exists a mortal who commands the respect of all. He has no magic, no superpowers, and was given no gifts by fate other than pain and loss. Giữa một thế giới nơi các vị thần bay lượn trên bầu trời, những người ngoài hành tinh có thể hủy diệt cả hành tinh chỉ bằng sức mạnh siêu nhiên, vẫn tồn tại một con người khiến tất cả phải kính nể. Anh không có phép thuật, không sở hữu siêu năng lực, cũng không được số phận ưu ái ban tặng bất kỳ món quà nào ngoài nỗi đau và mất mát. Thế nhưng, chính từ bóng tối sâu thẳm ấy đã bước ra một biểu tượng bất diệt của công lý. Đó là Batman – Hiệp sĩ Bóng đêm của Gotham, người chứng minh rằng sức mạnh vĩ đại nhất không nằm ở cơ bắp hay quyền năng, mà ở ý chí không bao giờ khuất phục.',
+        image: 'https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?q=80&w=1000&auto=format&fit=crop'
+      },
+      {
         heading: 'Origin & Early Life (Nguồn gốc)',
-        text: 'Bruce Wayne was born to Dr. Thomas Wayne and Martha Wayne, two very wealthy and charitable socialites of Gotham City. Bruce was brought up in Wayne Manor, with its wealthy splendor, and led a happy and privileged existence until the age of eight. His parents were murdered by a petty mugger named Joe Chill right in front of him. This traumatic event left him with a lifelong vow to rid the city of the evil that had taken his parents\' lives.',
-        image: 'https://images.unsplash.com/photo-1485602497677-70e28f32dd75?q=80&w=1000&auto=format&fit=crop' // Dark alley vibe
+        text: 'Bruce Wayne was born to Dr. Thomas Wayne and Martha Wayne, two very wealthy and charitable socialites of Gotham City. Bruce led a happy and privileged existence until the age of eight, when his parents were murdered by a mugger named Joe Chill right in front of him. Nỗi đau tột cùng đó đã không đánh gục cậu bé Bruce, mà biến thành một lời thề vĩnh cửu: quét sạch cái ác đã cướp đi gia đình mình.',
+        image: 'https://images.unsplash.com/photo-1485602497677-70e28f32dd75?q=80&w=1000&auto=format&fit=crop'
       },
       {
-        heading: 'The Dark Knight (Kỵ sĩ bóng đêm)',
-        text: 'Wayne traveled the world for years, seeking out experts in various fields, training himself to physical and mental perfection. Upon returning to Gotham, he realized that criminals are a "superstitious and cowardly lot". To strike terror into their hearts, he adopted the persona of a bat, a creature that had frightened him as a child. Thus, Batman was born.',
-        image: 'https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop' // Bat/darkness vibe
+        heading: 'Forging the Dark Knight (Hành trình rèn luyện)',
+        text: 'For years, Wayne traveled the globe, seeking out experts in various fields to train himself to absolute physical and mental perfection. Upon returning to Gotham, he realized that criminals are a "superstitious and cowardly lot". To strike terror into their hearts, he adopted the persona of a bat. Anh biến nỗi sợ hãi lớn nhất thời thơ ấu của mình thành biểu tượng gieo rắc kinh hoàng cho thế giới ngầm.',
+        image: 'https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop'
       },
       {
-        heading: 'Methodology & Gadgets (Phương pháp & Vũ khí)',
-        text: 'Unlike many other superheroes, Batman has no inherent superhuman powers; he relies on "his own scientific knowledge, detective skills, and athletic prowess." He utilizes a vast array of specialized, high-tech vehicles and gadgets (like the Batmobile and Batarangs) mostly stored in the Batcave. He follows a strict moral code, the most prominent being his rule against killing.',
+        heading: 'The Symbol of Hope (Biểu tượng của hy vọng)',
+        text: 'Batman is not just a comic book character or a superhero in a black cape. He is a symbol of human will against adversity, of courage in the face of fear, and of the belief that justice is always worth fighting for. Batman không chỉ là một nhân vật truyện tranh hay một siêu anh hùng khoác chiếc áo choàng đen. Anh là biểu tượng của ý chí con người trước nghịch cảnh, của lòng dũng cảm trước nỗi sợ và của niềm tin rằng công lý luôn đáng để đấu tranh. Dù không sở hữu bất kỳ siêu năng lực nào, Batman vẫn khiến cả thế giới phải ngưỡng mộ bởi anh đã chứng minh rằng điều làm nên một anh hùng không phải là sức mạnh phi thường, mà là trái tim kiên định và tinh thần không bao giờ khuất phục. Có lẽ vì thế, qua bao thập kỷ, hình bóng Hiệp sĩ Bóng đêm vẫn luôn sống mãi trong lòng người hâm mộ như một lời nhắc nhở rằng: chỉ cần con người còn giữ vững niềm tin vào điều đúng đắn, thì ngay cả màn đêm sâu thẳm nhất cũng không thể che lấp ánh sáng của hy vọng.',
       }
+    ],
+    gallery: [
+      'https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?q=80&w=1000&auto=format&fit=crop',
+      'https://images.unsplash.com/photo-1485602497677-70e28f32dd75?q=80&w=1000&auto=format&fit=crop',
+      'https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop',
+      'https://images.unsplash.com/photo-1571240367204-06771e8cb85f?q=80&w=1000&auto=format&fit=crop'
     ],
     vocabulary: [
       { word: 'Vigilante', meaning: 'Người hành hiệp trượng nghĩa', type: 'Noun' },
