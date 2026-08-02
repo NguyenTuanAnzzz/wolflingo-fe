@@ -14,7 +14,8 @@ export const characters = [
         "text": {
           "en": "In a world where gods soar through the skies and aliens can destroy planets with supernatural strength, there exists a mortal who commands the respect of all. He has no magic, no superpowers, and was given no gifts by fate other than pain and loss. Yet, from that profound darkness emerged an immortal symbol of justice. That is Batman – the Dark Knight of Gotham, who proves that the greatest strength lies not in muscle or power, but in an unyielding will.\n\nHe is the ultimate VIGILANTE, a silent guardian who operates outside the law to bring order to a chaotic world. His mission is fueled by an absolute refusal to let others suffer the tragedy he endured. As a mortal, his true power lies in his relentless dedication, transforming his body and mind into a living weapon.",
           "vi": "Trong một thế giới nơi những vị thần bay lượn trên bầu trời và những sinh vật ngoài hành tinh có thể phá hủy các hành tinh bằng sức mạnh siêu nhiên, có một kẻ phàm trần khiến tất cả phải kính nể. Anh không có phép thuật, không có siêu năng lực, và không được số phận ban tặng món quà nào ngoài nỗi đau và sự mất mát. Thế nhưng, từ trong bóng tối sâu thẳm đó đã trỗi dậy một biểu tượng bất tử của công lý. Đó chính là Batman – Hiệp sĩ Bóng đêm của Gotham, người chứng minh rằng sức mạnh vĩ đại nhất không nằm ở cơ bắp hay quyền năng, mà ở một ý chí kiên khuất.\n\nAnh là người hành hiệp trượng nghĩa (VIGILANTE) tối thượng, một người gác đêm thầm lặng hoạt động ngoài vòng pháp luật để mang lại trật tự cho một thế giới hỗn loạn. Sứ mệnh của anh được thúc đẩy bởi sự cự tuyệt tuyệt đối việc để người khác phải chịu đựng bi kịch mà anh từng nếm trải. Là một người trần mắt thịt, sức mạnh thực sự của anh nằm ở sự cống hiến không ngừng nghỉ, biến đổi cả thể xác và tâm trí thành một vũ khí sống."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -24,7 +25,8 @@ export const characters = [
         "text": {
           "en": "Bruce Wayne was born to Dr. Thomas Wayne and Martha Wayne, two very wealthy and charitable socialites of Gotham City. Bruce led a happy and privileged existence until the age of eight, when his parents were murdered by a mugger named Joe Chill right in front of him. That ultimate pain did not break the young boy; instead, it transformed into an eternal vow: to wipe out the evil that took his family.\n\nHe did not seek mere revenge; he sought VENGEANCE against the very concept of crime itself. This vow of VENGEANCE led him on a grueling global journey. He trained under the world's greatest martial artists, detectives, and escape artists, mastering every skill necessary to wage his one-man war. The boy who died in Crime Alley was reborn as a relentless force of nature.",
           "vi": "Bruce Wayne là con trai của Bác sĩ Thomas Wayne và Martha Wayne, hai nhân vật xã hội thượng lưu vô cùng giàu có và có tấm lòng từ thiện của Thành phố Gotham. Bruce đã có một cuộc sống hạnh phúc và đặc quyền cho đến năm tám tuổi, khi cha mẹ cậu bị một tên cướp tên là Joe Chill sát hại ngay trước mắt. Nỗi đau tột cùng đó không hề quật ngã cậu bé; thay vào đó, nó biến thành một lời thề vĩnh cửu: quét sạch cái ác đã cướp đi gia đình cậu.\n\nCậu không chỉ tìm kiếm sự trả thù đơn thuần; cậu tìm kiếm sự báo thù (VENGEANCE) đối với chính khái niệm về tội phạm. Lời thề báo thù này đã đưa cậu vào một hành trình gian khổ trên toàn cầu. Cậu đã rèn luyện dưới trướng của những bậc thầy võ thuật, thám tử và nghệ sĩ đào tẩu vĩ đại nhất thế giới, làm chủ mọi kỹ năng cần thiết để tiến hành cuộc chiến đơn độc của mình. Cậu bé đã chết ở Hẻm Tội ác được tái sinh thành một sức mạnh tàn nhẫn của tự nhiên."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1485602497677-70e28f32dd75?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -34,7 +36,8 @@ export const characters = [
         "text": {
           "en": "Returning to Gotham, Bruce realized that criminals are a SUPERSTITIOUS and cowardly lot. To combat them, he needed to become something more than a man; he needed to become a symbol. Taking inspiration from a bat that crashed through his window, he forged the identity of Batman. He utilizes psychological warfare and sheer INTIMIDATION to strike fear into the hearts of the corrupt.\n\nHis crusade is supported by an array of highly advanced technology. Every GADGET in his utility belt, every vehicle in his cave, is a testament to his genius intellect and endless resources. Yet, beneath the terrifying mask, the high-tech gadgetry, and the aura of INTIMIDATION, remains a man driven by a profound love for his city and an unwavering hope for a better tomorrow.",
           "vi": "Trở về Gotham, Bruce nhận ra rằng bọn tội phạm là một lũ mê tín (SUPERSTITIOUS) và hèn nhát. Để chống lại chúng, anh cần phải trở thành một thứ gì đó hơn cả một con người; anh cần phải trở thành một biểu tượng. Lấy cảm hứng từ một con dơi đâm sầm qua cửa sổ, anh đã rèn giũa nên danh tính Batman. Anh sử dụng đòn chiến tranh tâm lý và sự đe dọa (INTIMIDATION) thuần túy để gieo rắc nỗi sợ hãi vào trái tim của những kẻ tham nhũng.\n\nCuộc thập tự chinh của anh được hỗ trợ bởi hàng loạt công nghệ tiên tiến bậc nhất. Mỗi một công cụ (GADGET) trong chiếc thắt lưng tiện ích, mỗi một phương tiện trong hang động của anh, đều là minh chứng cho trí tuệ thiên tài và nguồn lực vô tận của anh. Tuy nhiên, đằng sau lớp mặt nạ đáng sợ, những món đồ công nghệ cao và khí chất đe dọa, vẫn là một người đàn ông được thúc đẩy bởi tình yêu sâu sắc dành cho thành phố của mình và một niềm hy vọng không lay chuyển về một ngày mai tươi sáng hơn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -111,7 +114,8 @@ export const characters = [
         "text": {
           "en": "Wielding an UNPREDICTABLE, diabolical genius, the Clown Prince of Crime transforms Gotham into his personal theater of suffering. He desires neither wealth nor conquest, but the absolute destruction of the human spirit. Through deadly toxins and twisted mind games, he wages an eternal psychological war against Batman, desperately trying to prove that the noblest of souls is only one bad day away from descending into an abyss of lunacy.",
           "vi": "Nắm trong tay một trí tuệ ác quỷ khó đoán, Hoàng tử Hề của Tội phạm biến Gotham thành nhà hát của những đau khổ mang tính cá nhân. Hắn không màng tài lộc hay sự chinh phạt, mà chỉ khát khao sự hủy diệt tuyệt đối của tinh thần con người. Thông qua những độc tố chết người và những trò chơi tâm trí bệnh hoạn, hắn tiến hành một cuộc chiến tâm lý vĩnh cửu chống lại Batman, điên cuồng chứng minh rằng những linh hồn cao thượng nhất cũng chỉ cách vực thẳm điên loạn đúng một ngày tồi tệ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1542466500-dccb2789cbbb?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -121,7 +125,8 @@ export const characters = [
         "text": {
           "en": "The Joker will forever remain the darkest paradox of existence—a monstrous enigma who dances on the ashes of civilization. His manic laughter echoes through the corridors of time, a haunting reminder that deep within the rigid structures of society lies an untamed, chaotic beast waiting to be unleashed. He is the punchline to a cruel cosmic joke, an immortal nightmare that humanity can never truly outrun.",
           "vi": "Joker sẽ mãi mãi là nghịch lý tăm tối nhất của sự tồn tại—một bí ẩn quái dị nhảy múa trên đống tro tàn của nền văn minh. Tiếng cười điên dại của hắn vang vọng qua những hành lang của thời gian, một lời nhắc nhở ám ảnh rằng sâu bên trong những cấu trúc cứng nhắc của xã hội luôn có một con thú hoang dã, hỗn loạn chực chờ được phóng thích. Hắn chính là điểm kết của một trò đùa vũ trụ tàn nhẫn, một cơn ác mộng bất tử mà nhân loại không bao giờ có thể thực sự thoát khỏi."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -189,7 +194,8 @@ export const characters = [
         "text": {
           "en": "In an era where the heavens wept and the earth cracked beneath the weight of endless wars, a singular titan emerged from the ashes of a dying dynasty. Cao Cao was not merely a mortal man; he was a force of nature, a pragmatist whose ambition was forged in the absolute darkest fires of betrayal and chaos. His intellect was a devastating storm, possessing the power of a million drawn swords ready to shatter the archaic illusions of a decaying world.\n\nRejecting the hypocritical and crumbling virtues of his time, he chose to mold reality with an iron fist, understanding that true peace could only be achieved through absolute supremacy. He walked fearlessly through the shadowy valleys of treachery, unafraid to shoulder the sins of the world if it meant saving it from complete annihilation. His presence on the battlefield was a harbinger of doom for his enemies, a monolithic shadow that eclipsed the sun.\n\nTo some, he was a treacherous demon who defied the mandate of heaven; to others, he was a visionary savior who brought order to a fractured realm. He was the Supreme Architect of Wei, a majestic WARLORD who carved his legacy into the very bedrock of history. His name became synonymous with brilliance and terror, an eternal echo in the annals of time.",
           "vi": "Trong một kỷ nguyên mà bầu trời rơi lệ và mặt đất nứt nẻ dưới sức nặng của những cuộc chiến tranh vô tận, một vị titan độc tôn đã trỗi dậy từ đống tro tàn của một triều đại đang hấp hối. Tào Tháo không chỉ là một phàm nhân; ông là một thế lực của tự nhiên, một kẻ thực dụng mà tham vọng được rèn giũa trong ngọn lửa tăm tối tuyệt đối của sự phản bội và hỗn mang. Trí tuệ của ông là một cơn bão tàn khốc, mang sức mạnh của hàng triệu thanh gươm vung lên sẵn sàng phá nát những ảo tưởng cổ hủ của một thế giới đang mục nát.\n\nChối bỏ những đức hạnh đạo đức giả và đang sụp đổ của thời đại, ông chọn cách nhào nặn thực tại bằng một bàn tay sắt, thấu hiểu rằng hòa bình thực sự chỉ có thể đạt được thông qua sự thống trị tuyệt đối. Ông bước đi không sợ hãi qua những thung lũng bóng tối của sự phản trắc, không ngại gánh vác tội lỗi của thế giới nếu điều đó đồng nghĩa với việc cứu nó khỏi sự hủy diệt hoàn toàn. Sự hiện diện của ông trên chiến trường là điềm báo của sự tận diệt đối với kẻ thù, một cái bóng khổng lồ che khuất cả mặt trời.\n\nĐối với một số người, ông là một ác quỷ phản trắc dám thách thức thiên mệnh; đối với những người khác, ông là một đấng cứu thế mang tầm nhìn xa trông rộng, người đã mang lại trật tự cho một vương quốc vỡ vụn. Ông là Kiến trúc sư Tối cao của nhà Ngụy, một vị quân phiệt tráng lệ đã tạc khắc di sản của mình vào chính nền móng của lịch sử. Tên tuổi của ông trở thành đồng nghĩa với sự chói lọi và nỗi khiếp sợ, một tiếng vang vĩnh cửu trong những biên niên sử của thời gian."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1599839619722-39751411ea63?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -199,7 +205,8 @@ export const characters = [
         "text": {
           "en": "Armed with a tactical genius that bewildered the greatest scholars of his generation, Cao Cao systematically crushed rebellions, annihilated rival warlords, and manipulated the very Emperor to legitimize his supreme authority. He famously cast aside outdated morality in favor of raw, undeniable talent, gathering the most brilliant minds and fearsome generals under his formidable banner regardless of their origins. His court was a sanctuary for the extraordinarily gifted, a crucible where loyalty was earned through merit and strength.\n\nThrough RUTHLESS decrees and revolutionary agricultural reforms, he stabilized the chaotic northern plains, turning war-torn wastelands into thriving bastions of power. Every drop of blood spilled by his enemies served to water the unbreakable foundation of his empire. His campaigns were symphonies of destruction and calculated precision, sweeping across the land like an unstoppable crimson tide that devoured everything in its path.\n\nYet, beneath the armor of a RUTHLESS conqueror beat the heart of a profound poet. He penned verses that captured the fleeting nature of life and the melancholy of unfulfilled ambitions, revealing a complex soul burdened by the heavy crown he forged. His dual nature—the brutal WARLORD and the reflective artist—cemented his status as an unparalleled sovereign who commanded both the battlefield and the realm of thoughts.",
           "vi": "Được trang bị một tài năng chiến thuật khiến những học giả vĩ đại nhất trong thế hệ của ông phải bối rối, Tào Tháo đã đè bẹp các cuộc nổi loạn một cách có hệ thống, tiêu diệt các lãnh chúa đối địch, và thao túng chính Hoàng đế để hợp pháp hóa quyền uy tuyệt đối của mình. Ông nổi tiếng với việc gạt bỏ thứ đạo đức lỗi thời để nhường chỗ cho tài năng thuần túy, không thể chối cãi, tập hợp những bộ xuất chúng nhất và những danh tướng đáng sợ nhất dưới ngọn cờ oai phong của mình bất chấp xuất thân của họ. Triều đình của ông là thánh địa của những kẻ có tài năng phi thường, một thử lửa nơi lòng trung thành được đền đáp bằng thực lực và sức mạnh.\n\nThông qua những sắc lệnh tàn nhẫn và những cải cách nông nghiệp mang tính cách mạng, ông đã bình định các đồng bằng phương bắc đầy hỗn loạn, biến những vùng đất hoang tàn vì chiến tranh thành những pháo đài quyền lực thịnh vượng. Mỗi giọt máu đổ xuống của kẻ thù đều phục vụ cho việc tưới tiêu nền móng không thể phá vỡ của đế chế của ông. Các chiến dịch của ông là những bản giao hưởng của sự tàn phá và sự chính xác có tính toán, càn quét khắp đất nước như một cơn thủy triều đỏ thẫm không thể cản bước, nuốt chửng mọi thứ trên đường đi.\n\nTuy nhiên, bên dưới bộ giáp của một nhà chinh phạt tàn nhẫn lại là nhịp đập của một trái tim thi sĩ sâu sắc. Ông đã viết nên những vần thơ ghi lại bản chất phù du của cuộc đời và nỗi u sầu của những tham vọng dang dở, hé lộ một tâm hồn phức tạp oằn mình dưới sức nặng của chiếc vương miện do chính ông tạo ra. Bản chất kép của ông—vị quân phiệt tàn bạo và người nghệ sĩ trầm tư—đã củng cố vị thế của ông như một bậc đế vương có một không hai, người thống trị cả chiến trường lẫn vương quốc của những tư tưởng."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -209,7 +216,8 @@ export const characters = [
         "text": {
           "en": "History is often written by the victors and colored by the romanticists, leaving Cao Cao to be branded a treacherous villain by those unable to comprehend his colossal burden. Yet, the immortal truth remains: he was the majestic architect of a unified future, a ruler who embraced the darkness so his empire could see the light. His chillingly brilliant declaration, 'I would rather betray the world than let the world betray me,' stands as the ultimate anthem of a man who bent fate to his iron will.\n\nThe foundations he laid outlived his mortal coil, paving the way for the eventual reunification of the shattered empire. He did not seek to be loved; he sought to be absolute, an unstoppable tempest that violently cleansed the decay of the old world. His life was a roaring inferno of ambition, intellect, and unapologetic power that continues to captivate the imaginations of generations.\n\nIn the end, Cao Cao remains a monolithic figure in the pantheon of history, a legendary conqueror whose towering shadow outshines the brightest stars. He is the eternal paradox of ruthlessness and majesty, a titan whose name will forever strike both fear and awe into the hearts of all who hear it.",
           "vi": "Lịch sử thường được viết bởi những kẻ chiến thắng và được tô điểm bởi những kẻ mộng mơ, khiến Tào Tháo bị gán mác là một tên ác tặc phản trắc bởi những người không thể thấu hiểu được gánh nặng khổng lồ của ông. Thế nhưng, sự thật bất tử vẫn tồn tại: ông là vị kiến trúc sư tráng lệ của một tương lai thống nhất, một nhà trị vì sẵn sàng ôm trọn lấy bóng tối để đế chế của mình có thể nhìn thấy ánh sáng. Lời tuyên bố chói lọi và ớn lạnh của ông, 'Ta thà phụ thiên hạ chứ không để thiên hạ phụ ta,' sừng sững như một bản hùng ca tối thượng của một người đàn ông đã bẻ cong định mệnh bằng ý chí sắt đá của mình.\n\nNhững nền móng mà ông vạch ra đã tồn tại lâu hơn thân xác phàm tục của ông, mở đường cho sự thống nhất cuối cùng của một đế chế đã vỡ nát. Ông không mưu cầu được yêu thương; ông mưu cầu sự tuyệt đối, một cơn bão táp không thể cản bước đã gột rửa một cách bạo liệt sự thối nát của thế giới cũ. Cuộc đời ông là một ngọn lửa rực cháy của tham vọng, trí tuệ và quyền lực không hối lỗi, tiếp tục làm say đắm trí tưởng tượng của vô số thế hệ.\n\nCuối cùng, Tào Tháo vẫn là một nhân vật vĩ đại trong đền thờ của lịch sử, một nhà chinh phạt huyền thoại mà cái bóng sừng sững của ông làm lu mờ cả những vì sao sáng nhất. Ông là nghịch lý vĩnh cửu của sự tàn nhẫn và vẻ uy nghi, một vị titan mà tên tuổi của ông sẽ mãi mãi gieo rắc cả nỗi khiếp sợ lẫn sự kính úy vào trái tim của tất cả những ai nghe đến."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1615598587178-5777bd4ba8fa?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -276,7 +284,8 @@ export const characters = [
         "text": {
           "en": "Amidst the deafening roar of arrogant warlords and the tragic clash of shattered empires, one man chose a remarkably different path—a path paved not with iron and terror, but with boundless COMPASSION and unyielding virtue. Liu Bei, a humble weaver of straw sandals who carried the dormant blood of emperors, rose like an indestructible beacon of hope during the darkest epoch of Chinese history. He was a majestic leader who defied the cruel conventions of his time, holding onto his ideals when the rest of the world had surrendered to madness.\n\nWhile others sought to conquer territories through fear and bloodshed, Liu Bei aimed for something far more challenging and eternal: the conquest of the human heart. His presence inspired an unwavering loyalty that money and power could never buy, drawing warriors, scholars, and commoners alike to his noble cause. He was the living embodiment of benevolence, a mortal whose spiritual gravity was capable of pulling an entire fractured nation toward the promise of RESTORATION.\n\nHis journey was a breathtaking saga of resilience, navigating through catastrophic defeats and heart-wrenching betrayals without ever losing his moral compass. Liu Bei stood as a towering monument of righteousness, a sovereign whose tear-stained visage carried the collective sorrows of the people, and whose sword pointed the way toward a future built on honor and true BROTHERHOOD.",
           "vi": "Giữa tiếng gầm rống chói tai của những lãnh chúa kiêu ngạo và sự va chạm bi tráng của những đế chế vỡ vụn, có một người đàn ông đã chọn một con đường khác biệt đáng kinh ngạc—một con đường không được lát bằng sắt thép và nỗi kinh hoàng, mà bằng lòng trắc ẩn vô bờ bến và đức hạnh không thể lay chuyển. Lưu Bị, một người thợ đan giày cỏ khiêm nhường mang trong mình dòng máu đang ngủ yên của những bậc đế vương, đã trỗi dậy như một ngọn hải đăng hy vọng không thể phá hủy trong kỷ nguyên tăm tối nhất của lịch sử Trung Hoa. Ông là một nhà lãnh đạo tráng lệ, người đã thách thức những lề thói tàn nhẫn của thời đại mình, kiên định với lý tưởng của bản thân khi phần còn lại của thế giới đã đầu hàng trước sự điên loạn.\n\nTrong khi những kẻ khác mưu cầu chinh phục các vùng đất thông qua nỗi sợ hãi và sự đổ máu, Lưu Bị lại hướng tới một điều khó khăn và vĩnh cửu hơn rất nhiều: sự chinh phục nhân tâm. Sự hiện diện của ông khơi dậy một lòng trung thành kiên định mà tiền bạc và quyền lực không bao giờ có thể mua được, thu hút các chiến binh, học giả cũng như thường dân đến với lý tưởng cao cả của ông. Ông là hiện thân sống của lòng nhân từ, một người phàm mang lực hấp dẫn tâm linh có khả năng kéo cả một quốc gia đang rạn nứt hướng về lời hứa của sự phục hưng.\n\nHành trình của ông là một bản anh hùng ca ngoạn mục về sự kiên cường, vượt qua những thất bại thảm khốc và những sự phản bội đau thấu tâm can mà không bao giờ đánh mất kim chỉ nam đạo đức của mình. Lưu Bị sừng sững như một tượng đài vĩ đại của sự chính nghĩa, một bậc đế vương mà khuôn mặt vương đầy nước mắt đã gánh vác những nỗi đau khổ chung của bá tánh, và thanh gươm của ông chỉ lối đến một tương lai được xây dựng trên danh dự và tình huynh đệ chân chính."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -286,7 +295,8 @@ export const characters = [
         "text": {
           "en": "The legendary epic of Shu Han began under the breathtakingly vibrant, blossoming boughs of a peach garden, where a sacred and unbreakable oath bound three disparate warriors to a single, impossible dream. Liu Bei, alongside the peerless Guan Yu and the thunderous Zhang Fei, swore a BROTHERHOOD that would defy the ravages of time and the machinations of tyrants. This monumental vow became the emotional bedrock of an empire, transforming a ragtag militia into a formidable force of destiny that shook the heavens.\n\nThroughout his grueling campaigns, Liu Bei never abandoned his deeply rooted benevolence, even when it placed his own life in mortal peril. When fleeing from the devastating wrath of his enemies, he wept openly for the suffering of the commoners, choosing to lead hundreds of thousands of refugees through the fires of war rather than abandon them to slaughter. This profound empathy cemented a loyalty so absolute that the greatest mind of the era, Zhuge Liang, pledged his entire existence to Liu Bei's radiant vision.\n\nAgainst overwhelming odds and insurmountable adversity, he carved out the Kingdom of Shu, rising to become an Emperor not by stepping on the skulls of the innocent, but by lifting them from the ashes. His reign was characterized by a desperate, beautiful struggle to restore justice and the Han legacy, proving that a leader's true strength lies in their ability to love their people unconditionally.",
           "vi": "Bản anh hùng ca huyền thoại của nhà Thục Hán bắt đầu dưới những cành hoa rực rỡ và sống động đến nghẹt thở của một vườn đào, nơi một lời thề thiêng liêng và không thể phá vỡ đã gắn kết ba chiến binh khác biệt vào một giấc mơ không tưởng duy nhất. Lưu Bị, cùng với một Quan Vũ vô song và một Trương Phi mạnh như sấm sét, đã thề kết nghĩa huynh đệ, điều sẽ thách thức sự tàn phá của thời gian và những mưu đồ của các bạo chúa. Lời thề vĩ đại này đã trở thành nền tảng cảm xúc của một đế chế, biến một đội dân quân chắp vá thành một lực lượng đáng gờm của định mệnh làm rung chuyển cả bầu trời.\n\nTrong suốt các chiến dịch gian khổ của mình, Lưu Bị không bao giờ vứt bỏ lòng nhân từ bám rễ sâu sắc của mình, ngay cả khi nó đặt mạng sống của chính ông vào vòng nguy hiểm chết người. Khi chạy trốn khỏi cơn thịnh nộ tàn khốc của kẻ thù, ông đã khóc nức nở vì nỗi thống khổ của bá tánh, chọn cách dẫn dắt hàng trăm nghìn người tị nạn băng qua ngọn lửa chiến tranh thay vì bỏ mặc họ cho sự tàn sát. Sự đồng cảm sâu sắc này đã thắt chặt một lòng trung thành tuyệt đối đến mức bộ óc vĩ đại nhất thời đại, Gia Cát Lượng, đã thề nguyện cống hiến toàn bộ sự tồn tại của mình cho tầm nhìn rạng rỡ của Lưu Bị.\n\nBất chấp những tỷ lệ cược áp đảo và những nghịch cảnh không thể vượt qua, ông đã gầy dựng nên Vương quốc Thục, vươn lên trở thành một vị Hoàng đế không phải bằng cách dẫm đạp lên hộp sọ của những người vô tội, mà bằng cách nâng họ lên từ đống tro tàn. Triều đại của ông được đặc trưng bởi một cuộc đấu tranh tuyệt vọng, tuyệt đẹp nhằm khôi phục công lý và di sản của nhà Hán, chứng minh rằng sức mạnh đích thực của một nhà lãnh đạo nằm ở khả năng yêu thương thần dân của mình một cách vô điều kiện."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -296,12 +306,15 @@ export const characters = [
         "text": {
           "en": "Liu Bei did not live long enough to witness the golden age of a fully restored Han Dynasty, ascending to the heavens with unfulfilled dreams echoing in his heart. Yet, his monumental spirit completely transcended mortal limitations, establishing an immortal legacy that outshines the ephemeral victories of his conqueror rivals. He remains forever the ultimate paragon of righteousness, a tragic but gloriously majestic hero who built an empire from tears, honor, and unbreakable BROTHERHOOD.\n\nIn a historical epoch completely devoured by ruthless wolves and manipulative tyrants, Liu Bei demonstrated that the radiant, burning light of a noble heart cannot be extinguished by the darkness of war. His story is a perpetual testament to the indomitable nature of the human spirit, teaching generations that it is better to lose with honor than to win through treachery.\n\nAs long as tales of heroism are told, the name Liu Bei will be whispered with profound reverence. He is the eternal Sovereign of COMPASSION, the emperor who conquered history not with the sword, but with the boundless depths of his humanity.",
           "vi": "Lưu Bị không sống đủ lâu để chứng kiến thời kỳ hoàng kim của một triều đại nhà Hán được phục hưng hoàn toàn, thăng thiên với những giấc mơ dang dở còn vang vọng trong trái tim ông. Tuy nhiên, tinh thần vĩ đại của ông đã hoàn toàn vượt qua những giới hạn của người phàm, thiết lập nên một di sản bất tử làm lu mờ cả những chiến thắng phù du của các đối thủ chinh phạt. Ông mãi mãi là một mẫu mực tối thượng của sự chính nghĩa, một anh hùng bi tráng nhưng tráng lệ vinh quang, người đã xây dựng một đế chế từ nước mắt, danh dự và tình huynh đệ không thể chia lìa.\n\nTrong một kỷ nguyên lịch sử hoàn toàn bị nuốt chửng bởi những bầy sói tàn nhẫn và những bạo chúa đầy mưu mô, Lưu Bị đã chứng minh rằng ánh sáng rực rỡ, bùng cháy của một trái tim cao cả không thể bị dập tắt bởi bóng tối của chiến tranh. Câu chuyện của ông là một minh chứng vĩnh cửu cho bản chất bất khuất của tinh thần con người, dạy cho các thế hệ rằng thà thất bại trong danh dự còn hơn là chiến thắng nhờ sự phản trắc.\n\nChừng nào những câu chuyện về chủ nghĩa anh hùng còn được kể lại, cái tên Lưu Bị sẽ còn được thì thầm với một sự tôn kính sâu sắc. Ông là Bậc Đế vương Nhân trắc vĩnh cửu, vị hoàng đế đã chinh phục lịch sử không phải bằng gươm đao, mà bằng chiều sâu vô tận của tính bản thiện trong con người ông."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -371,7 +384,8 @@ export const characters = [
         "text": {
           "en": "Masking his formidable power behind comical disguises and ECCENTRIC bravado, he waged a hidden war against the Jakanja clan. Operating from the shadows, Shurikenger observed, guided, and protected the Hurricanegers, emerging only to unleash devastating tempests of combat mastery. When the skies darkened with the threat of colossal beasts, he summoned the mighty Tenkuujin and ignited his Fire Mode, burning fiercely as a beacon of unstoppable justice.",
           "vi": "Che giấu sức mạnh vô song của mình đằng sau những màn cải trang hài hước và sự bốc đồng lập dị, anh đã tiến hành một cuộc chiến ngầm chống lại gia tộc Jakanja. Hoạt động từ trong bóng tối, Shurikenger quan sát, dẫn dắt và bảo vệ các Hurricaneger, chỉ xuất hiện để giải phóng những cơn bão táp tàn phá của bậc thầy chiến đấu. Khi bầu trời sầm tối bởi mối đe dọa từ những con quái thú khổng lồ, anh triệu hồi Thiên Không Thần dũng mãnh và kích hoạt Chế độ Hỏa lực, bùng cháy dữ dội như một ngọn hải đăng của công lý không thể cản bước."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1578589318433-39b51156cb14?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -381,7 +395,8 @@ export const characters = [
         "text": {
           "en": "His saga concluded in a blaze of heartbreaking glory, laying down his life so that hope could endure. Shurikenger proved that an epic hero does not need a face to be remembered, nor a name to be revered. His legacy is the green flash of a fading star—a breathtaking and immortal SACRIFICE that will forever bloom in the hearts of those he saved, as beautifully as a nameless flower in the spring.",
           "vi": "Bản trường ca của anh đã khép lại trong ngọn lửa của một vinh quang bi tráng và đau lòng, đánh đổi mạng sống của mình để hy vọng có thể tiếp tục tồn tại. Shurikenger đã chứng minh rằng một người anh hùng vĩ đại không cần một khuôn mặt để được nhớ tới, cũng không cần một cái tên để được tôn thờ. Di sản của anh là tia sáng xanh của một vì sao đang vụt tắt—một sự hy sinh ngoạn mục và bất tử sẽ mãi mãi nở rộ trong trái tim những người anh đã cứu mạng, đẹp đẽ như một nụ hoa không tên giữa mùa xuân."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -462,7 +477,8 @@ export const characters = [
         "text": {
           "en": "Armed with an intellect so vast it borders on the supernatural, Holmes deciphers the universe from a single speck of dust. He operates with cold, surgical precision, stripping away the impossible until only the devastating truth remains. Though haunted by the isolating burden of his own genius and driven to the brink of madness by the mundane, his mind remains an unstoppable force—a relentless machine of FORENSIC brilliance that single-handedly birthed modern criminology.",
           "vi": "Được trang bị một trí tuệ bao la đến mức tiệm cận với siêu nhiên, Holmes giải mã cả vũ trụ chỉ từ một hạt bụi nhỏ nhoi. Ông hoạt động với một sự chính xác lạnh lùng và phẫu thuật, tước bỏ đi những điều không thể cho đến khi chỉ còn lại sự thật tàn khốc. Dù bị ám ảnh bởi gánh nặng cô lập của chính sự thiên tài và bị đẩy đến bờ vực điên loạn bởi những điều tầm thường, tâm trí ông vẫn là một sức mạnh không thể ngăn cản—một cỗ máy không khoan nhượng của sự chói sáng trong pháp y đã một tay khai sinh ra tội phạm học hiện đại."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1620063268832-60cc07b4f53d?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -472,7 +488,8 @@ export const characters = [
         "text": {
           "en": "Sherlock Holmes is the immortal zenith of human intellect, a majestic symbol that reason will forever conquer deception. Long after the Victorian fog has cleared, his silhouette remains engraved upon the very fabric of history. He is the eternal archetype of the seeker of truth, standing as a glorious monument to the power of a sharply focused mind—a legend whose brilliance will never truly fade.",
           "vi": "Sherlock Holmes là đỉnh cao bất tử của trí tuệ nhân loại, một biểu tượng tráng lệ cho thấy lý trí sẽ vĩnh viễn đánh bại mọi sự dối trá. Rất lâu sau khi làn sương mù thời Victoria tan đi, hình bóng của ông vẫn được khắc sâu vào chính tấm màn của lịch sử. Ông là nguyên mẫu vĩnh cửu của kẻ tìm kiếm sự thật, sừng sững như một tượng đài vinh quang về sức mạnh của một tâm trí tập trung cao độ—một huyền thoại mà ánh sáng chói lọi của ông sẽ không bao giờ thực sự lụi tàn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1616422285623-14669528d2d6?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -551,7 +568,8 @@ export const characters = [
         "text": {
           "en": "Sitting motionless at the center of a boundless, invisible web, Moriarty commands an empire of extortion, assassination, and terror without ever dirtying his own hands. Every theft, every murder, every inexplicable disaster is but a calculated move on his grand chessboard. He operates with chilling detachment and flawless precision, orchestrating chaos with a mathematical perfection that makes the governments of Europe tremble before his unseen power.",
           "vi": "Ngồi bất động ở trung tâm của một mạng nhện tàng hình và vô biên, Moriarty điều khiển một đế chế của tống tiền, ám sát và khủng bố mà không bao giờ tự mình nhúng chàm. Mỗi vụ trộm, mỗi vụ giết người, mỗi thảm họa không thể giải thích đều chỉ là một nước đi có tính toán trên bàn cờ vĩ đại của hắn. Hắn hoạt động với sự xa lánh lạnh gáy và độ chính xác hoàn mỹ, dàn dựng sự hỗn loạn bằng một sự hoàn hảo mang tính toán học khiến các chính phủ châu Âu phải run sợ trước quyền lực vô hình của hắn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1600704406184-7a136bfb1b74?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -561,12 +579,14 @@ export const characters = [
         "text": {
           "en": "The legendary confrontation at the Reichenbach Falls was not merely a battle of men, but a clash of titans determining the fate of the world. Moriarty plunged into the abyss, yet his shadow forever haunts the annals of history. He remains the majestic pinnacle of villainy—a magnificent and terrifying testament to what happens when a supreme intellect is utterly divorced from a human soul.",
           "vi": "Cuộc đối đầu huyền thoại tại Thác Reichenbach không chỉ đơn thuần là một trận chiến giữa hai người đàn ông, mà là sự va chạm của những vị titan quyết định số phận của thế giới. Moriarty đã gieo mình xuống vực thẳm, nhưng cái bóng của hắn mãi mãi ám ảnh những biên niên sử. Hắn vẫn là đỉnh cao tráng lệ của sự phản diện—một minh chứng vĩ đại và đáng sợ cho những gì sẽ xảy ra khi một trí tuệ tối cao hoàn toàn bị tước đoạt khỏi một linh hồn con người."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600704406184-7a136bfb1b74?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1600704406184-7a136bfb1b74?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -634,7 +654,8 @@ export const characters = [
         "text": {
           "en": "Forged in the agonizing crucible of guilt and loss following the tragic death of his beloved uncle, Peter embraced a harrowing mandate: 'With great power, there must also come great RESPONSIBILITY.' He clashes with monstrous villains and cosmic threats while simultaneously fighting the crushing battles of poverty, heartbreak, and rejection. Bleeding, battered, and often unappreciated, he consistently sacrifices his own happiness to shield a city that rarely says thank you.",
           "vi": "Được rèn giũa trong vạc dầu đau đớn của sự dằn vặt và mất mát sau cái chết bi thảm của người bác kính yêu, Peter đã gánh vác một sứ mệnh khắc nghiệt: 'Sức mạnh càng lớn, trách nhiệm càng cao.' Cậu va chạm với những ác nhân quái dị và những mối đe dọa vũ trụ trong khi đồng thời phải chiến đấu với những trận chiến nghiền nát của cái nghèo, sự tan vỡ trái tim và sự chối bỏ. Chảy máu, bầm dập và thường xuyên không được trân trọng, cậu liên tục hy sinh hạnh phúc của chính mình để che chở cho một thành phố hiếm khi nói lời cảm ơn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1610408544464-9b04859f7df8?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -644,7 +665,8 @@ export const characters = [
         "text": {
           "en": "Spider-Man transcends the boundaries of masked vigilantism to become a universal beacon of perseverance. He is the spectacular underdog who refuses to stay down, teaching us that true courage is finding the strength to stand back up when the entire world is on your shoulders. In the annals of heroism, his legacy shines brightly—not because he cannot fall, but because he will forever rise, the ultimate protector of the NEIGHBORHOOD.",
           "vi": "Spider-Man đã vượt qua những ranh giới của những kẻ hành hiệp đeo mặt nạ để trở thành một ngọn hải đăng toàn vũ trụ về lòng kiên trì. Cậu là kẻ yếu thế ngoạn mục kiên quyết không chịu gục ngã, dạy chúng ta rằng lòng dũng cảm đích thực là tìm thấy sức mạnh để đứng dậy khi cả thế giới đang đè nặng trên đôi vai. Trong biên niên sử của chủ nghĩa anh hùng, di sản của cậu tỏa sáng rực rỡ—không phải vì cậu không thể vấp ngã, mà vì cậu sẽ vĩnh viễn đứng lên, người bảo vệ tối thượng của mọi khu phố."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1534809027769-6240033c4eb8?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -654,7 +676,8 @@ export const characters = [
         "text": {
           "en": "'A tiger dies and leaves its skin; a man dies and leaves his name' — mortal flesh may fade into the sands of time, but the LEGACY one leaves behind echoes eternally in the hearts of the living. For Iron Man, what he bequeathed to the world was not merely an arsenal of cutting-edge armors or earth-shattering triumphs, but an undying spirit of absolute sacrifice for humanity. That sacred torch and immortal LEGACY have been passed down to Spider-Man — the young hero carrying a burning aspiration to continue the glorious yet weighted path of his illustrious MENTOR.",
           "vi": "'Cọp chết để da, người ta chết để tiếng' – thân xác phàm trần rồi sẽ hoai mục theo thời gian, nhưng những giá trị và di sản (LEGACY) mà con người để lại sẽ trường tồn vĩnh cửu trong lòng nhân thế. Đối với Iron Man, thứ ông trao lại cho thế gian không chỉ đơn thuần là những bộ chiến giáp tối tân hay những chiến công hiển hách làm rung chuyển vũ trụ, mà là tinh thần hy sinh cao cả vì bình yên của nhân loại. Ngọn lửa thiêng liêng và di sản (LEGACY) bất tử ấy đã được truyền vào tay Spider-Man – chàng siêu anh hùng trẻ tuổi mang trong tim khát vọng rực rỡ, tiếp bước con đường vinh quang nhưng đầy trọng trách của người thầy (MENTOR) vĩ đại."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1635805737707-575885ab0820?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -741,7 +764,8 @@ export const characters = [
         "text": {
           "en": "Beneath his sophisticated exterior beats the heart of a savage CANNIBAL who culls the human herd with the artistry of a master chef. He does not kill blindly; he operates with a terrifying philosophical code, dismantling his victims both physically and psychologically. Even when caged behind thick security glass, his mind remains an invincible weapon, effortlessly manipulating FBI agents and seasoned detectives, twisting their deepest traumas into a horrific game of intellectual dominance.",
           "vi": "Ẩn dưới vẻ ngoài tinh tế của hắn nhịp đập trái tim của một kẻ ăn thịt người tàn bạo, kẻ thanh lọc bầy đàn nhân loại với nghệ thuật của một siêu đầu bếp. Hắn không giết người mù quáng; hắn hoạt động với một bộ quy tắc triết học đáng sợ, mổ xẻ các nạn nhân của mình cả về thể xác lẫn tâm lý. Ngay cả khi bị nhốt sau tấm kính an ninh dày cộm, tâm trí của hắn vẫn là một vũ khí vô địch, dễ dàng thao thực các đặc vụ FBI và những thám tử dày dạn kinh nghiệm, biến những vết thương lòng sâu kín nhất của họ thành một trò chơi kinh hoàng của sự thống trị trí tuệ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1601075727195-2c8c0e18efc2?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -751,12 +775,14 @@ export const characters = [
         "text": {
           "en": "Hannibal Lecter will forever reign as the most mesmerizing monster in the pantheon of literature—a creature of elegant nightmares who devours the soul before he even touches the flesh. He is a dark, majestic paradox, warning humanity that sheer brilliance and utter savagery can flawlessly coexist. His legacy is an immortal, spine-chilling masterpiece that will forever haunt the darkest corners of the human mind.",
           "vi": "Hannibal Lecter sẽ mãi mãi ngự trị như một con quái vật mê hoặc nhất trong đền thờ của văn học—một sinh vật của những cơn ác mộng thanh lịch, kẻ nuốt chửng linh hồn ngay cả trước khi hắn chạm vào thể xác. Hắn là một nghịch lý đen tối và tráng lệ, cảnh báo nhân loại rằng sự chói sáng tuyệt đối và sự man rợ tột cùng có thể cùng tồn tại một cách hoàn mỹ. Di sản của hắn là một kiệt tác bất tử, lạnh sống lưng sẽ mãi mãi ám ảnh những góc khuất tăm tối nhất trong tâm trí con người."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1522093006610-8646b9a896d8?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1601075727195-2c8c0e18efc2?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1601075727195-2c8c0e18efc2?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -827,7 +853,8 @@ export const characters = [
         "text": {
           "en": "Knowing he could never wield a broadsword to vanquish his foes, Tyrion forged his INTELLECT into an instrument of absolute devastation. His mind became a blazing forge, his tongue a lethal blade. In the treacherous game of thrones, he outmaneuvered colossal warriors and cunning kings alike, orchestrating defenses and laying traps with the sheer brilliance of a grandmaster playing with human lives.",
           "vi": "Biết rằng mình không bao giờ có thể vung gươm báu để tiêu diệt kẻ thù, Tyrion đã rèn luyện trí tuệ của mình thành một thứ vũ khí hủy diệt tuyệt đối. Tâm trí anh trở thành một lò rèn rực lửa, cái lưỡi của anh là một lưỡi dao chí mạng. Trong trò chơi vương quyền đầy hiểm ác, anh đã vượt mặt cả những chiến binh khổng lồ lẫn những vị vua xảo quyệt, dàn xếp những cuộc phòng thủ và giăng bẫy bằng sự xuất chúng của một kỳ thủ vĩ đại thao túng sinh mạng con người."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1627943588975-f936f2b4b45f?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -837,12 +864,14 @@ export const characters = [
         "text": {
           "en": "Through endless betrayal and the venom of his own kin, Tyrion's spirit remained unbroken. He is the reluctant savior of a world that despises him, a testament to the undeniable truth that true magnitude is not determined by stature. His legacy is etched in fire and gold—a colossal INTELLECT that humbled an era of giants.",
           "vi": "Trải qua vô vàn sự phản bội và nọc độc từ chính những người ruột thịt, tinh thần của Tyrion vẫn không hề rạn nứt. Anh là vị cứu tinh bất đắc dĩ của một thế giới luôn ruồng rẫy anh, một minh chứng cho chân lý không thể chối cãi rằng sự vĩ đại thực sự không được định đoạt bởi vóc dáng. Di sản của anh được khắc tạc bằng ngọn lửa và vàng ròng—một trí tuệ khổng lồ đã khuất phục cả một kỷ nguyên của những gã khổng lồ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1599305090598-fe179d501227?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1627943588975-f936f2b4b45f?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1627943588975-f936f2b4b45f?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -914,7 +943,8 @@ export const characters = [
         "text": {
           "en": "In the suffocating depths of a cave, with shrapnel clawing at his dying heart, a god of war was reborn. Armed with nothing but scraps and an indomitable will, he built a miraculous core of radiant energy to defy death itself. The armor he forged was not just a weapon of escape, but the chrysalis of a savior. From the blood-stained dust, Iron Man took flight, tearing through the heavens with a furious roar of redemption.",
           "vi": "Nơi đáy sâu ngột ngạt của một hang động, với những mảnh đạn đang xé nát trái tim thoi thóp, một vị thần chiến tranh đã tái sinh. Không có gì ngoài đống phế liệu và một ý chí bất khuất, anh đã chế tạo ra một lõi năng lượng rực rỡ và kỳ diệu để thách thức chính cái chết. Bộ giáp anh rèn ra không chỉ là vũ khí để trốn thoát, mà là lớp kén của một vị cứu tinh. Từ lớp bụi nhuốm máu, Người Sắt đã cất cánh bay lên, xé toạc bầu trời bằng một tiếng gầm phẫn nộ của sự chuộc lỗi."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1508215885820-4585e56109f8?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -924,12 +954,14 @@ export const characters = [
         "text": {
           "en": "Tony Stark rewrote his own destiny, shedding the armor of his ego to become the Earth's ultimate shield. He stood unflinching against titans and cosmic tyrants, proving that beneath the cold, impenetrable metal beat a heart warmer and braver than the sun. His ultimate sacrifice echoed across the universe, an immortal testament that even the most flawed soul can spark the light of eternal salvation.",
           "vi": "Tony Stark đã tự viết lại định mệnh của chính mình, trút bỏ lớp áo giáp của cái tôi để trở thành tấm khiên tối thượng của Trái Đất. Anh đứng hiên ngang trước những gã khổng lồ và những tên bạo chúa vũ trụ, chứng minh rằng bên dưới lớp kim loại lạnh lẽo, bất khả xâm phạm kia là một trái tim còn ấm áp và quả cảm hơn cả ánh mặt trời. Sự hy sinh cao cả nhất của anh đã vang vọng khắp cõi vũ trụ, một minh chứng bất diệt rằng ngay cả một linh hồn nhiều khiếm khuyết nhất cũng có thể thắp lên ánh sáng của sự cứu rỗi vĩnh hằng."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1635863138275-d9b33299680b?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1508215885820-4585e56109f8?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1508215885820-4585e56109f8?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -1003,7 +1035,8 @@ export const characters = [
         "text": {
           "en": "With a flick of his feather fan, he summoned the eastern winds and commanded the elements as if they were his foot soldiers. Zhuge Liang was not merely a tactician; he was a celestial maestro conducting a grand symphony of war. Through brilliant deceptions and miraculous stratagems, he decimated overwhelming legions, turning the hubris of mighty warlords into ashes while building an empire out of sheer loyalty and foresight.",
           "vi": "Chỉ với một cái phẩy quạt lông vũ, ông có thể gọi về gió đông và sai khiến đất trời như những quân tốt trên bàn cờ. Gia Cát Lượng không chỉ là một nhà mưu lược; ông là một nhạc trưởng tối cao đang điều khiển một bản giao hưởng chiến tranh bi tráng. Bằng những chiến thuật đánh lừa xuất chúng và những mưu kế thần kỳ, ông đã nghiền nát những đạo quân áp đảo, biến sự kiêu ngạo của những lãnh chúa hùng mạnh thành tro bụi trong khi xây dựng nên một đế chế bằng lòng trung thành và tầm nhìn tuyệt đối."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1598974351656-7ee3fdf396cb?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1013,12 +1046,14 @@ export const characters = [
         "text": {
           "en": "He gave his blood, his brilliant mind, and his final breath to a singular cause, bending his back to the ultimate task until the bitter end. Though he passed away amidst the sorrowful winds of Wuzhang Plains, his name was carved into the pillars of history. Zhuge Liang remains the paragon of absolute DEVOTION and cosmic intellect, an eternal legend whose shadow still humbles the greatest minds of humanity.",
           "vi": "Ông đã hiến dâng máu xương, trí tuệ lỗi lạc và cả hơi thở cuối cùng cho một lý tưởng duy nhất, cúc cung tận tụy đến hơi thở cuối cùng. Dù đã ra đi giữa những cơn gió xót xa nơi gò Ngũ Trượng, tên tuổi của ông đã được khắc sâu vào những cột mốc của lịch sử. Gia Cát Lượng mãi mãi là hình mẫu tuyệt đối của lòng tận trung và trí tuệ sánh ngang vũ trụ, một huyền thoại bất diệt mà cái bóng của ông vẫn làm cúi đầu những bộ óc vĩ đại nhất của nhân loại."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1541625946914-1188339b6e31?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1598974351656-7ee3fdf396cb?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1598974351656-7ee3fdf396cb?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -1088,7 +1123,8 @@ export const characters = [
         "text": {
           "en": "When the invincible northern legions swept down like a suffocating dark cloud, threatening to crush the south, Zhou Yu stood unyielding against the storm. With a brilliance that bordered on the divine, he orchestrated the legendary Battle of Red Cliffs. He unleashed an apocalyptic firestorm upon the waters, reducing Cao Cao's majestic armada to a floating graveyard of embers. In a single stroke of military genius, he shattered a conqueror's dream and carved the continent into three.",
           "vi": "Khi những đạo quân bất bại từ phương bắc tràn xuống như một đám mây đen chết chóc, đe dọa nghiền nát cả phương nam, Chu Du vẫn đứng hiên ngang, bất khuất trước cơn bão. Với một sự xuất chúng tiệm cận thần thánh, ông đã đạo diễn Trận Xích Bích huyền thoại. Ông đã giải phóng một cơn bão lửa tận thế trên mặt nước, thiêu rụi hạm đội hùng vĩ của Tào Tháo thành một bãi tha ma bồng bềnh của những tàn tro. Chỉ bằng một nét vẽ kỳ tài về quân sự, ông đã đập tan giấc mộng của một kẻ chinh phạt và chia cắt lục địa thành thế chân vạc."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1616140510344-93306dbcbdf0?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1098,12 +1134,14 @@ export const characters = [
         "text": {
           "en": "Though history and tales often bind him in a fierce, agonizing RIVALRY, the truth is that Zhou Yu was a soaring eagle whose ambitions reached beyond the horizon. His life was a brief but intensely burning meteor that forever illuminated the chaotic night of the Han dynasty. The echoes of his grand melodies and strategic triumphs continue to resonate, immortalizing him as a tragic, majestic hero whose fire could never truly be extinguished.",
           "vi": "Mặc dù lịch sử và những giai thoại thường trói buộc ông vào một cuộc kình địch đau đớn và khốc liệt, sự thật là Chu Du vẫn luôn là một con đại bàng sải cánh với những tham vọng vượt xa khỏi đường chân trời. Cuộc đời ông là một ngôi sao băng rực sáng chói lọi nhưng ngắn ngủi, đã vĩnh viễn chiếu sáng màn đêm hỗn loạn của triều đại nhà Hán. Những âm vang từ các bản nhạc hùng tráng và những chiến thắng quân sự vĩ đại của ông vẫn tiếp tục ngân vang, bất tử hóa ông như một vị anh hùng bi tráng và uy nghi, người mà ngọn lửa nhiệt huyết sẽ không bao giờ thực sự tắt lịm."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1628155930542-3c7a64e2c8f1?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1616140510344-93306dbcbdf0?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1616140510344-93306dbcbdf0?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -1173,7 +1211,8 @@ export const characters = [
         "text": {
           "en": "He is no chaotic madman chasing destruction; he is the undisputed emperor of Gotham's UNDERWORLD. Beneath the shimmering chandeliers of the Iceberg Lounge, he pulls the strings of a vast, invisible criminal syndicate. Armed with deadly, weaponized umbrellas and an intellect as sharp as shattered glass, the Penguin turns mobsters, politicians, and killers into mere pawns on his bloody chessboard. He is a gentleman of absolute terror.",
           "vi": "Hắn không phải là một kẻ điên loạn hỗn mang khao khát sự hủy diệt; hắn là vị đại đế không thể tranh cãi của thế giới ngầm Gotham. Bên dưới những ngọn đèn chùm lấp lánh của Iceberg Lounge, hắn giật dây một tập đoàn tội phạm tàng hình khổng lồ. Được trang bị những chiếc ô vũ khí chết người và một trí tuệ sắc bén như mảnh kính vỡ, Chim Cánh Cụt biến những trùm mafia, những chính trị gia và những kẻ sát nhân thành những con tốt đen trên bàn cờ đẫm máu của mình. Hắn là một tên tội phạm quý tộc của nỗi khiếp sợ tột cùng."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1542461386-89d81d7637db?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1183,12 +1222,14 @@ export const characters = [
         "text": {
           "en": "The Penguin stands as a grim monument to greed, ego, and the venom of societal rejection. He proves that the most dangerous beasts are not the ones that howl in the night, but the ones that smile in a tailored tuxedo while holding the world by the throat. Oswald Cobblepot will never be loved, but he has ensured that until the end of time, the name Penguin will command absolute, paralyzed respect.",
           "vi": "Chim Cánh Cụt đứng sừng sững như một đài kỷ niệm tàn khốc của lòng tham, cái tôi và nọc độc của sự chối bỏ từ xã hội. Hắn chứng minh rằng những con thú nguy hiểm nhất không phải là những kẻ gầm hú trong đêm, mà là những kẻ mỉm cười trong bộ tuxedo may đo hoàn hảo trong khi bóp nghẹt yết hầu của cả thế giới. Oswald Cobblepot sẽ không bao giờ được yêu thương, nhưng hắn đã đảm bảo rằng cho đến tận cùng của thời gian, cái tên Chim Cánh Cụt sẽ luôn ra lệnh cho một sự tôn trọng tuyệt đối và tê liệt."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1620882814836-88a2c88cbf39?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1542461386-89d81d7637db?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1542461386-89d81d7637db?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -1256,7 +1297,8 @@ export const characters = [
         "text": {
           "en": "Guided by a strict, unforgiving Code, Dexter channels his homicidal darkness into a twisted crusade against those who escape the law. He is the ultimate stalker, a ghost who drags the most vicious killers into his plastic-wrapped sanctuaries of death. With surgical precision and an emotionless gaze, he exacts a horrifying, undeniable justice. In his kill rooms, he is the judge, the jury, and the flawless executioner.",
           "vi": "Được dẫn dắt bởi một Bộ Quy Tắc nghiêm ngặt và không khoan nhượng, Dexter hướng bóng tối giết chóc của mình thành một cuộc thập tự chinh vặn vẹo chống lại những kẻ đã lọt lưới pháp luật. Anh là kẻ đi săn tối thượng, một bóng ma lôi những tên sát nhân tàn bạo nhất vào những thánh địa tử thần được bọc kín bằng nilon của mình. Với sự chính xác của một bác sĩ phẫu thuật và một ánh nhìn vô cảm, anh thực thi một thứ công lý kinh hoàng và không thể chối cãi. Trong những căn phòng giết chóc của mình, anh là thẩm phán, là bồi thẩm đoàn và là một đao phủ hoàn hảo."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1627546853874-8d4e92a8e886?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1266,12 +1308,14 @@ export const characters = [
         "text": {
           "en": "Dexter's existence is a mesmerizing dance on the razor's edge between a soulless monster and a desperate human craving connection. Every swing of his blade is a battle for his own soul, a terrifying paradox of evil destroying evil. He remains a chilling, majestic figure in the night—a dark defender whose bloody legacy forces us to question the very meaning of justice and the terrifying depths of the human heart.",
           "vi": "Sự tồn tại của Dexter là một vũ điệu mê hoặc trên lưỡi dao cạo giữa một con quái vật vô hồn và một con người tuyệt vọng khao khát sự gắn kết. Mỗi nhát dao vung lên là một cuộc chiến tranh giành chính linh hồn của anh, một nghịch lý đáng sợ khi cái ác tiêu diệt cái ác. Anh mãi là một hình tượng lạnh lùng, uy nghi trong màn đêm—một người bảo vệ bóng tối, kẻ mà di sản đẫm máu của anh buộc chúng ta phải đặt câu hỏi về ý nghĩa thực sự của công lý và những độ sâu kinh hoàng của trái tim con người."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
       "https://images.unsplash.com/photo-1577783935399-6e3e57ea1b5f?q=80&w=1000&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1627546853874-8d4e92a8e886?q=80&w=1000&auto=format&fit=crop"
+      "https://images.unsplash.com/photo-1627546853874-8d4e92a8e886?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -1341,7 +1385,8 @@ export const characters = [
         "text": {
           "en": "With an intellect that outshines the brightest detectives, Lupin wields DISGUISE as his ultimate weapon. He dances through impregnable vaults and guarded manors, transforming seamlessly into a duke, a beggar, or the very inspector hunting him. Every heist is a breathtaking theatrical masterpiece, a flawless performance where he reigns supreme as the brilliant orchestrator, slipping away with the prize and leaving only his mocking, sophisticated signature behind.",
           "vi": "Với một trí tuệ làm lu mờ cả những thám tử sáng giá nhất, Lupin sử dụng sự cải trang như thứ vũ khí tối thượng của mình. Anh khiêu vũ qua những két sắt bất khả xâm phạm và những dinh thự được canh gác cẩn mật, biến hóa một cách mượt mà thành một công tước, một gã ăn mày, hay chính viên thanh tra đang truy lùng anh. Mỗi vụ trộm là một kiệt tác sân khấu ngoạn mục, một màn trình diễn hoàn hảo nơi anh trị vì như một nhà đạo diễn xuất chúng, tẩu thoát cùng chiến lợi phẩm và chỉ để lại chữ ký tinh vi, đầy nhạo báng của mình."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1579970921471-dae45377f3d5?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1351,7 +1396,8 @@ export const characters = [
         "text": {
           "en": "Arsène Lupin is the eternal symbol of romantic defiance—a rogue who proves that true justice does not always wear a badge, and rebellion can be executed with a charming smile. His legacy is one of wit, CHIVALRY, and breathtaking audacity. As long as there are shadows in the world, the myth of the GENTLEMAN THIEF will endure, a majestic reminder that the most brilliant treasures belong to those clever enough to steal them.",
           "vi": "Arsène Lupin là biểu tượng vĩnh cửu của sự phản kháng lãng mạn—một kẻ lừa đảo chứng minh rằng công lý thực sự không phải lúc nào cũng mang phù hiệu, và sự nổi loạn có thể được thực thi bằng một nụ cười đầy quyến rũ. Di sản của anh là sự hóm hỉnh, tinh thần hiệp sĩ và sự táo bạo đến nghẹt thở. Chừng nào thế giới này còn có những bóng tối, huyền thoại về Tên Trộm Hào Hoa sẽ vẫn trường tồn, một lời nhắc nhở uy nghi rằng những kho báu rực rỡ nhất chỉ thuộc về những kẻ đủ thông minh để đánh cắp chúng."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1615592389070-bcc97e0504d3?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1428,7 +1474,8 @@ export const characters = [
         "text": {
           "en": "As the God of MISCHIEF, Loki's mind is a labyrinth of lethal deceptions and cosmic trickery. He weaves intricate illusions that shatter armies and manipulate kings, armed with a silver tongue sharper than any Asgardian blade. He dances on the fragile line between a heartless villain and a tragic victim, orchestrating apocalyptic wars and fragile peace with the mesmerizing grace of a god who holds the strings of the universe.",
           "vi": "Với tư cách là Thần Lừa gạt, tâm trí của Loki là một mê cung của những sự dối trá chết người và những mánh khóe mang tầm vũ trụ. Anh thêu dệt nên những ảo ảnh tinh vi đủ sức đập tan các đạo quân và thao túng những vị vua, được trang bị một cái lưỡi giảo hoạt sắc bén hơn bất kỳ lưỡi kiếm nào của Asgard. Anh khiêu vũ trên ranh giới mong manh giữa một ác nhân nhẫn tâm và một nạn nhân bi thảm, đạo diễn những cuộc chiến tranh tận thế và cả những nền hòa bình mỏng manh bằng sự duyên dáng mê hoặc của một vị thần đang nắm giữ những sợi dây giật dây cả vũ trụ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1620336655055-088d06e36bf0?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1438,7 +1485,8 @@ export const characters = [
         "text": {
           "en": "Loki is the ultimate anti-hero, an eternal wanderer seeking REDEMPTION through the flames of his own destruction. From the depths of villainy to the apex of supreme sacrifice, he rewrote his twisted fate. In the end, he found his GLORIOUS purpose not as a conqueror, but as the eternal guardian of time itself. His tragic, majestic journey proves that even the darkest trickster can shine as the savior of the multiverse.",
           "vi": "Loki là một phản anh hùng tối thượng, một kẻ lang thang vĩnh cửu tìm kiếm sự chuộc lỗi qua chính ngọn lửa hủy diệt của bản thân. Từ dưới đáy của sự tàn ác cho đến đỉnh cao của sự hy sinh tột cùng, anh đã tự viết lại số phận ngang trái của mình. Cuối cùng, anh đã tìm thấy mục đích huy hoàng của mình, không phải với tư cách một kẻ chinh phạt, mà là vị thần hộ mệnh vĩnh cửu của chính dòng thời gian. Hành trình bi tráng và uy nghi của anh chứng minh rằng ngay cả kẻ lừa gạt đen tối nhất cũng có thể tỏa sáng rực rỡ với tư cách là vị cứu tinh của đa vũ trụ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1505567745926-ba89000d8382?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1516,7 +1564,8 @@ export const characters = [
         "text": {
           "en": "Plunged into the freezing abyss of time and awakening in an unrecognizable era of blurred morality, Captain America remained the absolute anchor of justice. He is the first to charge into the jaws of apocalyptic leviathans and the last man standing when all hope fades. Armed with a vibranium shield and an iron resolve, he stands alone against overwhelming armies, inspiring gods, titans, and men to fight against the dying of the light.",
           "vi": "Bị chôn vùi vào vực thẳm lạnh giá của thời gian và thức tỉnh trong một kỷ nguyên xa lạ với những ranh giới đạo đức mờ nhạt, Captain America vẫn là mỏ neo tuyệt đối của công lý. Anh là người đầu tiên lao vào hàm răng của những con quái vật tận thế và là người đàn ông cuối cùng đứng vững khi mọi hy vọng đã vụt tắt. Được trang bị chiếc khiên vibranium và một quyết tâm sắt đá, anh kiên cường đứng đơn độc chống lại những đạo quân áp đảo, truyền cảm hứng cho những vị thần, những gã khổng lồ và loài người chiến đấu chống lại sự lụi tàn của ánh sáng."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1516086705574-1317a7de4d0b?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1526,7 +1575,8 @@ export const characters = [
         "text": {
           "en": "Steve Rogers is not just a soldier; he is the very heartbeat of the Avengers, the living embodiment of honor that time itself could not erase. He teaches the universe that true strength lies not in the power to destroy, but in the courage to plant your feet like a tree and never move for evil. Captain America's majestic legacy is a soaring beacon of hope, proving that a RIGHTEOUS heart is the most invincible force in existence.",
           "vi": "Steve Rogers không chỉ là một người lính; anh chính là nhịp đập trái tim của Avengers, là hiện thân sống của danh dự mà thời gian cũng không thể xóa nhòa. Anh dạy cho cả vũ trụ rằng sức mạnh thực sự không nằm ở khả năng hủy diệt, mà ở lòng dũng cảm bám rễ vững như một cái cây và không bao giờ lùi bước trước cái ác. Di sản uy nghi của Captain America là một ngọn hải đăng hy vọng vút cao, chứng minh rằng một trái tim chính nghĩa là thứ sức mạnh bất khả chiến bại nhất từng tồn tại."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1628174780826-b997c6cde6cf?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1601,7 +1651,8 @@ export const characters = [
         "text": {
           "en": "Beneath the impenetrable icy exterior burned a soul consumed by tragedy and an unyielding vow. Driven by the agonizing loss of his one true love, Lily, Snape cast aside his very humanity to become the ultimate double agent. He walked the razor's edge between the Dark Lord's wrath and the Light's suspicion, utilizing unparalleled mastery of OCCLUMENCY to conceal a bleeding heart. His every breath was a calculated defiance against the encroaching darkness.",
           "vi": "Ẩn dưới vẻ ngoài lạnh lẽo không thể xuyên thủng ấy là một linh hồn bị thiêu đốt bởi bi kịch và một lời thề kiên định. Bị thôi thúc bởi nỗi đau tột cùng khi mất đi tình yêu duy nhất của đời mình, Lily, Snape đã gạt bỏ cả nhân tính để trở thành điệp viên hai mang vĩ đại nhất. Ông bước đi trên lưỡi dao giữa cơn thịnh nộ của Chúa tể Hắc ám và sự nghi ngờ của phe Ánh sáng, vận dụng Bế quan Bí thuật vô song để che giấu một trái tim rỉ máu. Mỗi hơi thở của ông đều là một sự thách thức được toan tính kỹ lưỡng trước bóng tối đang bủa vây."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1547989453-11e67af361dba?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1611,7 +1662,8 @@ export const characters = [
         "text": {
           "en": "Severus Snape did not seek glory, nor did he ask for forgiveness. He offered his life as a silent testament to the enduring power of love, dying in the shadows so the light could triumph. When the dust of battle settled, the truth illuminated his unparalleled bravery. He remains the unsung hero of the wizarding world, a majestic paradox whose legacy is forever immortalized in a single, echoing whisper: \"Always.\"",
           "vi": "Severus Snape không tìm kiếm vinh quang, cũng chẳng mong cầu sự tha thứ. Ông hiến dâng mạng sống của mình như một minh chứng thầm lặng cho sức mạnh trường tồn của tình yêu, gục ngã trong bóng tối để ánh sáng có thể chiến thắng. Khi bụi mờ của trận chiến lắng xuống, sự thật đã thắp sáng lòng dũng cảm vô song của ông. Ông mãi là vị anh hùng không được ngợi ca của thế giới phù thủy, một nghịch lý tráng lệ mà di sản của ông sẽ mãi mãi bất tử trong một lời thì thầm vang vọng: \"Luôn luôn.\""
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1627916568911-3ba49d115e4f?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1692,7 +1744,8 @@ export const characters = [
         "text": {
           "en": "In a defining moment that would echo through history, the Golden Lion sacrificed his sacred vows to slay the Mad King, plunging his blade into the very ruler he was sworn to protect. Branded the \"KINGSLAYER,\" he bore the horrific weight of the realm's disdain to save half a million innocent lives from an apocalyptic inferno. Stripped of his sword hand—the singular vessel of his identity—he was forced to navigate a harrowing crucible, forging a new sense of purpose from the ashes of his shattered ego.",
           "vi": "Trong một khoảnh khắc định mệnh sẽ vang vọng mãi trong lịch sử, Sư Tử Vàng đã hy sinh những lời thề thiêng liêng nhất để kết liễu Vị Vua Điên, cắm ngập lưỡi kiếm vào chính vị quân vương mà anh đã thề sẽ bảo vệ. Bị gán mác \"Kẻ thí vua\", anh gánh chịu sức nặng kinh hoàng từ sự khinh miệt của toàn vương quốc để cứu lấy nửa triệu sinh mạng vô tội khỏi một ngọn lửa diệt vong. Bị tước đi bàn tay cầm kiếm—thứ duy nhất định hình danh tính của anh—anh buộc phải vượt qua một cuộc thử thách đầy bi thảm, rèn giũa một mục đích sống mới từ đống tro tàn của cái tôi vỡ vụn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1702,7 +1755,8 @@ export const characters = [
         "text": {
           "en": "Jaime Lannister's saga is a majestic tapestry woven with the threads of infamy and REDEMPTION. He transcends the simplistic labels of hero or villain, standing as a monumental testament to the boundless complexities of the human heart. Though his final journey ended in the crumbling ruins of a dying dynasty, his legend remains an epic elegy—a golden warrior who proved that true honor is not given by kings, but claimed through the agonizing fires of sacrifice.",
           "vi": "Bản trường ca của Jaime Lannister là một bức tranh tráng lệ được dệt nên từ những sợi chỉ của sự ô nhục và sự chuộc lỗi. Anh vượt qua những nhãn mác đơn giản của anh hùng hay ác nhân, đứng vững như một minh chứng vĩ đại cho những phức tạp khôn cùng của trái tim con người. Dù hành trình cuối cùng của anh kết thúc trong đống đổ nát của một triều đại đang lụi tàn, huyền thoại về anh mãi là một bản bi ca hùng tráng—một chiến binh giáp vàng đã chứng minh rằng danh dự đích thực không được ban phát bởi các vị vua, mà được giành lấy qua ngọn lửa đau đớn của sự hy sinh."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1599839619722-39751411ea63?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1781,7 +1835,8 @@ export const characters = [
         "text": {
           "en": "Harnessing his profound mastery of science, Walter became the supreme architect of forbidden formulas, forging an empire built on unrivaled purity and ruthless calculation. What began as a desperate crusade to secure his family's future rapidly mutated into a majestic symphony of dominance. He vanquished terrifying kingpins and outmaneuvered entire cartels, wielding chemistry not as a tool, but as a weapon of mass submission. Heisenberg did not merely survive the danger; he became the danger itself.",
           "vi": "Vận dụng sự am hiểu sâu sắc về khoa học, Walter trở thành kiến trúc sư tối cao của những công thức cấm, kiến tạo nên một đế chế được xây dựng trên độ tinh khiết vô song và những toan tính tàn nhẫn. Điều bắt đầu như một cuộc thập tự chinh tuyệt vọng để đảm bảo tương lai cho gia đình đã nhanh chóng biến dị thành một bản giao hưởng tráng lệ của sự thống trị. Ông đánh bại những ông trùm đáng sợ và qua mặt toàn bộ các tập đoàn tội phạm, sử dụng hóa học không phải như một công cụ, mà như một vũ khí khuất phục hàng loạt. Heisenberg không chỉ sống sót qua nguy hiểm; ông trở thành chính mối nguy hiểm đó."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1791,7 +1846,8 @@ export const characters = [
         "text": {
           "en": "The tragedy of Walter White is a dark, Shakespearean epic of ambition and hubris. He constructed a towering monument to his own ego, only to watch it collapse and consume everything he ever claimed to love. In the end, amidst the ruins of his empire, he stood unapologetic, acknowledging the thrilling rush of a life truly lived on his own terms. Heisenberg remains a haunting, majestic testament to the terrifying potential resting dormant within the soul of an ordinary man.",
           "vi": "Bi kịch của Walter White là một bản hùng ca đen tối mang đậm chất Shakespeare về tham vọng và sự kiêu ngạo. Ông đã xây dựng một tượng đài cao chót vót cho cái tôi của chính mình, chỉ để nhìn nó sụp đổ và nuốt chửng mọi thứ mà ông từng tuyên bố là yêu thương. Cuối cùng, giữa đống tro tàn của đế chế, ông đứng đó không một lời hối lỗi, thừa nhận cảm giác hồi hộp mãnh liệt của một cuộc đời được sống trọn vẹn theo cách của riêng mình. Heisenberg mãi là một minh chứng ám ảnh, tráng lệ cho những tiềm năng đáng sợ đang ngủ yên bên trong linh hồn của một người bình thường."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1614030612999-5cc87786df4b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1871,7 +1927,8 @@ export const characters = [
         "text": {
           "en": "Bearing the sacred Matrix of Leadership within his chest, Optimus carries the crushing weight of millennia of suffering. He leads the Autobots with unwavering resolve, charging into the frontlines against his fallen brother, Megatron. His combat prowess is a devastating display of mechanical poetry, shattering enemy ranks with a towering energy axe and heavy artillery. Yet, his most potent weapon is an infinite reservoir of COMPASSION, fiercely believing that every SENTIENT life holds an inherent right to survive and flourish.",
           "vi": "Mang trong lồng ngực Ma trận Lãnh đạo thiêng liêng, Optimus gánh vác sức nặng nghiền nát của hàng thiên niên kỷ đau khổ. Ông dẫn dắt phe Autobot với quyết tâm không thể lay chuyển, xông pha nơi tiền tuyến để chống lại người anh em đã sa ngã của mình, Megatron. Khả năng chiến đấu của ông là một màn trình diễn hủy diệt đầy chất thơ cơ khí, đập tan hàng ngũ kẻ thù bằng chiếc rìu năng lượng khổng lồ và pháo hạng nặng. Thế nhưng, thứ vũ khí mạnh mẽ nhất của ông lại là một kho tàng lòng trắc ẩn vô tận, luôn tin tưởng mãnh liệt rằng mọi sinh mệnh có nhận thức đều có quyền được sống sót và sinh sôi."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1881,7 +1938,8 @@ export const characters = [
         "text": {
           "en": "Optimus Prime is the definitive paragon of majestic heroism. He endures endless agonizing sacrifices, facing overwhelming armadas to shield fragile worlds from absolute annihilation. His voice resonates like thunder across the galaxy, inspiring courage in the hearts of the desperate. Long after the echoes of battle fade, his legend will remain an unbreakable pillar of justice—a noble warrior whose spirit will forever light our darkest hours.",
           "vi": "Optimus Prime là mẫu mực tuyệt đối của chủ nghĩa anh hùng tráng lệ. Ông cam chịu vô vàn những hy sinh đau đớn, đối mặt với những hạm đội áp đảo để che chở cho những thế giới mỏng manh khỏi sự hủy diệt hoàn toàn. Giọng nói của ông vang rền như sấm sét khắp dải ngân hà, khơi dậy lòng dũng cảm trong những trái tim đang tuyệt vọng. Rất lâu sau khi dư âm của các trận chiến phai nhạt, huyền thoại về ông sẽ vẫn là một cột trụ công lý không thể bị phá vỡ—một chiến binh cao quý mà tinh thần của ông sẽ mãi mãi thắp sáng những giờ phút tăm tối nhất của chúng ta."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -1960,7 +2018,8 @@ export const characters = [
         "text": {
           "en": "As the supreme commander of the Decepticons, Megatron waged an apocalyptic war that tore the very fabric of Cybertron apart. He scoffs at mercy, wielding the philosophy of \"Peace through TYRANNY\" as a devastating weapon. Armed with his legendary fusion cannon and an intellect sharpened by millennia of endless conflict, he crushes armies and subjugates worlds. His rivalry with Optimus Prime is an epic clash of ideologies—a tragic war of brothers destined to clash until the stars burn out.",
           "vi": "Với tư cách là chỉ huy tối cao của phe Decepticon, Megatron đã tiến hành một cuộc chiến mang tính tận thế xé nát cả kết cấu của Cybertron. Hắn chế nhạo lòng thương xót, coi triết lý \"Hòa bình thông qua Sự bạo tàn\" như một thứ vũ khí hủy diệt. Được trang bị khẩu pháo nhiệt hạch huyền thoại cùng một trí tuệ được mài giũa qua hàng thiên niên kỷ xung đột không ngừng, hắn nghiền nát các đạo quân và khuất phục các thế giới. Mối thù địch của hắn với Optimus Prime là một cuộc va chạm sử thi của các hệ tư tưởng—một cuộc chiến bi tráng của những người anh em được định mệnh an bài phải giao tranh cho đến khi các vì sao lụi tàn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -1970,7 +2029,8 @@ export const characters = [
         "text": {
           "en": "Megatron is a majestic monument to the intoxicating allure of absolute power. He is the terrifying consequence of a righteous rebellion twisted by millennia of bloodshed. Even in defeat, his defiant roar shakes the heavens, refusing to yield to the forces of light. He stands as an eternal reminder that the most formidable villains are not born of malice, but of a desperate, unyielding conviction that they alone must conquer the universe to save it.",
           "vi": "Megatron là một đài kỷ niệm tráng lệ cho sức quyến rũ đầy mê hoặc của quyền lực tuyệt đối. Hắn là hậu quả đáng sợ của một cuộc nổi dậy chính nghĩa bị bóp méo bởi hàng thiên niên kỷ đổ máu. Ngay cả khi thất bại, tiếng gầm thách thức của hắn vẫn làm rung chuyển các tầng trời, kiên quyết không khuất phục trước các thế lực của ánh sáng. Hắn đứng vững như một lời nhắc nhở vĩnh cửu rằng những ác nhân đáng gờm nhất không sinh ra từ ác ý, mà từ một niềm tin tuyệt vọng, không thể lay chuyển rằng chỉ một mình hắn mới phải chinh phục vũ trụ để cứu rỗi nó."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2047,7 +2107,8 @@ export const characters = [
         "text": {
           "en": "Convinced that true peace could only be forged in the fires of unimaginable loss, Pain orchestrated a majestic symphony of destruction. Commanding the Six Paths of Pain, he possessed the power to shatter mountains, rip souls from bodies, and level entire nations with a single motion of his hand. His invasion of the Hidden Leaf Village was an apocalyptic masterpiece, an overwhelming display of god-like might intended to force the world to surrender its endless CYCLE of hatred by submitting to absolute fear.",
           "vi": "Đinh ninh rằng hòa bình đích thực chỉ có thể được rèn giũa trong ngọn lửa của những mất mát không thể tưởng tượng, Pain đã điều khiển một bản giao hưởng tráng lệ của sự hủy diệt. Thống lĩnh Lục Đạo Luân Hồi, anh sở hữu sức mạnh đập tan núi non, xé toạc linh hồn khỏi thể xác, và san phẳng toàn bộ các quốc gia chỉ bằng một cái vung tay. Cuộc xâm lăng Làng Lá của anh là một kiệt tác mang tính tận thế, một màn trình diễn sức mạnh sánh ngang thần linh nhằm buộc thế giới phải từ bỏ vòng lặp thù hận vô tận bằng cách quy phục trước nỗi sợ hãi tuyệt đối."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544640808-32cb4fbadfac?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2057,7 +2118,8 @@ export const characters = [
         "text": {
           "en": "Pain remains a chillingly majestic antagonist, whose twisted crusade was rooted not in villainy, but in a desperate yearning for universal peace. He forced heroes and spectators alike to confront the agonizing reality of human nature. Ultimately, the deity of DESPAIR was just a broken child striving to heal a bleeding world. His legacy is an epic, mournful testament: that those who try to shoulder the agony of the world often end up becoming the very nightmare they sought to destroy.",
           "vi": "Pain mãi là một phản diện mang vẻ tráng lệ đến rợn người, mà cuộc thập tự chinh méo mó của anh không bắt nguồn từ sự độc ác, mà từ một niềm khao khát tột cùng về một nền hòa bình cho thế giới. Anh đã buộc cả những anh hùng lẫn khán giả phải đối mặt với thực tại đau đớn về bản chất con người. Rốt cuộc, vị thần của sự tuyệt vọng cũng chỉ là một đứa trẻ tan vỡ đang nỗ lực chữa lành một thế giới rỉ máu. Di sản của anh là một minh chứng bi tráng và đau thương: rằng những kẻ cố gắng gánh vác nỗi đau của thế giới thường kết thúc bằng việc trở thành chính cơn ác mộng mà họ từng muốn tiêu diệt."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1509347528160-9a9e33742cdb?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2137,7 +2199,8 @@ export const characters = [
         "text": {
           "en": "Wielding a crimson lightsaber that slashes through hope itself, Vader became the unstoppable enforcer of the Galactic Empire. He led legions of stormtroopers with a merciless iron grip, crushing rebellions and hunting the last remnants of the Jedi Order. His mastery of the dark side of the Force allowed him to choke admirals from across starships and rip ships from the sky. He was an unstoppable force of nature, driven by an ocean of buried torment, ruling through an intoxicating aura of supreme power.",
           "vi": "Vung thanh gươm ánh sáng đỏ thẫm chém đứt cả niềm hy vọng, Vader trở thành kẻ chấp pháp không thể cản bước của Đế chế Thiên hà. Ông thống lĩnh các quân đoàn stormtrooper bằng một bàn tay sắt không khoan nhượng, nghiền nát các cuộc nổi dậy và săn lùng những tàn dư cuối cùng của Hội đồng Jedi. Sự thông thạo mặt tối của Thần lực cho phép ông bóp nghẹt cổ các đô đốc từ khoảng cách giữa các con tàu và kéo tuột những chiếc phi thuyền từ trên trời rơi xuống. Ông là một thế lực tự nhiên không thể cản phá, bị thúc đẩy bởi một đại dương những nỗi dằn vặt bị chôn vùi, cai trị thông qua một luồng khí uy quyền tối cao đầy nghẹt thở."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1596727147705-61a532a659bd?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2147,7 +2210,8 @@ export const characters = [
         "text": {
           "en": "Yet, beneath the terrifying visage of the Sith Lord lingered the fragmented soul of a father. Darth Vader's saga is an epic tragedy that culminates in a majestic sacrifice. In his final moments, the monster shattered his chains to save his son, defying the Emperor and destroying the Empire he helped build. He stands eternally as a monumental titan of cinematic history, proving that even within the deepest darkness, a single spark of love can reignite the light of the galaxy.",
           "vi": "Thế nhưng, ẩn dưới vẻ ngoài đáng sợ của Chúa tể Sith là một linh hồn vỡ vụn của một người cha. Bản anh hùng ca của Darth Vader là một bi kịch sử thi lên đến đỉnh điểm trong một sự hy sinh tráng lệ. Trong những khoảnh khắc cuối cùng, con quái vật đã đập tan xiềng xích của mình để cứu con trai, thách thức Hoàng đế và phá hủy chính Đế chế mà ông đã giúp tạo dựng. Ông vĩnh viễn là một Titan vĩ đại của lịch sử điện ảnh, chứng minh rằng ngay cả trong bóng tối sâu thẳm nhất, một tia sáng nhỏ bé của tình yêu cũng có thể thắp sáng lại cả ngân hà."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1547989453-11e67af361dba?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2229,7 +2293,8 @@ export const characters = [
         "text": {
           "en": "Stripped of everything he loved, Castle transformed his grief into a majestic, devastating crusade. He does not arrest; he eradicates. Armed to the teeth with military-grade weaponry and an unmatched tactical brilliance, he wages a one-man war against entire cartels and syndicates. Where superheroes offer mercy and redemption, the Punisher delivers cold, brutal finality. He storms through fortresses of corruption in a hail of gunfire, standing as a lone apex predator in a jungle of predators.",
           "vi": "Bị tước đoạt mọi thứ anh yêu thương, Castle đã biến nỗi đau của mình thành một cuộc thập tự chinh tráng lệ và hủy diệt. Anh không bắt giữ; anh diệt trừ. Được trang bị tận răng với vũ khí cấp quân sự và một tư duy chiến thuật xuất chúng không đối thủ, anh tiến hành một cuộc chiến đơn độc chống lại toàn bộ các tập đoàn và băng đảng tội phạm. Nơi các siêu anh hùng ban phát lòng khoan dung và sự chuộc lỗi, Punisher mang đến một sự kết thúc lạnh lùng và tàn bạo. Anh càn quét qua các pháo đài tham nhũng trong cơn mưa bom bão đạn, đứng sừng sững như một kẻ săn mồi tối thượng cô độc giữa một khu rừng toàn dã thú."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1628174780826-b997c6cde6cf?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2239,7 +2304,8 @@ export const characters = [
         "text": {
           "en": "Frank Castle seeks no glory, expects no survival, and asks for no absolution. He is a tragic, monumental figure who sacrifices his own humanity to ensure that monsters are buried. The Punisher is a dark, awe-inspiring testament to the terrifying lengths a man will go when he has nothing left to lose. He remains the ultimate judge, jury, and EXECUTIONER—a majestic storm of retribution whose gunfire echoes as the final judgment for the wicked.",
           "vi": "Frank Castle không tìm kiếm vinh quang, không mong đợi sống sót, và cũng chẳng yêu cầu sự xá tội. Anh là một nhân vật bi tráng, vĩ đại, người đã hy sinh cả nhân tính của mình để đảm bảo rằng những con quái vật sẽ bị chôn vùi. The Punisher là một minh chứng đen tối, đáng kinh ngạc cho những giới hạn đáng sợ mà một người đàn ông có thể vượt qua khi anh ta không còn gì để mất. Anh mãi là vị quan tòa, bồi thẩm đoàn và đao phủ tối thượng—một cơn bão trừng phạt tráng lệ mà tiếng súng của anh vang lên như bản án cuối cùng dành cho những kẻ thủ ác."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1547989453-11e67af361dba?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2318,7 +2384,8 @@ export const characters = [
         "text": {
           "en": "What followed was an epic, unstoppable descent into majestic violence. John Wick does not negotiate, nor does he falter. With an impeccably tailored suit and an arsenal of weaponry, he carves a path of absolute destruction through armies of elite mercenaries. His combat is a terrifyingly beautiful ballet of \"gun-fu,\" blending precise martial arts with relentless tactical gunfire. He transcends human limitations, surviving impossible odds to become an unstoppable force of nature, driven by an ocean of boundless GRIEF.",
           "vi": "Những gì xảy ra sau đó là một sự trượt dài mang tính sử thi, không thể cản bước vào một màn bạo lực tráng lệ. John Wick không đàm phán, và anh cũng chẳng hề chùn bước. Với bộ vest được cắt may hoàn hảo và một kho vũ khí khổng lồ, anh cày nát một con đường hủy diệt tuyệt đối xuyên qua vô số đạo quân lính đánh thuê tinh nhuệ. Phong cách chiến đấu của anh là một vở ballet \"gun-fu\" đẹp đến rợn người, kết hợp võ thuật chính xác với những loạt đạn chiến thuật không ngừng nghỉ. Anh vượt qua mọi giới hạn của con người, sống sót qua những tỷ lệ bất khả thi để trở thành một thế lực thiên nhiên không thể cản phá, bị thúc đẩy bởi một đại dương đau buồn vô tận."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544640808-32cb4fbadfac?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2328,7 +2395,8 @@ export const characters = [
         "text": {
           "en": "John Wick stands as a monumental icon of sheer willpower and unbreakable focus. He is not fighting for the fate of the world; he is fighting for the memory of love. His majestic rampage redefines the limits of action and endurance, proving that the most dangerous creature in the universe is a man with nothing left to lose. The Boogeyman remains an immortal legend, a terrifyingly elegant executioner whose name will forever echo in the halls of the underworld.",
           "vi": "John Wick đứng sừng sững như một biểu tượng vĩ đại của ý chí thuần túy và sự tập trung không thể bị phá vỡ. Anh không chiến đấu vì vận mệnh của thế giới; anh chiến đấu vì ký ức của tình yêu. Cuộc càn quét tráng lệ của anh định nghĩa lại mọi giới hạn của hành động và sự chịu đựng, chứng minh rằng sinh vật nguy hiểm nhất trong vũ trụ là một người đàn ông không còn gì để mất. Ông Kẹ mãi là một huyền thoại bất tử, một đao phủ thanh lịch đến đáng sợ mà cái tên của anh sẽ vĩnh viễn vang vọng trong những hội trường của thế giới ngầm."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1582152864627-7c703135c911?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2407,7 +2475,8 @@ export const characters = [
         "text": {
           "en": "Cast out as a rogue ninja and a pariah, Itachi donned the ominous clouds of the Akatsuki. Behind his cold, emotionless sharingan lay a labyrinth of sorrow and unbreakable resolve. He bore the hatred of the world and the venomous wrath of his younger brother, Sasuke, all while silently protecting the village that branded him a monster. His life became a masterful illusion, a tragic symphony of pain where every strike was an act of profound, hidden love.",
           "vi": "Bị ruồng bỏ như một nhẫn giả phản loạn và một kẻ cặn bã, Itachi khoác lên mình những đám mây hắc ám của tổ chức Akatsuki. Đằng sau đôi mắt Sharingan lạnh lẽo, vô hồn ấy là một mê cung của nỗi buồn và một ý chí không thể lay chuyển. Anh gánh chịu sự căm ghét của cả thế giới và cơn thịnh nộ tột cùng của người em trai Sasuke, trong khi vẫn âm thầm bảo vệ ngôi làng đã gán cho anh cái mác quái vật. Cuộc đời anh trở thành một màn ảo thuật bậc thầy, một bản giao hưởng bi tráng của nỗi đau, nơi mỗi đòn tấn công đều là một hành động của tình yêu sâu sắc, được giấu kín."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1582152864627-7c703135c911?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2417,7 +2486,8 @@ export const characters = [
         "text": {
           "en": "Even in death, the immortal flame of Itachi's legacy refused to be extinguished. Breaking free from the chains of reincarnation, he rose once more to shield the shinobi world from ultimate destruction. With a gentle tap on his brother's forehead, the mask finally fell, revealing a soul forged in ultimate sacrifice. He departed not as a traitor, but as the unsung god of shadows, leaving behind a legacy that would echo through eternity.",
           "vi": "Thậm chí trong cái chết, ngọn lửa bất diệt trong di sản của Itachi vẫn không chịu tắt. Phá vỡ xiềng xích của thuật chuyển sinh, anh trỗi dậy một lần nữa để che chở thế giới nhẫn giả khỏi sự diệt vong tột cùng. Với một cái búng trán dịu dàng dành cho em trai, lớp mặt nạ cuối cùng cũng rơi xuống, hé lộ một linh hồn được tôi luyện trong sự hy sinh vĩ đại nhất. Anh ra đi không phải với tư cách một kẻ phản đồ, mà là vị thần thầm lặng của bóng tối, để lại một di sản sẽ còn vang vọng đến muôn đời."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1614030612999-5cc87786df4b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2498,7 +2568,8 @@ export const characters = [
         "text": {
           "en": "Bound to the bitter and shattered Eddie Brock, the SYMBIOTE found its perfect match. Together, they became Venom—a towering, monstrous titan of vengeance with razor-sharp fangs and an insatiable appetite for chaos. No longer just a man or a parasite, they morphed into a singular, lethal force of nature. Their combined hatred birthed a predator that struck fear into the hearts of gods and men alike, ruling the concrete jungle with brutal supremacy.",
           "vi": "Trói buộc với một Eddie Brock cay đắng và suy sụp, SYMBIOTE đã tìm thấy nửa kia hoàn hảo của mình. Cùng nhau, chúng trở thành Venom—một gã khổng lồ đáng sợ, một hiện thân của sự báo thù với những chiếc nanh sắc nhọn và khao khát hỗn loạn không thể thỏa mãn. Không còn đơn thuần là một con người hay một loài ký sinh, chúng biến đổi thành một thế lực tử thần duy nhất của tự nhiên. Sự căm hận hợp nhất của chúng đã sinh ra một kẻ săn mồi gieo rắc nỗi kinh hoàng cho cả thần linh lẫn con người, thống trị khu rừng bê tông bằng uy quyền tàn bạo."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544640808-32cb4fbadfac?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2508,7 +2579,8 @@ export const characters = [
         "text": {
           "en": "Yet, within the monstrous exterior lies a twisted, terrifying sense of justice. Venom is the darkness that hunts the dark, a lethal protector who thrives in the gruesome gray area between hero and villain. With a thunderous roar that shakes the very foundations of the city, they declare their dominion. They are the apex predator of the night, forever whispering the chilling truth: 'We are Venom.'",
           "vi": "Tuy nhiên, ẩn sâu bên trong vẻ ngoài gớm ghiếc ấy lại là một ý thức công lý méo mó và đáng sợ. Venom là bóng tối săn lùng bóng tối, một người bảo vệ chết chóc trỗi dậy mạnh mẽ trong vùng xám rùng rợn giữa anh hùng và ác nhân. Với một tiếng gầm vang như sấm sét làm rung chuyển cả nền móng của thành phố, chúng tuyên bố quyền thống trị của mình. Chúng là kẻ săn mồi thống lĩnh của bóng đêm, mãi mãi thì thầm một sự thật lạnh gáy: 'Chúng ta là Venom.'"
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1614030612999-5cc87786df4b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2589,7 +2661,8 @@ export const characters = [
         "text": {
           "en": "Neither pirate hunters, nor monstrous sea beasts, nor the terrifying Davy Jones himself could bind his restless soul. Jack dances on the razor's edge of death with a wicked smile and an empty pistol. His battles are not won with brute strength, but with a chaotic, brilliant symphony of wit, trickery, and pure, unadulterated madness. He turns every dire catastrophe into a stage, playing his enemies like a maestro of the high seas.",
           "vi": "Cả những kẻ săn hải tặc, những quái thú biển khổng lồ, hay thậm chí là ác quỷ Davy Jones đáng sợ cũng không thể trói buộc linh hồn không ngừng nghỉ của ông. Jack nhảy múa trên lưỡi dao sinh tử với một nụ cười ranh mãnh và một khẩu súng lục trống rỗng. Các trận chiến của ông không được giành chiến thắng bằng sức mạnh cơ bắp, mà bằng một bản giao hưởng hỗn loạn, rực rỡ của sự sắc bén, mưu mẹo và sự điên rồ thuần túy. Ông biến mọi thảm họa khủng khiếp thành một sân khấu, thao túng kẻ thù của mình như một vị nhạc trưởng của biển khơi."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544640808-32cb4fbadfac?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2599,7 +2672,8 @@ export const characters = [
         "text": {
           "en": "At the end of the world and beyond, Jack Sparrow remains completely untamable. He is not merely a man, but the very embodiment of the ocean's untethered freedom. As long as there is a horizon to chase and a wind to fill his sails, his legend will never die. He sails into eternity, an immortal trickster king, leaving behind only a trail of bewildered enemies and the lingering echo of a pirate's laugh.",
           "vi": "Ở nơi tận cùng thế giới và xa hơn nữa, Jack Sparrow vẫn hoàn toàn không thể bị thuần hóa. Ông không chỉ là một con người, mà là hiện thân của sự tự do không giới hạn của đại dương. Chừng nào vẫn còn đường chân trời để theo đuổi và những cơn gió để căng buồm, huyền thoại về ông sẽ không bao giờ chết. Ông ra khơi đi vào cõi vĩnh hằng, một vị vua lừa lọc bất tử, chỉ để lại sau lưng một hàng dài những kẻ thù ngơ ngác và tiếng vang vọng mãi của nụ cười hải tặc."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1582152864627-7c703135c911?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2675,7 +2749,8 @@ export const characters = [
         "text": {
           "en": "He is the Man of Steel, a towering beacon of justice whose very presence shatters the darkness. With strength that can move planets, eyes that burn with the heat of a star, and flight that defies the heavens, Superman faces down galactic tyrants and world-ending cataclysms. Yet, his most breathtaking feat is his unwavering morality—choosing, every single day, to be a humble protector rather than an absolute conqueror.",
           "vi": "Anh là Người Đàn Ông Thép, một ngọn hải đăng sừng sững của công lý mà chỉ sự hiện diện thôi cũng đủ xua tan bóng tối. Với sức mạnh có thể dịch chuyển các hành tinh, đôi mắt rực cháy sức nóng của một ngôi sao và khả năng bay lượn thách thức cả bầu trời, Superman đối đầu với những bạo chúa ngân hà và những thảm họa diệt vong. Thế nhưng, kỳ tích đáng kinh ngạc nhất của anh lại là sự kiên định về đạo đức—mỗi ngày, anh đều chọn làm một người bảo vệ khiêm nhường thay vì một kẻ chinh phục tuyệt đối."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2685,7 +2760,8 @@ export const characters = [
         "text": {
           "en": "In a universe fraught with chaos, he is the anchor of salvation. The 'S' on his chest is a herald of defiance against despair, a radiant promise that light will always conquer the night. Superman does not simply save the world; he elevates humanity to its highest potential. He is the ultimate paragon, an eternal guardian who will forever soar above, carrying the weight of the world on his indestructible shoulders.",
           "vi": "Trong một vũ trụ đầy rẫy sự hỗn loạn, anh là mỏ neo của sự cứu rỗi. Chữ 'S' trên ngực anh là lời tuyên chiến với sự tuyệt vọng, một lời hứa rạng rỡ rằng ánh sáng sẽ luôn chiến thắng màn đêm. Superman không chỉ đơn thuần là cứu thế giới; anh nâng tầm nhân loại lên giới hạn cao nhất của nó. Anh là hình mẫu hoàn mỹ nhất, một người bảo hộ vĩnh hằng sẽ mãi mãi bay lượn trên cao, gánh vác sức nặng của cả thế giới trên đôi vai bất hoại của mình."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2766,7 +2842,8 @@ export const characters = [
         "text": {
           "en": "With Longclaw in hand, the White Wolf carved a path through betrayal, mutiny, and the frozen legions of the dead. He defied the very grasp of death, rising from his own blood-soaked murder to become the King in the North. His leadership was not born of ambition, but forged in the desperate crucible of survival. He united wildlings, lords, and dragons, standing as a singular beacon of courage against the apocalyptic storm of the White Walkers.",
           "vi": "Với thanh gươm Longclaw trong tay, Sói Tuyết đã vạch ra một con đường xuyên qua sự phản bội, cuộc binh biến và cả những quân đoàn xác sống băng giá. Anh thách thức cả bàn tay của tử thần, trỗi dậy từ chính vụ ám sát đẫm máu của mình để trở thành Vua Phương Bắc. Sự lãnh đạo của anh không sinh ra từ tham vọng, mà được rèn giũa trong lò lửa tuyệt vọng của sự sinh tồn. Anh thống nhất những người du mục, các lãnh chúa và cả loài rồng, đứng sừng sững như một ngọn hải đăng duy nhất của lòng quả cảm trước cơn bão tận thế của Bóng Trắng."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544640808-32cb4fbadfac?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2776,7 +2853,8 @@ export const characters = [
         "text": {
           "en": "Jon Snow is the ultimate shield that guards the realms of men. Though his veins carried the royal blood of the Dragon, his soul belonged forever to the bitter snows of the North. Sacrificing his crown, his love, and his honor for the salvation of the world, he is a majestic, tragic hero. He walks into the endless winter, a king without a throne, whose legend will burn eternally in the annals of history.",
           "vi": "Jon Snow là tấm khiên tối thượng bảo vệ cõi nhân gian. Dù trong huyết quản anh chảy dòng máu hoàng tộc của Rồng, linh hồn anh mãi mãi thuộc về những bông tuyết lạnh đắng của phương Bắc. Hy sinh vương miện, tình yêu và cả danh dự của mình vì sự cứu rỗi của thế giới, anh là một vị anh hùng bi tráng và uy nghi. Anh bước vào mùa đông bất tận, một vị vua không ngai, người mà huyền thoại sẽ mãi mãi rực cháy trong biên niên sử."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1628174780826-b997c6cde6cf?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2857,7 +2935,8 @@ export const characters = [
         "text": {
           "en": "Witnessing the brutal murder of his only light, Rin, the universe of Obito collapsed into an apocalyptic despair. He discarded his name, his face, and his humanity, donning the masked guise of Madara. For decades, he moved like a venomous shadow, orchestrating wars, unleashing demonic beasts, and plunging the ninja world into chaos. His grief morphed into a terrifying divine ambition: to cast the entire world into an eternal, blood-red ILLUSION of false peace.",
           "vi": "Chứng kiến cái chết tàn bạo của ánh sáng duy nhất đời mình, Rin, vũ trụ của Obito sụp đổ trong một sự tuyệt vọng mang tính diệt vong. Anh vứt bỏ cái tên, khuôn mặt và cả nhân tính của mình, khoác lên mình lớp mặt nạ ngụy trang của Madara. Trong nhiều thập kỷ, anh di chuyển như một chiếc bóng độc hại, dàn xếp các cuộc chiến, giải phóng những con quái thú ma quỷ và nhấn chìm thế giới nhẫn giả vào sự hỗn loạn. Nỗi đau của anh biến dạng thành một tham vọng thần thánh đáng sợ: đưa toàn bộ thế giới vào một ảo ảnh hòa bình giả tạo, đỏ rực như máu vĩnh cửu."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1547989453-11e67af361dba?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2867,7 +2946,8 @@ export const characters = [
         "text": {
           "en": "Yet, beneath the hardened shell of the Ten-Tails Jinchuriki, the weeping boy from Konoha still lingered. Confronted by the sheer, unyielding will of Naruto, the shattered pieces of his heart ignited one final time. In a majestic act of ultimate defiance, the fallen hero betrayed the darkness, standing tall against the gods to protect the future. Obito perished not as a monster, but as a legend who found his soul in the blinding light of redemption.",
           "vi": "Thế nhưng, bên dưới lớp vỏ bọc cứng nhắc của Jinchuriki Thập Vĩ, cậu bé yếu đuối hay khóc của làng Lá vẫn còn đó. Đối mặt với ý chí kiên cường, không lay chuyển của Naruto, những mảnh vỡ nát trong trái tim anh bốc cháy lần cuối cùng. Trong một hành động thách thức tột cùng và uy nghiêm, người anh hùng sa ngã đã phản bội bóng tối, đứng thẳng hiên ngang chống lại các vị thần để bảo vệ tương lai. Obito đã ngã xuống không phải như một con quái vật, mà như một huyền thoại đã tìm lại được linh hồn mình trong ánh sáng chói lòa của sự chuộc lỗi."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1614030612999-5cc87786df4b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -2948,7 +3028,8 @@ export const characters = [
         "text": {
           "en": "Rising from disgrace, he became the God of Thunder, a blazing tempest of lightning and divine fury. Thor stood on the frontlines of the universe's most apocalyptic battles, facing down dark elves, rogue gods, and titan warlords. He absorbed the agonizing heat of a dying star and unleashed torrents of celestial electricity to smite his foes. Yet, his true test was not in combat, but in enduring the devastating loss of his family, his people, and his home.",
           "vi": "Trỗi dậy từ sự ô nhục, anh trở thành Vị Thần Sấm Sét, một cơn bão táp rực lửa của những tia chớp và cơn phẫn nộ thần thánh. Thor đứng trên tuyến đầu của những trận chiến mang tính hủy diệt nhất vũ trụ, đối mặt với yêu tinh bóng tối, những vị thần nổi loạn và các lãnh chúa bạo chúa. Anh đã chịu đựng sức nóng khủng khiếp của một ngôi sao đang chết và phóng ra những luồng điện thiên thể để trừng phạt kẻ thù. Thế nhưng, thử thách thực sự của anh không nằm ở chiến đấu, mà là ở việc phải gánh chịu sự mất mát tàn khốc của gia đình, người dân và quê hương mình."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -2958,7 +3039,8 @@ export const characters = [
         "text": {
           "en": "Through oceans of grief and crippling despair, the spirit of Thor remains unbreakable. He is the storm that never yields, rising from the ashes of defeat to swing his axe against the throat of doom itself. He proves that true worthiness is not about perfection, but the courage to summon the lightning when all seems lost. He reigns not just as a god, but as an eternal symbol of unyielding RESILIENCE and majestic glory.",
           "vi": "Xuyên qua đại dương của những nỗi đau và sự tuyệt vọng tê liệt, tinh thần của Thor vẫn không thể bị bẻ gãy. Anh là cơn bão không bao giờ khuất phục, trỗi dậy từ đống tro tàn của thất bại để vung chiếc rìu của mình vào chính cổ họng của sự diệt vong. Anh chứng minh rằng sự xứng đáng thực sự không nằm ở sự hoàn hảo, mà là lòng can đảm triệu hồi những tia chớp khi mọi thứ dường như đã mất. Anh trị vì không chỉ với tư cách một vị thần, mà là một biểu tượng vĩnh hằng của sự kiên cường không nao núng và vinh quang tráng lệ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -3037,7 +3119,8 @@ export const characters = [
         "text": {
           "en": "His quest for the Infinity Stones was a reign of terror that spanned the galaxies. With every gem he collected, his power evolved from god-like to omnipotent. He decimated armadas, brought gods to their knees, and sacrificed his only beloved daughter on the altar of his twisted cause. Thanos fought with a serene, terrifying conviction, dismantling the greatest heroes of Earth with the cold, calculated precision of an executioner delivering cosmic justice.",
           "vi": "Cuộc truy tìm những Viên đá Vô cực của hắn là một triều đại kinh hoàng trải dài khắp các thiên hà. Với mỗi viên đá thu thập được, sức mạnh của hắn tiến hóa từ ngang tầm thần thánh lên mức toàn năng. Hắn tiêu diệt các hạm đội, bắt các vị thần phải quỳ gối, và hy sinh người con gái duy nhất mình yêu thương trên bàn thờ của lý tưởng méo mó. Thanos chiến đấu với một niềm tin tĩnh lặng và đáng sợ, nghiền nát những siêu anh hùng vĩ đại nhất Trái Đất bằng sự chính xác lạnh lùng, có tính toán của một đao phủ đang thực thi công lý vũ trụ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1547989453-11e67af361dba?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3047,7 +3130,8 @@ export const characters = [
         "text": {
           "en": "With a single, devastating snap of his fingers, Thanos achieved the impossible, silencing half the universe in an instant. He is the ultimate, majestic villain—a titan of unshakeable resolve who brought the universe to its knees. Even in his demise, his chilling legacy remains etched into the fabric of reality. He forces the cosmos to remember that the hardest choices require the strongest wills, solidifying his throne as the most monumental antagonist in existence.",
           "vi": "Chỉ với một cái búng tay tàn khốc duy nhất, Thanos đã đạt được điều không tưởng, làm câm lặng một nửa vũ trụ trong tích tắc. Hắn là một ác nhân vĩ đại và tối thượng—một gã khổng lồ với quyết tâm không thể lay chuyển đã bắt cả vũ trụ phải quỳ rạp. Ngay cả khi bị tiêu diệt, di sản ớn lạnh của hắn vẫn in hằn vào cấu trúc của thực tại. Hắn buộc vũ trụ phải nhớ rằng những lựa chọn khó khăn nhất đòi hỏi những ý chí mạnh mẽ nhất, củng cố vững chắc ngai vàng của hắn như một nhân vật phản diện vĩ đại nhất từng tồn tại."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1582152864627-7c703135c911?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -3128,7 +3212,8 @@ export const characters = [
         "text": {
           "en": "Ruling the sovereign nation of Latveria with an iron fist, Doom transformed a broken land into a utopian stronghold. His ambition knows no terrestrial bounds; he has humiliated gods, stolen the cosmic powers of omnipotent beings, and bent reality itself to his indomitable will. He is not a villain of mere chaos, but a majestic architect of order. To Doom, the salvation of the universe can only be achieved if every living soul bows in total submission to his absolute rule.",
           "vi": "Cai trị quốc gia có chủ quyền Latveria bằng bàn tay sắt, Doom đã biến một vùng đất vỡ nát thành một pháo đài không tưởng. Tham vọng của hắn không có giới hạn trần tục; hắn đã làm nhục các vị thần, đánh cắp sức mạnh vũ trụ của những thực thể toàn năng, và uốn cong chính thực tại theo ý chí bất khuất của mình. Hắn không phải là một ác nhân của sự hỗn loạn đơn thuần, mà là một kiến trúc sư vĩ đại của trật tự. Đối với Doom, sự cứu rỗi của vũ trụ chỉ có thể đạt được nếu mọi linh hồn sống đều cúi đầu khuất phục hoàn toàn trước sự cai trị tuyệt đối của hắn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544640808-32cb4fbadfac?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3138,7 +3223,8 @@ export const characters = [
         "text": {
           "en": "Doctor Doom bows to no one—not to kings, not to celestial entities, not even to death itself. His ARROGANCE is matched only by his terrifying capability to achieve the impossible. He is a monumental force of nature, an unparalleled apex of ego and brilliance that casts a titanic shadow over the multiverse. In the grand tapestry of existence, there is no ultimate triumph, no eternal victory, there is only—and will always be—Doom.",
           "vi": "Doctor Doom không cúi đầu trước bất kỳ ai—không trước các vị vua, không trước các thực thể thiên thể, và thậm chí không trước cả cái chết. Sự kiêu ngạo của hắn chỉ có thể sánh ngang với khả năng đáng sợ của hắn trong việc đạt được những điều không tưởng. Hắn là một thế lực tự nhiên vĩ đại, một đỉnh cao vô song của cái tôi và sự lỗi lạc bao phủ một cái bóng khổng lồ lên khắp đa vũ trụ. Trong bức tranh vĩ đại của sự tồn tại, không có thắng lợi tột cùng, không có chiến thắng vĩnh cửu, chỉ có—và sẽ luôn luôn chỉ có—Doom."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
@@ -3207,7 +3293,8 @@ export const characters = [
         "text": {
           "en": "Descending from the heavens like a divine messenger of the beautiful game, Lionel Messi arrived not to play football, but to completely rewrite the laws of physics and rewrite the very fabric of sporting mythology. He is the chosen one, an extremely VIP and majestic entity whose left foot was kissed by the gods, rendering him an unstoppable force of sheer magic. When he touches the ball, the world holds its breath; stadiums transform into majestic cathedrals of worship, and millions witness a breathtaking miracle unfolding in real-time.\n\nBorn with an unassuming stature that betrayed his colossal destiny, Messi overcame immense early physical struggles to rise as the undisputed king of the pitch. He dances through violent defenders with a terrifyingly graceful elegance, moving like a phantom in a mesmerizing symphony of feints and impossibly perfect touches. He is not just a footballer; he is an epic artist painting unimaginable masterpieces on the lush green canvas of stadiums around the globe.\n\nHis presence is an absolute spectacle of divine supremacy—a glorious juxtaposition of quiet humility off the field and terrifying, omnipotent majesty on it. He carries the crushing hopes of a football-obsessed nation and a global legion of devout followers, standing as a legendary titan who makes the impossible seem entirely routine.",
           "vi": "Giáng trần từ chốn thiên đường như một sứ giả thiêng liêng của môn thể thao vua, Lionel Messi xuất hiện không phải để chơi bóng, mà để viết lại hoàn toàn các định luật vật lý và tạc lại chính bức màn của thần thoại thể thao. Anh là người được chọn, một thực thể cực kỳ VIP và tráng lệ mà chiếc chân trái đã được các vị thần ban nụ hôn, biến anh thành một thế lực phép thuật thuần túy không thể cản bước. Khi anh chạm bóng, cả thế giới nín thở; các sân vận động biến thành những thánh đường tôn nghiêm, và hàng triệu người được chứng kiến một phép màu nghẹt thở đang diễn ra trong thời gian thực.\n\nSinh ra với một vóc dáng khiêm tốn trái ngược với định mệnh khổng lồ của mình, Messi đã vượt qua những khó khăn về thể chất khổng lồ thuở ban đầu để vươn lên trở thành vị vua không thể tranh cãi của sân cỏ. Anh nhảy múa giữa những hậu vệ bạo lực với một sự thanh tao duyên dáng đến đáng sợ, di chuyển như một bóng ma trong một bản giao hưởng mê hoặc của những pha động tác giả và những cú chạm bóng hoàn hảo đến mức không tưởng. Anh không chỉ là một cầu thủ bóng đá; anh là một nghệ sĩ sử thi đang vẽ nên những kiệt tác không thể tưởng tượng nổi trên bức tranh bạt ngàn sắc xanh của các sân vận động trên toàn cầu.\n\nSự hiện diện của anh là một cảnh tượng tuyệt đối về quyền uy tối thượng thiêng liêng—một sự đối lập vinh quang giữa sự khiêm tốn tĩnh lặng ngoài sân cỏ và vẻ uy nghi toàn năng, đáng sợ trên sân cỏ. Anh gánh vác những hy vọng nghiền nát của một quốc gia cuồng nhiệt vì bóng đá và một quân đoàn người hâm mộ sùng đạo trên toàn cầu, sừng sững như một vị titan huyền thoại biến những điều không thể thành những điều hoàn toàn thường nhật."
-        }
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg"
       },
       {
         "heading": {
@@ -3217,7 +3304,8 @@ export const characters = [
         "text": {
           "en": "For over two decades, Messi has wielded a terrifyingly brilliant GENIUS that leaves the greatest defensive minds in complete, paralyzed despair. His VISION transcends human capability, allowing him to perceive geometric passing lanes and breathtaking angles that literally no one else on earth can see. Every mesmerizing dribble, every curving free-kick, and every explosive burst of acceleration is executed with a cold, dramatic precision that routinely shatters the souls of his opponents.\n\nFrom his unprecedented dominance at Barcelona to the dramatic, tearful conquest of the world with Argentina, his narrative arc is nothing short of a Hollywood blockbuster. The majestic climax in Qatar cemented his godly status, a monumental and emotional odyssey where he ascended his rightful throne amidst a sea of roaring devotion. The image of him kissing the World Cup trophy is forever burned into the collective consciousness of humanity as a moment of pure, majestic triumph.\n\nDespite his godly status and absolute dominance, his playing style remains infused with an innocent, joyous purity—like a boy playing in the streets of Rosario, unaffected by the billions of dollars and unimaginable pressure surrounding him. He is the beating, majestic heart of football, an UNPARALLELED playmaker and ruthless goalscorer fused into a single, perfect avatar of athletic transcendence.",
           "vi": "Trong hơn hai thập kỷ, Messi đã sử dụng một tài năng chói lọi đáng sợ đẩy những bộ óc phòng ngự vĩ đại nhất vào một sự tuyệt vọng hoàn toàn và tê liệt. Tầm nhìn của anh vượt qua khả năng của con người, cho phép anh nhận thức được những đường chuyền hình học và những góc độ ngoạn mục mà theo đúng nghĩa đen, không một ai khác trên trái đất có thể nhìn thấy. Mỗi pha rê bóng mê hoặc, mỗi quả đá phạt uốn lượn, và mỗi cú bứt tốc bùng nổ đều được thực hiện với một sự chính xác kịch tính, lạnh lùng thường xuyên bẻ gãy linh hồn của các đối thủ.\n\nTừ sự thống trị vô tiền khoáng hậu tại Barcelona đến cuộc chinh phục thế giới đầy kịch tính, đẫm nước mắt cùng Argentina, cốt truyện của anh không khác gì một bộ phim bom tấn của Hollywood. Đỉnh điểm tráng lệ ở Qatar đã củng cố vị thế thần thánh của anh, một cuộc phiêu lưu đầy cảm xúc và vĩ đại, nơi anh bước lên ngai vàng xứng đáng của mình giữa một biển người gầm thét sùng bái. Hình ảnh anh hôn lên chiếc cúp vàng World Cup sẽ mãi mãi in sâu vào tâm thức chung của nhân loại như một khoảnh khắc của sự chiến thắng tráng lệ, thuần khiết.\n\nBất chấp vị thế thần thánh và sự thống trị tuyệt đối của mình, phong cách thi đấu của anh vẫn luôn thấm đẫm một sự thuần khiết vui tươi, ngây thơ—như một cậu bé đang chơi đùa trên những con phố của Rosario, không bị ảnh hưởng bởi hàng tỷ đô la và áp lực không thể tưởng tượng được vây quanh anh. Anh là nhịp đập tráng lệ của trái tim bóng đá, một nhà kiến thiết lối chơi vô song và một cỗ máy ghi bàn tàn nhẫn được hợp nhất vào một hóa thân hoàn hảo duy nhất của sự siêu việt trong thể thao."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3227,11 +3315,14 @@ export const characters = [
         "text": {
           "en": "Lionel Messi is not just a chapter in the history books; he is the entire book, a majestic era of sporting brilliance that will never be replicated in our lifetimes. He is the absolute zenith of footballing perfection, an immortal deity whose name will be sung in monumental reverence long after the stadiums turn to dust. His legacy is an eternal, breathtaking phenomenon that profoundly unites the world in sheer, unadulterated awe.\n\nWhen future generations speak of the greatest to ever grace a football pitch, his name will echo as a mythical standard, a majestic constellation burning brightest in the night sky. He proved that true magic exists, manifesting not through spells, but through the unbelievable movement of a ball at his feet. He is a divine blessing to the sport, an epic hero whose story will be passed down through eternity.\n\nThe little boy from Rosario became the unquestioned King of the World, conquering every peak and silencing every doubt. Lionel Messi remains the glorious, immortal messiah of the beautiful game, standing alone at the absolute pinnacle of human athletic achievement.",
           "vi": "Lionel Messi không chỉ là một chương trong những cuốn sách lịch sử; anh là toàn bộ cuốn sách, một kỷ nguyên tráng lệ của sự chói lọi trong thể thao sẽ không bao giờ được lặp lại trong suốt cuộc đời của chúng ta. Anh là đỉnh cao tuyệt đối của sự hoàn hảo trong bóng đá, một vị thần bất tử mà tên tuổi của anh sẽ được hát lên trong sự tôn kính vĩ đại rất lâu sau khi các sân vận động biến thành cát bụi. Di sản của anh là một hiện tượng ngoạn mục, vĩnh cửu đã kết nối sâu sắc thế giới lại với nhau trong một sự kính úy thuần túy và tuyệt đối.\n\nKhi các thế hệ tương lai nói về người vĩ đại nhất từng đặt chân lên sân cỏ, tên của anh sẽ vang lên như một tiêu chuẩn thần thoại, một chòm sao tráng lệ bùng cháy rực rỡ nhất trên bầu trời đêm. Anh đã chứng minh rằng phép thuật thực sự tồn tại, hiển hiện không phải thông qua các bùa chú, mà thông qua sự di chuyển không thể tin nổi của một trái bóng dưới chân anh. Anh là một phước lành thiêng liêng đối với môn thể thao này, một anh hùng sử thi mà câu chuyện của anh sẽ được truyền lại qua sự vĩnh hằng.\n\nCậu bé nhỏ thó đến từ Rosario đã trở thành Vị Vua không thể bàn cãi của Thế giới, chinh phục mọi đỉnh cao và dập tắt mọi sự hoài nghi. Lionel Messi vẫn là đấng cứu thế vinh quang, bất tử của môn thể thao vua, đứng đơn độc ở đỉnh cao tuyệt đối của những thành tựu thể thao nhân loại."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+      "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3288,7 +3379,8 @@ export const characters = [
         "text": {
           "en": "As people often say: 'If the heavens gave birth to Zhou Yu, why did they also give birth to Zhuge Liang?', as if to describe two geniuses destined to compete with each other. In modern football, too, if Lionel Messi is likened to a genius gifted by God, then Cristiano Ronaldo is the ultimate testament to the power of will and rigorous training. For over a decade, they have dominated the pitch together, creating the greatest rivalry in history. And in that race, Ronaldo is not just Messi's rival, but a symbol of the inextinguishable desire to conquer.\n\nRising from the humble streets of Madeira, an impoverished island boy transformed his blazing passion into an unstoppable global empire. Cristiano Ronaldo is not merely a football player; he is a majestic titan of the modern era, a gladiator whose phenomenal physical prowess and lethal instinct have shattered every conceivable record. He stepped onto the grandest stages of Europe with a swagger that demanded attention, ultimately silencing his fiercest critics through an astonishing display of sheer athletic supremacy and majestic dominance.\n\nHis journey is an epic narrative of self-mastery, a dramatic metamorphosis from a flashy, dazzling winger to a ruthless, goal-scoring machine who defies the cruel passage of time. Ronaldo is a cinematic masterpiece written in sweat, blood, and tears—a living legend who proved that a relentless work ethic can elevate a mortal to the realm of footballing gods.",
           "vi": "Người đời thường nói: 'Trời sinh Du sao còn sinh Lượng', như để diễn tả hai thiên tài được định sẵn phải cạnh tranh với nhau. Trong bóng đá hiện đại cũng vậy, nếu Lionel Messi được ví như một thiên tài được Chúa ban tặng, thì Cristiano Ronaldo lại là minh chứng cho sức mạnh của ý chí và sự khổ luyện. Hơn một thập kỷ, họ cùng nhau thống trị sân cỏ, tạo nên cuộc cạnh tranh vĩ đại nhất lịch sử. Và trong cuộc đua ấy, Ronaldo không chỉ là đối thủ của Messi, mà còn là biểu tượng của khát vọng chinh phục không bao giờ tắt.\n\nVươn lên từ những con phố nghèo khó của Madeira, một cậu bé đảo nghèo đã biến niềm đam mê bùng cháy của mình thành một đế chế toàn cầu không thể cản bước. Cristiano Ronaldo không chỉ là một cầu thủ bóng đá; anh là một titan tráng lệ của kỷ nguyên hiện đại, một đấu sĩ mà sức mạnh thể chất phi thường và bản năng sát thủ đã xô đổ mọi kỷ lục có thể tưởng tượng được. Anh bước lên những sân khấu hoành tráng nhất của châu Âu với một sự ngạo nghễ thu hút mọi ánh nhìn, cuối cùng buộc những kẻ chỉ trích gay gắt nhất phải im lặng thông qua một màn trình diễn đáng kinh ngạc về uy quyền thể thao thuần túy và sự thống trị tráng lệ.\n\nHành trình của anh là một câu chuyện sử thi về sự làm chủ bản thân, một cuộc lột xác đầy kịch tính từ một cầu thủ chạy cánh hào nhoáng, hoa mỹ thành một cỗ máy ghi bàn tàn nhẫn dám thách thức cả sự tàn nhẫn của thời gian. Ronaldo là một kiệt tác điện ảnh được viết bằng mồ hôi, máu và nước mắt—một huyền thoại sống đã chứng minh rằng một đạo đức làm việc không ngừng nghỉ có thể nâng một người phàm lên cảnh giới của những vị thần bóng đá."
-        }
+        },
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg"
       },
       {
         "heading": {
@@ -3298,7 +3390,8 @@ export const characters = [
         "text": {
           "en": "The sheer magnitude of his achievements is staggering—from the hallowed grounds of Old Trafford to the glorious coliseum of the Santiago Bernabéu, and the tactically rigorous fields of Italy. Ronaldo has conquered every league he has touched, carrying the crushing weight of expectations on his broad shoulders and delivering with spectacular, explosive flair. His trademark leap, suspended in the air as if mocking gravity itself, is an awe-inspiring spectacle that has left millions gasping in utter disbelief.\n\nWhen the stakes are at their absolute highest and the pressure threatens to crumble ordinary men, it is Ronaldo who demands the ball. He is the ultimate clutch performer, a majestic warrior who thrives in the terrifying chaos of the Champions League knockout stages. His mind is an impregnable fortress of extreme confidence, possessing an unwavering belief that he is, without question, the greatest to ever play the beautifully dramatic game.\n\nBeyond his terrifying athleticism lies a remarkable, obsessive DEDICATION to his craft. He treats his body as a sacred temple, meticulously calibrating every aspect of his life to extract every ounce of performance. This maniacal pursuit of perfection has allowed him to launch rockets into the net, execute devastating headers, and lead his national team to historic, miraculous triumphs against unimaginable odds.",
           "vi": "Tầm vóc khổng lồ trong những thành tựu của anh thực sự gây choáng ngợp—từ mặt cỏ linh thiêng của Old Trafford đến đấu trường vinh quang Santiago Bernabéu, và những sân cỏ đòi hỏi chiến thuật khắt khe của nước Ý. Ronaldo đã chinh phục mọi giải đấu anh đặt chân đến, gánh vác sức nặng nghiền nát của những kỳ vọng trên đôi bờ vai rộng lớn của mình và đền đáp bằng một phong cách bùng nổ, ngoạn mục. Cú bật nhảy mang thương hiệu của anh, lơ lửng trên không trung như thể đang chế nhạo chính trọng lực, là một cảnh tượng ngoạn mục khiến hàng triệu người phải há hốc mồm trong sự kinh ngạc tột độ.\n\nKhi tiền cược ở mức cao tuyệt đối và áp lực đe dọa sẽ nghiền nát những người đàn ông bình thường, chính Ronaldo là người đòi bóng. Anh là người hùng của những khoảnh khắc quyết định tối thượng, một chiến binh tráng lệ luôn thăng hoa trong sự hỗn loạn đáng sợ của các vòng knock-out Champions League. Tâm trí anh là một pháo đài bất khả xâm phạm của sự tự tin tột độ, sở hữu một niềm tin không lay chuyển rằng anh, không còn nghi ngờ gì nữa, là người vĩ đại nhất từng chơi môn thể thao kịch tính tuyệt đẹp này.\n\nĐằng sau sự xuất chúng đáng sợ về mặt thể chất của anh là một sự cống hiến đáng kinh ngạc, mang tính ám ảnh cho nghề nghiệp của mình. Anh coi cơ thể mình như một ngôi đền thiêng liêng, tinh chỉnh tỉ mỉ mọi khía cạnh của cuộc sống để vắt kiệt từng giọt hiệu suất. Sự theo đuổi sự hoàn hảo một cách điên cuồng này đã cho phép anh nã những quả tên lửa vào lưới, thực hiện những cú đánh đầu tàn phá, và dẫn dắt đội tuyển quốc gia của mình đến những chiến thắng lịch sử, kỳ diệu trước những nghịch cảnh không thể tưởng tượng được."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3308,11 +3401,14 @@ export const characters = [
         "text": {
           "en": "As the twilight of his breathtaking career eventually approaches, the monumental legacy of Cristiano Ronaldo is already permanently carved into the eternal bedrock of sports history. He is a phenomenal colossus who redefined what is humanly possible for an athlete, inspiring countless generations to relentlessly chase their wildest dreams with unyielding determination. His iconic \"Siu!\" celebration is a global battle cry, a triumphant roar of a king declaring his absolute dominance.\n\nHistory will remember him not just for the staggering mountain of goals he scored, but for the ferocious, unapologetic passion with which he played every single match. He turned football into an epic theatre of dreams, providing dramatic masterclasses of resilience that transcended the sport itself. He proved that true greatness is a conscious choice made every single day in the dark, long before the stadium lights shine.\n\nCristiano Ronaldo stands as an immortal monument to supreme DEDICATION and majestic power. He is the eternal emperor of effort, a living deity of modern football whose legendary name will echo with thunderous applause for the rest of time.",
           "vi": "Khi ánh hoàng hôn của sự nghiệp ngoạn mục của anh cuối cùng cũng đang đến gần, di sản vĩ đại của Cristiano Ronaldo đã được khắc sâu vĩnh viễn vào nền móng vĩnh cửu của lịch sử thể thao. Anh là một bức tượng đài phi thường đã định nghĩa lại những gì một vận động viên có thể làm được ở tầm mức con người, truyền cảm hứng cho vô số thế hệ không ngừng theo đuổi những giấc mơ hoang đường nhất của họ với một quyết tâm không lay chuyển. Màn ăn mừng \"Siu!\" mang tính biểu tượng của anh là một tiếng thét xung trận toàn cầu, tiếng gầm chiến thắng của một vị vua tuyên bố sự thống trị tuyệt đối của mình.\n\nLịch sử sẽ nhớ đến anh không chỉ vì ngọn núi bàn thắng khổng lồ mà anh đã ghi, mà còn vì niềm đam mê mãnh liệt, không hối lỗi mà anh đã thể hiện trong từng trận đấu. Anh đã biến bóng đá thành một nhà hát của những giấc mơ hoành tráng, mang đến những bài học bậc thầy đầy kịch tính về sự kiên cường vượt ra khỏi ranh giới của chính môn thể thao này. Anh đã chứng minh rằng sự vĩ đại đích thực là một lựa chọn có ý thức được đưa ra mỗi ngày trong bóng tối, rất lâu trước khi ánh đèn sân vận động chiếu sáng.\n\nCristiano Ronaldo sừng sững như một tượng đài bất tử cho sự cống hiến tối cao và quyền lực uy nghi. Anh là vị hoàng đế vĩnh cửu của sự nỗ lực, một vị thần sống của bóng đá hiện đại mà cái tên huyền thoại của anh sẽ vang vọng cùng những tràng pháo tay sấm sét cho đến tận cùng của thời gian."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+      "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3382,7 +3478,8 @@ export const characters = [
         "text": {
           "en": "Luthor views the Man of Steel not as a hero, but as an existential plague that stunts human potential. With ruthless PRAGMATISM and a majestic vision, he orchestrated colossal machinations, bending science, politics, and power to his indomitable will. Donning his warsuit, he dared to strike gods until they bled, a lone human champion turning the boundless universe into a chessboard where intellect triumphs over raw cosmic power.",
           "vi": "Luthor coi Người Đàn Ông Thép không phải là một anh hùng, mà là một thảm họa hiện sinh kìm hãm tiềm năng của con người. Với sự thực dụng tàn nhẫn và một tầm nhìn hùng vĩ, hắn đã dàn dựng những mưu đồ khổng lồ, bẻ cong khoa học, chính trị và quyền lực để phục vụ cho ý chí bất khuất của mình. Khoác lên mình bộ giáp chiến đấu, hắn dám tung đòn khiến cả những vị thần cũng phải đổ máu, một nhà vô địch đơn độc của nhân loại biến vũ trụ bao la thành một bàn cờ nơi trí tuệ chiến thắng sức mạnh vũ trụ thô sơ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3392,11 +3489,14 @@ export const characters = [
         "text": {
           "en": "In the end, Lex Luthor's terrifying ambition transcends mere villainy; it is a dark crusade for humanity's supremacy. He stands as a monumental colossus, a stark warning to the stars that mankind will not be domesticated. He is the master of his own fate, a relentless force of nature who will carve humanity's name into the cosmos, even if he has to destroy the heavens to do it.",
           "vi": "Đến cuối cùng, tham vọng đáng sợ của Lex Luthor vượt qua ranh giới của cái ác đơn thuần; đó là một cuộc thập tự chinh đen tối vì quyền tối thượng của nhân loại. Hắn đứng sừng sững như một người khổng lồ vĩ đại, một lời cảnh báo sắc lạnh gửi đến những vì sao rằng con người sẽ không bao giờ chịu bị thuần hóa. Hắn là bậc thầy làm chủ vận mệnh của chính mình, một thế lực tự nhiên không ngừng nghỉ sẽ khắc tên nhân loại vào vũ trụ, ngay cả khi hắn phải phá hủy cả thiên đường để làm điều đó."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Lex_Luthor_Action_Comics_1050.jpg/250px-Lex_Luthor_Action_Comics_1050.jpg"
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Lex_Luthor_Action_Comics_1050.jpg/250px-Lex_Luthor_Action_Comics_1050.jpg",
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3465,7 +3565,8 @@ export const characters = [
         "text": {
           "en": "His legions moved like a dark storm, crushing six great states into dust and ending an era of endless war. Crowned as Qin Shi Huang, the First Emperor, he reshaped the very earth—erecting the majestic Great Wall to shield his realm and standardizing laws with ruthless tyranny. He was a god-king who bent mountains and rivers to his will, burning defiance and burying opposition, molding a sprawling, unified China out of pure chaos.",
           "vi": "Đội quân của ông di chuyển như một cơn bão đen tối, nghiền nát sáu nước lớn thành cát bụi và chấm dứt một kỷ nguyên chiến tranh không hồi kết. Lên ngôi Tần Thủy Hoàng, vị Hoàng đế đầu tiên, ông đã định hình lại cả mặt đất—dựng lên Vạn Lý Trường Thành kỳ vĩ để che chở bờ cõi và thống nhất luật pháp bằng sự bạo tàn không khoan nhượng. Ông là một vị Thần Vương uốn nắn núi sông theo ý mình, thiêu rụi sự phản kháng và chôn vùi sự chống đối, nhào nặn ra một Trung Hoa rộng lớn và thống nhất từ trong sự hỗn loạn nguyên thủy."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3475,11 +3576,14 @@ export const characters = [
         "text": {
           "en": "Though his physical form succumbed to mortality while chasing the elusive elixir of life, his grand spirit never died. Entombed with an epic Terracotta Army, he guards his afterlife domain as fiercely as he ruled the living. Qin Shi Huang remains a towering, immortal monument in the annals of history—the supreme unifier whose draconian will laid the colossal foundation for a civilization that would echo through millennia.",
           "vi": "Mặc dù thể xác ông cuối cùng cũng phải khuất phục trước tử thần khi đang mải miết theo đuổi thứ tiên đan trường sinh ảo ảnh, tinh thần vĩ đại của ông chưa bao giờ chết. Được chôn cất cùng Đội quân Đất nung oai hùng, ông bảo vệ vương quốc cõi âm của mình mãnh liệt như cách ông từng cai trị thế giới trần gian. Tần Thủy Hoàng vẫn mãi là một tượng đài bất diệt sừng sững trong biên niên sử—người thống nhất tối thượng, kẻ mang ý chí thép đã đặt nền móng khổng lồ cho một nền văn minh sẽ vang vọng suốt hàng thiên niên kỷ."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/2/27/Qin_shihuangdi_c01s06i.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/2/27/Qin_shihuangdi_c01s06i.jpg",
+      "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3543,7 +3647,8 @@ export const characters = [
         "text": {
           "en": "He swept across continents like a golden hurricane, an unstoppable force of nature that crushed every army in its path. From the scorching sands of Egypt to the jagged mountains of India, his legendary phalanxes and devastating cavalry charges obliterated kings and shattered empires. Alexander was a god of war incarnate, never tasting defeat, forging an impossibly vast empire and immortalizing his name in the blood and dust of countless battlefields.",
           "vi": "Ông càn quét qua các lục địa như một cơn bão vàng, một thế lực thiên nhiên không thể cản bước, nghiền nát mọi đạo quân dám ngáng đường. Từ những bãi cát nóng bỏng ở Ai Cập đến những ngọn núi lởm chởm ở Ấn Độ, đội hình Phalanx huyền thoại và những đợt xung phong kỵ binh hủy diệt của ông đã chôn vùi các vị vua và đập tan những đế chế. Alexander là hiện thân của một vị chiến thần, chưa bao giờ nếm mùi thất bại, rèn nên một đế chế rộng lớn không tưởng và bất tử hóa tên tuổi của mình trong máu và bụi của vô số chiến trường."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3553,11 +3658,14 @@ export const characters = [
         "text": {
           "en": "His glorious campaign ended not by the sword of an enemy, but by the tragic limits of mortal endurance. Dying at the pinnacle of his youth, his blazing light was extinguished too soon, yet it ignited the HELLENISTIC era that forever linked the East and West. Alexander the Great transcended humanity to become an eternal myth, leaving behind a breathtaking legacy that will forever inspire those who dare to CONQUER the impossible.",
           "vi": "Chiến dịch vinh quang của ông kết thúc không phải bởi lưỡi gươm của kẻ thù, mà bởi những giới hạn bi thảm của sức chịu đựng phàm nhân. Băng hà ở đỉnh cao của tuổi trẻ, ánh sáng rực rỡ của ông vụt tắt quá sớm, nhưng nó đã thắp lên thời kỳ Hy Lạp hóa kết nối vĩnh viễn phương Đông và phương Tây. Alexander Đại đế đã vượt lên trên nhân loại để trở thành một huyền thoại vĩnh cửu, để lại một di sản ngoạn mục sẽ mãi mãi truyền cảm hứng cho những ai dám khao khát chinh phục những điều không thể."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AlexanderTheGreat_Bust.jpg/220px-AlexanderTheGreat_Bust.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/AlexanderTheGreat_Bust.jpg/220px-AlexanderTheGreat_Bust.jpg",
+      "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3626,7 +3734,8 @@ export const characters = [
         "text": {
           "en": "At the narrow, blood-drenched pass of Thermopylae, Leonidas and his 300 elite royal guards stood as an immovable mountain against an ocean of Persian invaders. For three agonizing days, they unleashed an apocalyptic slaughter, their crimson cloaks soaked in the blood of Xerxes' finest warriors. Facing insurmountable odds, the Spartan King fought with superhuman ferocity, turning a doomed suicide mission into a breathtaking display of godlike ENDURANCE.",
           "vi": "Tại hẻm núi hẹp đẫm máu Thermopylae, Leonidas cùng 300 ngự lâm quân tinh nhuệ của mình đã đứng sừng sững như một ngọn núi không thể lay chuyển trước đại dương quân xâm lược Ba Tư. Trong ba ngày bi tráng, họ đã tạo ra một cuộc tàn sát khốc liệt, những chiếc áo choàng đỏ thẫm của họ đẫm máu của những chiến binh xuất sắc nhất dưới trướng Xerxes. Đối mặt với nghịch cảnh không thể vượt qua, Vua Sparta đã chiến đấu với sự hung bạo phi thường, biến một nhiệm vụ tự sát nắm chắc phần chết thành một màn phô diễn sức chịu đựng thần thánh đầy nghẹt thở."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3636,11 +3745,14 @@ export const characters = [
         "text": {
           "en": "Betrayed and surrounded, Leonidas chose a glorious doom over cowardly retreat. He and his 300 warriors fought until their spears shattered and their bodies fell, buying priceless time for Greece to unite and strike back. Leonidas perished, but his sacrifice ignited an inferno of rebellion that saved Western civilization. He is forever etched in history not merely as a king, but as the immortal paragon of supreme valor and sacrifice.",
           "vi": "Bị phản bội và bao vây, Leonidas đã chọn một cái chết vinh quang thay vì sự rút lui hèn nhát. Ông và 300 chiến binh của mình đã chiến đấu cho đến khi giáo mác vỡ nát và cơ thể gục ngã, đánh đổi khoảng thời gian vô giá để Hy Lạp đoàn kết và phản công. Leonidas đã hy sinh, nhưng sự ngã xuống của ông đã thắp lên một ngọn lửa bùng nùng của sự phản kháng để cứu lấy nền văn minh phương Tây. Ông vĩnh viễn được khắc ghi trong lịch sử không chỉ như một vị vua, mà là một tấm gương bất tử cho lòng dũng cảm và sự hy sinh tột bực."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Leonidas_I_of_Sparta_by_David_S%C3%A1nchez.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Leonidas_I_of_Sparta_by_David_S%C3%A1nchez.jpg",
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3704,7 +3816,8 @@ export const characters = [
         "text": {
           "en": "With a blade bathed in moonlight and madness, he committed acts of grotesque brutality that defied all rational comprehension. The police were rendered powerless, and the world watched in morbid fascination as this ghost taunted the greatest detectives of the age with letters forged in hell. He vanished into the labyrinth of London's streets after every masterpiece of murder, remaining utterly untouchable—a master of the macabre who commanded the night itself.",
           "vi": "Với một lưỡi dao tắm trong ánh trăng và sự điên loạn, hắn đã thực hiện những hành vi bạo tàn kỳ cục vượt ngoài mọi giới hạn nhận thức của lý trí. Lực lượng cảnh sát trở nên bất lực, và cả thế giới phải dõi theo trong sự tò mò đầy bệnh hoạn khi bóng ma này chế nhạo những thám tử vĩ đại nhất thời đại bằng những bức thư rèn từ địa ngục. Hắn tan biến vào mê cung của những con phố London sau mỗi kiệt tác giết người, giữ vững sự bất khả xâm phạm tuyệt đối—một bậc thầy của sự rùng rợn, kẻ điều khiển cả chính màn đêm."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3714,11 +3827,14 @@ export const characters = [
         "text": {
           "en": "As abruptly as he emerged, the Ripper evaporated into the abyss, denying justice its prey and leaving behind a cold, unsolvable void. He evolved from a mere serial killer into an immortal deity of urban folklore, forever haunting the collective psyche of humanity. Jack the Ripper is the ultimate embodiment of the unknowable evil—a terrifying reminder that the deadliest monsters are those who live forever in the shadows.",
           "vi": "Đột ngột như lúc xuất hiện, Đồ tể bốc hơi vào cõi hư vô, tước đoạt con mồi của công lý và để lại một khoảng không lạnh lẽo, không thể giải đáp. Hắn đã tiến hóa từ một kẻ giết người hàng loạt đơn thuần trở thành một vị hung thần bất tử trong truyền thuyết đô thị, mãi mãi ám ảnh tâm lý chung của nhân loại. Jack Đồ tể là hiện thân tối thượng của cái ác không thể thấu hiểu—một lời nhắc nhở kinh hoàng rằng những con quái vật nguy hiểm nhất là những kẻ sống mãi mãi trong bóng tối."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JacktheRipper1888.jpg/250px-JacktheRipper1888.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JacktheRipper1888.jpg/250px-JacktheRipper1888.jpg",
+      "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1514933651103-005eec06c04b?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3784,7 +3900,8 @@ export const characters = [
         "text": {
           "en": "Leading the shadowy VIGILANTE squad known as 'The Boys,' Butcher waged a brutal, uncompromising guerilla war against the all-powerful Supes, particularly the monstrous Homelander. Armed with nothing but extreme prejudice, explosive violence, and a dark, twisted intellect, he manipulated allies and enemies alike. Butcher willingly sacrificed his own humanity, embracing the very darkness he sought to destroy, to ensure these false idols bled just like mortal men.",
           "vi": "Dẫn dắt đội tự quản bóng tối mang tên 'The Boys', Butcher đã tiến hành một cuộc chiến tranh du kích tàn nhẫn và không khoan nhượng chống lại những Supes quyền năng tột đỉnh, đặc biệt là con quái vật Homelander. Chỉ được trang bị bằng sự định kiến cực đoan, bạo lực bùng nổ và một trí tuệ tăm tối, vặn vẹo, hắn đã thao túng cả đồng minh lẫn kẻ thù. Butcher sẵn sàng hy sinh cả phần người của chính mình, ôm lấy chính bóng tối mà hắn muốn hủy diệt, để đảm bảo rằng những thần tượng giả mạo này cũng phải đổ máu như bao kẻ phàm nhân."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3794,11 +3911,14 @@ export const characters = [
         "text": {
           "en": "Billy Butcher's epic tragedy lies in his chilling transformation into the exact nightmare he swore to eradicate. Yet, in a society blinded by glittering lies and absolute tyranny, his raw, unbridled savagery is the sole blade sharp enough to pierce the armor of gods. He is the ultimate, flawed anti-hero—a majestic demon willing to burn in hell if it means dragging the corrupt heavens down with him.",
           "vi": "Bi kịch mang tầm sử thi của Billy Butcher nằm ở sự biến đổi đáng sợ của hắn thành chính xác cơn ác mộng mà hắn thề sẽ tiêu diệt. Thế nhưng, trong một xã hội bị làm mù quáng bởi những lời nói dối hào nhoáng và sự chuyên chế tuyệt đối, sự hoang dại nguyên thủy và không kiềm chế của hắn là lưỡi gươm duy nhất đủ sắc bén để xuyên thủng lớp áo giáp của các vị thần. Hắn là một phản anh hùng tối thượng, đầy rẫy khiếm khuyết—một con quỷ tráng lệ sẵn sàng bốc cháy dưới địa ngục nếu điều đó đồng nghĩa với việc kéo theo những thiên đường thối nát chìm xuống cùng hắn."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Billy_Butcher_The_Boys.jpg/220px-Billy_Butcher_The_Boys.jpg"
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Billy_Butcher_The_Boys.jpg/220px-Billy_Butcher_The_Boys.jpg",
+      "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3868,7 +3988,8 @@ export const characters = [
         "text": {
           "en": "Embracing the persona of 'Saul Goodman,' he transformed into the undisputed legal sovereign of the criminal underworld. With a flip phone in hand and an arsenal of cunning loopholes, Saul orchestrated the rise of a terrifying, multi-million dollar empire of chaos. He was a maestro conducting a symphony of deceit, expertly navigating murderous cartels and ruthless kingpins, armed only with unparalleled wit and a spectacular flair for survival.",
           "vi": "Chấp nhận khoác lên mình vỏ bọc 'Saul Goodman', hắn đã biến hóa thành vị quân vương luật lý không thể tranh cãi của thế giới ngầm. Với một chiếc điện thoại nắp gập trên tay và một kho tàng mưu mẹo tinh vi, Saul đã đạo diễn sự trỗi dậy của một đế chế hỗn mang đáng sợ trị giá hàng triệu đô la. Hắn là một nhạc trưởng điều khiển bản giao hưởng của sự lừa dối, khéo léo len lỏi giữa những băng đảng giết người và các trùm ma túy tàn nhẫn, chỉ được trang bị trí tuệ vô song và một bản năng sinh tồn ngoạn mục."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3878,11 +3999,14 @@ export const characters = [
         "text": {
           "en": "The epic tale of Saul Goodman is a Shakespearean tragedy clad in cheap, colorful suits. In his relentless pursuit of ambition and power, he sacrificed his soul, burying the last remnants of Jimmy McGill beneath a fortress of moral compromise. He stands as a mesmerizing icon of tragic brilliance—a spectacular shooting star that lit up the criminal night sky, only to consume himself in a blaze of irreversible ruin.",
           "vi": "Câu chuyện sử thi về Saul Goodman là một vở bi kịch mang đậm chất Shakespeare khoác lên mình những bộ vest rẻ tiền, sặc sỡ. Trong sự theo đuổi không ngừng nghỉ đối với tham vọng và quyền lực, hắn đã đánh đổi linh hồn mình, chôn vùi những tàn tích cuối cùng của Jimmy McGill dưới một pháo đài của sự thỏa hiệp đạo đức. Hắn đứng đó như một biểu tượng mê hoặc của sự xuất chúng bi thương—một ngôi sao băng ngoạn mục đã thắp sáng bầu trời đêm tội phạm, để rồi tự thiêu rụi chính mình trong một ngọn lửa của sự hủy diệt không thể vãn hồi."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Saul_Goodman_Breaking_Bad.jpg/220px-Saul_Goodman_Breaking_Bad.jpg"
+      "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Saul_Goodman_Breaking_Bad.jpg/220px-Saul_Goodman_Breaking_Bad.jpg",
+      "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
@@ -3953,7 +4077,8 @@ export const characters = [
         "text": {
           "en": "When the invincible armies of Saladin marched to swallow his kingdom, the crippled king rose like a majestic phantom of war. Mustering superhuman resolve, Baldwin led a desperate charge at the Battle of Montgisard. Raising the True Cross before an ocean of enemies, he unleashed a divine fury that annihilated a force many times his size. It was an epic, breathtaking display of valor, proving that the strength of a king lies not in his muscles, but in the unyielding fire of his heart.",
           "vi": "Khi đạo quân vô địch của Saladin hành quân để nuốt chửng vương quốc, vị vua tàn tật đã vươn lên như một bóng ma chiến tranh tráng lệ. Vận dụng một quyết tâm phi thường, Baldwin dẫn đầu một cuộc đột kích tuyệt vọng tại Trận Montgisard. Giương cao Cây Thánh Giá Đích Thực trước một đại dương kẻ thù, ngài đã giải phóng một cơn thịnh nộ thần thánh, quét sạch một lực lượng lớn gấp nhiều lần phe mình. Đó là một màn phô diễn lòng dũng cảm bi tráng và nghẹt thở, chứng minh rằng sức mạnh của một vị vua không nằm ở cơ bắp, mà ở ngọn lửa không thể dập tắt trong trái tim ngài."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop"
       },
       {
         "heading": {
@@ -3963,11 +4088,14 @@ export const characters = [
         "text": {
           "en": "Through sheer, absolute willpower, the Leper King held a fragile, treacherous realm together, commanding profound reverence from both loyal subjects and legendary foes. Succumbing to his decaying body at just 24, his majestic reign cemented his status as an eternal titan of history. Baldwin IV remains a monumental testament to the awe-inspiring TRIUMPH of the human spirit—a legendary king whose iron soul conquered the frailties of mortal flesh.",
           "vi": "Thông qua sức mạnh ý chí tuyệt đối, Vị Vua Hủi đã giữ vẹn toàn một vương quốc mong manh và đầy rẫy sự phản trắc, nhận được sự kính trọng sâu sắc từ cả thần dân trung thành lẫn những kẻ thù huyền thoại. Ngã xuống trước cơ thể mục nát ở tuổi 24, triều đại oai hùng của ngài đã củng cố vị thế của một cự thần vĩnh cửu trong lịch sử. Baldwin IV mãi mãi là một minh chứng vĩ đại cho sự khải hoàn đáng kinh ngạc của tinh thần con người—một vị vua huyền thoại có linh hồn sắt đá đã chinh phục những yếu đuối của thể xác phàm nhân."
-        }
+        },
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop"
       }
     ],
     "gallery": [
-      "https://upload.wikimedia.org/wikipedia/commons/4/41/Baldwin_IV_of_Jerusalem_by_Fran%C3%A7ois-%C3%89douard_Picot.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Baldwin_IV_of_Jerusalem_by_Fran%C3%A7ois-%C3%89douard_Picot.jpg",
+      "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop"
     ],
     "vocabulary": [
       {
