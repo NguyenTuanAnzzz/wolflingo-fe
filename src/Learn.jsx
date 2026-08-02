@@ -1,27 +1,51 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { ArrowRight, Sparkles, BookOpen, CheckCircle, RefreshCw } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
-function Learn({ vocabulary }) {
+function Learn() {
   const [hasStarted, setHasStarted] = useState(false);
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [showMeaning, setShowMeaning] = useState(false);
   const [isFinished, setIsFinished] = useState(false);
   const [selectedLevel, setSelectedLevel] = useState(null);
+  
+  const [summary, setSummary] = useState({ total: 0, counts: {} });
+  const [currentLearningList, setCurrentLearningList] = useState([]);
+  const [isLoadingList, setIsLoadingList] = useState(false);
+  const [isLoadingSummary, setIsLoadingSummary] = useState(true);
+  
   const navigate = useNavigate();
+  const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:9999';
 
-  const getLevel = (v) => {
-    if (v.level) return v.level.toUpperCase();
-    if (v.example) {
-      const match = v.example.match(/Level:\s*([A-C][1-2])/i);
-      if (match) return match[1].toUpperCase();
-    }
-    return null;
+  useEffect(() => {
+    fetch(`${baseUrl}/api/vocabulary/summary`)
+      .then(res => res.json())
+      .then(data => {
+        setSummary(data);
+        setIsLoadingSummary(false);
+      })
+      .catch(err => {
+        console.error('Error fetching vocabulary summary:', err);
+        setIsLoadingSummary(false);
+      });
+  }, [baseUrl]);
+
+  const handleStartLevel = (level) => {
+    setSelectedLevel(level);
+    setIsLoadingList(true);
+    setHasStarted(true);
+    
+    fetch(`${baseUrl}/api/vocabulary?level=${level}`)
+      .then(res => res.json())
+      .then(data => {
+        setCurrentLearningList(data);
+        setIsLoadingList(false);
+      })
+      .catch(err => {
+        console.error('Error fetching vocabulary list:', err);
+        setIsLoadingList(false);
+      });
   };
-
-  const currentLearningList = selectedLevel 
-    ? vocabulary.filter(v => getLevel(v) === selectedLevel)
-    : vocabulary;
 
   const currentWord = currentLearningList[currentWordIndex];
 
@@ -44,17 +68,14 @@ function Learn({ vocabulary }) {
             </p>
           </div>
 
-          {vocabulary.length > 0 ? (
+          {!isLoadingSummary ? (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 justify-items-center">
               {['A1', 'A2', 'B1', 'B2', 'C1'].map(level => {
-                const wordsInLevel = vocabulary.filter(v => getLevel(v) === level);
+                const count = summary.counts[level] || 0;
                 return (
                   <div 
                     key={level} 
-                    onClick={() => {
-                      setSelectedLevel(level);
-                      setHasStarted(true);
-                    }}
+                    onClick={() => handleStartLevel(level)}
                     className="glass-panel w-full max-w-sm p-10 rounded-3xl cursor-pointer border border-white/10 hover:border-purple-500/50 hover:-translate-y-2 transition-all flex flex-col items-center justify-center group relative overflow-hidden bg-white/5 shadow-lg"
                   >
                     <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
@@ -62,7 +83,7 @@ function Learn({ vocabulary }) {
                       <BookOpen size={40} className="text-purple-400" />
                     </div>
                     <h3 className="text-4xl font-bold text-white mb-2 tracking-tight">Level {level}</h3>
-                    <p className="text-gray-400 text-lg mb-8 font-medium">{wordsInLevel.length} từ vựng</p>
+                    <p className="text-gray-400 text-lg mb-8 font-medium">{count} từ vựng</p>
                     <button className="bg-white/10 group-hover:bg-gradient-to-r group-hover:from-[#818cf8] group-hover:to-[#c084fc] text-white px-8 py-3 rounded-full font-bold transition-all flex items-center gap-2 group-hover:shadow-[0_0_20px_rgba(192,132,252,0.4)]">
                       <Sparkles size={18} /> Bắt Đầu Học
                     </button>
@@ -100,7 +121,7 @@ function Learn({ vocabulary }) {
               className="bg-white/10 hover:bg-white/20 text-white px-8 py-4 rounded-full font-bold transition-all flex items-center justify-center gap-2"
             >
               <RefreshCw size={20} />
-              Học Lại Bộ Này
+              Chọn Level Khác
             </button>
             
             <button 
@@ -126,7 +147,9 @@ function Learn({ vocabulary }) {
         <ArrowRight size={20} className="transform rotate-180" /> Quay lại danh sách
       </button>
       
-      {currentLearningList.length > 0 && currentWord ? (
+      {isLoadingList ? (
+        <div className="text-xl text-gray-400 animate-pulse">Đang tải dữ liệu từ vựng Level {selectedLevel}...</div>
+      ) : currentLearningList.length > 0 && currentWord ? (
         <div className="max-w-2xl w-full">
           <div className="text-center mb-8">
             <h2 className="text-2xl font-bold text-gray-400">{selectedLevel ? `Level ${selectedLevel} - ` : ''}Từ vựng {currentWordIndex + 1} / {currentLearningList.length}</h2>
@@ -185,7 +208,7 @@ function Learn({ vocabulary }) {
           </div>
         </div>
       ) : (
-        <div className="text-xl text-gray-400 animate-pulse">Đang tải dữ liệu từ vựng...</div>
+        <div className="text-xl text-gray-400">Không tìm thấy từ vựng nào cho Level {selectedLevel}.</div>
       )}
     </div>
   );

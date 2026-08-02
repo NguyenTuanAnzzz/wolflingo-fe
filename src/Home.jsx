@@ -3,20 +3,19 @@ import { useNavigate } from 'react-router-dom';
 import { ChevronDown, ArrowRight, Sparkles, BookOpen, GraduationCap, Globe2, Users, PlayCircle, Zap, Quote } from 'lucide-react';
 import logo from './assets/logo.svg';
 
-function Home({ vocabulary }) {
+function Home() {
   const navigate = useNavigate();
+  const [summary, setSummary] = React.useState({ total: 0, counts: {} });
 
-  const levelCounts = React.useMemo(() => {
-    const counts = { A1: 0, A2: 0, B1: 0, B2: 0, C1: 0 };
-    if (vocabulary) {
-      vocabulary.forEach(word => {
-        if (counts[word.level] !== undefined) {
-          counts[word.level]++;
-        }
-      });
-    }
-    return counts;
-  }, [vocabulary]);
+  React.useEffect(() => {
+    const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:9999';
+    fetch(`${baseUrl}/api/vocabulary/summary`)
+      .then(res => res.json())
+      .then(data => setSummary(data))
+      .catch(err => console.error('Error fetching vocabulary summary:', err));
+  }, []);
+
+  const levelCounts = summary.counts;
 
   return (
     <div className="min-h-screen bg-[#050505] text-white font-inter selection:bg-fuchsia-500/30 overflow-x-hidden">
@@ -174,7 +173,7 @@ function Home({ vocabulary }) {
         <div className="max-w-[1400px] mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-5xl font-bold mb-4">Kho Từ Vựng <span className="text-gradient">Khổng Lồ</span></h2>
-            <p className="text-gray-400">Chinh phục {vocabulary?.length || 0} từ vựng trải dài trên các cấp độ CEFR.</p>
+            <p className="text-gray-400">Chinh phục {summary.total || 0} từ vựng trải dài trên các cấp độ CEFR.</p>
           </div>
           
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
