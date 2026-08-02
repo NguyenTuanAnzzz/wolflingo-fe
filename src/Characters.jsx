@@ -2,6 +2,68 @@ import React, { useState, useEffect } from 'react';
 import { ArrowRight, Sparkles, Sword, BookOpen, Quote, ChevronLeft } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
+const HighlightedText = ({ text, vocabulary, lang = 'en' }) => {
+  if (!text || !vocabulary || vocabulary.length === 0) {
+    return <>{text}</>;
+  }
+
+  const escapeRegExp = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+  const itemsToMatch = [];
+  vocabulary.forEach((v) => {
+    if (lang === 'en' && v.word) {
+      itemsToMatch.push({
+        pattern: `\\b${escapeRegExp(v.word)}(?:s|es|ed|ing|d)?\\b`,
+        vocab: v,
+        displayTooltip: `${v.word} (${v.type || 'Vocab'}): ${v.meaning}`
+      });
+    } else if (lang === 'vi' && v.meaning) {
+      const primaryMeaning = v.meaning.split(/[,;]/)[0].trim();
+      if (primaryMeaning.length >= 2) {
+        itemsToMatch.push({
+          pattern: `${escapeRegExp(primaryMeaning)}`,
+          vocab: v,
+          displayTooltip: `${v.word} (${v.type || 'Vocab'}) - Tiếng Anh`
+        });
+      }
+    }
+  });
+
+  if (itemsToMatch.length === 0) {
+    return <>{text}</>;
+  }
+
+  itemsToMatch.sort((a, b) => b.pattern.length - a.pattern.length);
+
+  const regex = new RegExp(`(${itemsToMatch.map((item) => item.pattern).join('|')})`, 'gi');
+  const parts = text.split(regex);
+
+  return (
+    <>
+      {parts.map((part, index) => {
+        if (!part) return null;
+        const matchedItem = itemsToMatch.find((item) => {
+          const testRegex = new RegExp(`^${item.pattern}$`, 'i');
+          return testRegex.test(part);
+        });
+
+        if (matchedItem) {
+          return (
+            <span
+              key={index}
+              title={matchedItem.displayTooltip}
+              className="inline px-1.5 py-0.5 rounded-md bg-fuchsia-500/20 text-fuchsia-300 font-semibold border border-fuchsia-500/40 cursor-help hover:bg-fuchsia-500 hover:text-white transition-all shadow-sm"
+            >
+              {part}
+            </span>
+          );
+        }
+        return <React.Fragment key={index}>{part}</React.Fragment>;
+      })}
+    </>
+  );
+};
+
 function Characters() {
   const navigate = useNavigate();
   const [characters, setCharacters] = useState([]);
@@ -126,13 +188,13 @@ function Characters() {
                   <div key={idx} className="space-y-4">
                     <h3 className="text-2xl font-bold text-gray-100">{section.heading[bioLang]}</h3>
                     <p className="text-lg text-gray-300 leading-relaxed font-light text-justify">
-                      {section.text[bioLang]}
+                      <HighlightedText text={section.text[bioLang]} vocabulary={char.vocabulary} lang={bioLang} />
                     </p>
                     {section.image && (
                       <div className="rounded-xl overflow-hidden border border-white/10 my-6 shadow-2xl">
                         <img 
                           src={section.image} 
-                          alt={section.heading} 
+                          alt={typeof section.heading === 'object' ? (section.heading[bioLang] || section.heading.en || '') : section.heading} 
                           className="w-full h-auto max-h-[400px] object-cover hover:scale-105 transition-transform duration-700" 
                         />
                       </div>
@@ -172,8 +234,12 @@ function Characters() {
                 {char.quotes.map((quote, idx) => (
                   <div key={idx} className="glass-panel p-6 border-l-4 border-l-fuchsia-500 bg-white/5 relative group">
                     <Quote className="absolute top-4 right-4 text-white/5 group-hover:text-fuchsia-500/20 transition-colors" size={40} />
-                    <p className="text-lg font-medium text-white italic mb-3 relative z-10">"{quote.en}"</p>
-                    <p className="text-gray-400 text-sm relative z-10">"{quote.vi}"</p>
+                    <p className="text-lg font-medium text-white italic mb-3 relative z-10">
+                      "<HighlightedText text={quote.en} vocabulary={char.vocabulary} lang="en" />"
+                    </p>
+                    <p className="text-gray-400 text-sm relative z-10">
+                      "<HighlightedText text={quote.vi} vocabulary={char.vocabulary} lang="vi" />"
+                    </p>
                   </div>
                 ))}
               </div>
