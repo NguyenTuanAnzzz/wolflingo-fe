@@ -50,12 +50,11 @@ function Home() {
               Khóa Học
               <ChevronDown size={14} className="text-gray-500 group-hover:text-white transition-colors" />
             </a>
-            <a href="#" className="flex items-center gap-1.5 text-gray-300 hover:text-white transition-colors group">
+            <a href="#" onClick={(e) => { e.preventDefault(); navigate('/learn'); }} className="flex items-center gap-1.5 text-gray-300 hover:text-white transition-colors group cursor-pointer">
               Luyện Tập
-              <ChevronDown size={14} className="text-gray-500 group-hover:text-white transition-colors" />
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors">
-              Cộng Đồng
+            <a href="#" onClick={(e) => { e.preventDefault(); navigate('/characters'); }} className="text-gray-300 hover:text-white transition-colors cursor-pointer">
+              Nhân Vật
             </a>
           </div>
 
