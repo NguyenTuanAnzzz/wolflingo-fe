@@ -9,6 +9,7 @@ function Characters() {
   const [fullChar, setFullChar] = useState(null);
   const [loading, setLoading] = useState(true);
   const [charLoading, setCharLoading] = useState(false);
+  const [bioLang, setBioLang] = useState('vi');
 
   const apiUrl = import.meta.env.VITE_API_URL;
 
@@ -100,16 +101,32 @@ function Characters() {
           {/* Main Column: Bio (2/3 width) */}
           <div className="lg:col-span-2 space-y-12">
             <section>
-              <h2 className="text-3xl font-bold mb-8 flex items-center gap-2 border-b border-white/10 pb-4">
-                <BookOpen className="text-purple-400" /> Tiểu sử (Biography)
-              </h2>
+              <div className="flex items-center justify-between mb-8 border-b border-white/10 pb-4">
+                <h2 className="text-3xl font-bold flex items-center gap-2">
+                  <BookOpen className="text-purple-400" /> Tiểu sử (Biography)
+                </h2>
+                <div className="flex bg-white/5 rounded-lg p-1 border border-white/10">
+                  <button 
+                    onClick={() => setBioLang('vi')}
+                    className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors ${bioLang === 'vi' ? 'bg-fuchsia-500 text-white' : 'text-gray-400 hover:text-white'}`}
+                  >
+                    Tiếng Việt
+                  </button>
+                  <button 
+                    onClick={() => setBioLang('en')}
+                    className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors ${bioLang === 'en' ? 'bg-fuchsia-500 text-white' : 'text-gray-400 hover:text-white'}`}
+                  >
+                    English
+                  </button>
+                </div>
+              </div>
               
               <div className="space-y-10">
                 {char.bio.map((section, idx) => (
                   <div key={idx} className="space-y-4">
-                    <h3 className="text-2xl font-bold text-gray-100">{section.heading}</h3>
+                    <h3 className="text-2xl font-bold text-gray-100">{section.heading[bioLang]}</h3>
                     <p className="text-lg text-gray-300 leading-relaxed font-light text-justify">
-                      {section.text}
+                      {section.text[bioLang]}
                     </p>
                     {section.image && (
                       <div className="rounded-xl overflow-hidden border border-white/10 my-6 shadow-2xl">
