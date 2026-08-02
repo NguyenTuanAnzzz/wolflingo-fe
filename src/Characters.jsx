@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Sparkles, Sword, BookOpen, Quote, ChevronLeft } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 
 const HighlightedText = ({ text, vocabulary, lang = 'en' }) => {
   if (!text || !vocabulary || vocabulary.length === 0) {
@@ -66,6 +66,7 @@ const HighlightedText = ({ text, vocabulary, lang = 'en' }) => {
 
 function Characters() {
   const navigate = useNavigate();
+  const { id } = useParams();
   const [characters, setCharacters] = useState([]);
   const [selectedChar, setSelectedChar] = useState(null);
   const [fullChar, setFullChar] = useState(null);
@@ -91,26 +92,44 @@ function Characters() {
     fetchCharacters();
   }, [apiUrl]);
 
-  const handleSelectChar = async (id) => {
-    setSelectedChar(id);
-    setCharLoading(true);
-    try {
-      const response = await fetch(`${apiUrl}/api/characters/${id}`);
-      const data = await response.json();
-      setFullChar(data);
-    } catch (error) {
-      console.error('Error fetching character details:', error);
-    } finally {
-      setCharLoading(false);
+  // Fetch character details when URL param `id` changes
+  useEffect(() => {
+    if (id) {
+      setSelectedChar(id);
+      setCharLoading(true);
+      fetch(`${apiUrl}/api/characters/${id}`)
+        .then(async (response) => {
+          if (!response.ok) {
+            throw new Error('Character not found');
+          }
+          return response.json();
+        })
+        .then((data) => {
+          setFullChar(data);
+        })
+        .catch((error) => {
+          console.error('Error fetching character details:', error);
+          setFullChar(null);
+        })
+        .finally(() => {
+          setCharLoading(false);
+        });
+    } else {
+      setSelectedChar(null);
+      setFullChar(null);
     }
+  }, [id, apiUrl]);
+
+  const handleSelectChar = (charId) => {
+    navigate(`/character/${charId}`);
   };
 
   // Scroll to top when a character is selected
   useEffect(() => {
-    if (selectedChar) {
+    if (selectedChar || id) {
       window.scrollTo(0, 0);
     }
-  }, [selectedChar]);
+  }, [selectedChar, id]);
 
   if (loading) {
     return (
@@ -120,11 +139,28 @@ function Characters() {
     );
   }
 
-  if (selectedChar) {
-    if (charLoading || !fullChar) {
+  if (selectedChar || id) {
+    if (charLoading) {
       return (
         <div className="min-h-screen bg-[#050505] flex items-center justify-center">
           <div className="w-12 h-12 border-4 border-fuchsia-500 border-t-transparent rounded-full animate-spin"></div>
+        </div>
+      );
+    }
+
+    if (!fullChar || !fullChar.name) {
+      return (
+        <div className="min-h-screen bg-[#050505] text-white flex flex-col items-center justify-center gap-6">
+          <div className="text-center">
+            <h2 className="text-3xl font-bold text-gray-200 mb-2">Không tìm thấy nhân vật</h2>
+            <p className="text-gray-400">Nhân vật bạn tìm kiếm không tồn tại hoặc đã bị xóa.</p>
+          </div>
+          <button 
+            onClick={() => navigate('/characters')}
+            className="px-6 py-2.5 rounded-xl bg-fuchsia-500 text-white font-medium hover:bg-fuchsia-600 transition-colors flex items-center gap-2 shadow-lg"
+          >
+            <ChevronLeft size={18} /> Quay lại danh mục
+          </button>
         </div>
       );
     }
@@ -136,7 +172,7 @@ function Characters() {
         {/* Navigation */}
         <nav className="fixed w-full z-50 top-0 bg-[#050505]/80 backdrop-blur-xl border-b border-white/10 px-6 py-4 flex items-center justify-between">
           <button 
-            onClick={() => setSelectedChar(null)} 
+            onClick={() => navigate('/characters')} 
             className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 font-medium"
           >
             <ChevronLeft size={20} /> Quay lại danh mục
