@@ -7,7 +7,8 @@ function App() {
   const [vocabulary, setVocabulary] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:9999/api/vocabulary')
+    const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:9999/api/vocabulary';
+    fetch(apiUrl)
       .then(res => res.json())
       .then(data => setVocabulary(data))
       .catch(err => console.error('Error fetching vocabulary:', err));
