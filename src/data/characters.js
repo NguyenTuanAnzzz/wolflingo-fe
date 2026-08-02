@@ -645,6 +645,16 @@ export const characters = [
           "en": "Spider-Man transcends the boundaries of masked vigilantism to become a universal beacon of perseverance. He is the spectacular underdog who refuses to stay down, teaching us that true courage is finding the strength to stand back up when the entire world is on your shoulders. In the annals of heroism, his legacy shines brightly—not because he cannot fall, but because he will forever rise, the ultimate protector of the NEIGHBORHOOD.",
           "vi": "Spider-Man đã vượt qua những ranh giới của những kẻ hành hiệp đeo mặt nạ để trở thành một ngọn hải đăng toàn vũ trụ về lòng kiên trì. Cậu là kẻ yếu thế ngoạn mục kiên quyết không chịu gục ngã, dạy chúng ta rằng lòng dũng cảm đích thực là tìm thấy sức mạnh để đứng dậy khi cả thế giới đang đè nặng trên đôi vai. Trong biên niên sử của chủ nghĩa anh hùng, di sản của cậu tỏa sáng rực rỡ—không phải vì cậu không thể vấp ngã, mà vì cậu sẽ vĩnh viễn đứng lên, người bảo vệ tối thượng của mọi khu phố."
         }
+      },
+      {
+        "heading": {
+          "en": "The Torch of an Immortal Legacy",
+          "vi": "Ngọn Lửa Di Sản Bất Tử"
+        },
+        "text": {
+          "en": "'A tiger dies and leaves its skin; a man dies and leaves his name' — mortal flesh may fade into the sands of time, but the LEGACY one leaves behind echoes eternally in the hearts of the living. For Iron Man, what he bequeathed to the world was not merely an arsenal of cutting-edge armors or earth-shattering triumphs, but an undying spirit of absolute sacrifice for humanity. That sacred torch and immortal LEGACY have been passed down to Spider-Man — the young hero carrying a burning aspiration to continue the glorious yet weighted path of his illustrious MENTOR.",
+          "vi": "'Cọp chết để da, người ta chết để tiếng' – thân xác phàm trần rồi sẽ hoai mục theo thời gian, nhưng những giá trị và di sản (LEGACY) mà con người để lại sẽ trường tồn vĩnh cửu trong lòng nhân thế. Đối với Iron Man, thứ ông trao lại cho thế gian không chỉ đơn thuần là những bộ chiến giáp tối tân hay những chiến công hiển hách làm rung chuyển vũ trụ, mà là tinh thần hy sinh cao cả vì bình yên của nhân loại. Ngọn lửa thiêng liêng và di sản (LEGACY) bất tử ấy đã được truyền vào tay Spider-Man – chàng siêu anh hùng trẻ tuổi mang trong tim khát vọng rực rỡ, tiếp bước con đường vinh quang nhưng đầy trọng trách của người thầy (MENTOR) vĩ đại."
+        }
       }
     ],
     "gallery": [
@@ -680,6 +690,18 @@ export const characters = [
         "meaning": "Khả năng kiên cường, phục hồi",
         "type": "Noun",
         "example": "Example with Resilience in context."
+      },
+      {
+        "word": "Legacy",
+        "meaning": "Di sản, tài sản để lại cho thế hệ sau",
+        "type": "Noun",
+        "example": "Iron Man's immortal legacy lives on in Spider-Man."
+      },
+      {
+        "word": "Mentor",
+        "meaning": "Người thầy, người cố vấn vĩ đại",
+        "type": "Noun",
+        "example": "Tony Stark was an illustrious mentor to Peter Parker."
       }
     ],
     "quotes": [
