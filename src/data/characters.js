@@ -4515,6 +4515,953 @@ export const characters = [
       }
     ]
   }
-];
+,
+  {
+    "id": "wukong",
+    "name": "Sun Wukong (Tôn Ngộ Không)",
+    "title": "The Monkey King",
+    "image": "https://images.unsplash.com/photo-1607590216773-42e1ffb1da0c?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-yellow-500 to-red-600",
+    "bio": [
+        {
+            "heading": {
+                "en": "Born of Stone, Defying the Heavens",
+                "vi": "Sinh Ra Từ Đá, Thách Thức Cả Bầu Trời"
+            },
+            "text": {
+                "en": "Born from a mythical stone atop the Flower Fruit Mountain, Sun Wukong was never destined to bow. He is the Great Sage Equal to Heaven, a force of pure, untamed nature who shattered the rigid hierarchies of the celestial realm. With his Golden Cudgel in hand and a fiery gaze that pierces through any illusion, he waged a (REBELLIOUS) war against the very gods themselves, proving that true freedom cannot be caged by divine decrees.",
+                "vi": "Sinh ra từ một hòn đá thần trên đỉnh Hoa Quả Sơn, Tôn Ngộ Không chưa bao giờ mang số mệnh phải cúi đầu. Hắn là Tề Thiên Đại Thánh, một thế lực của tự nhiên nguyên thủy, hoang dã, kẻ đã đập tan những nấc thang phân thế cứng nhắc của thiên đình. Với cây Gậy Như Ý trong tay và ánh mắt rực lửa có thể thấu thị mọi ảo ảnh, hắn đã phát động một cuộc chiến phản nghịch (REBELLIOUS) chống lại chính các vị thần, chứng minh rằng tự do đích thực không thể bị giam cầm bởi những sắc lệnh thần thánh."
+            },
+            "image": "https://images.unsplash.com/photo-1598153346810-860daa814c4b?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Path of Enlightenment",
+                "vi": "Hành Trình Giác Ngộ"
+            },
+            "text": {
+                "en": "Yet, even the most raging fire must eventually find its purpose. After centuries of imprisonment beneath the Five Elements Mountain, the wild monkey was tasked with protecting the monk Tang Sanzang on a perilous journey to the West. Along this arduous path, he confronted countless demons and his own inner demons. His physical strength was unmatched, but his true triumph was the gradual (ENLIGHTENMENT) of his spirit, transforming from a chaotic warlord into a disciplined protector.",
+                "vi": "Thế nhưng, ngay cả ngọn lửa cuồng nộ nhất cuối cùng cũng phải tìm thấy lẽ sống của nó. Sau năm thế kỷ bị giam cầm dưới chân ngọn Ngũ Hành Sơn, con khỉ hoang dã được giao trọng trách bảo vệ Đường Tăng trong một hành trình thỉnh kinh đầy hiểm nguy về phương Tây. Dọc theo con đường gian khổ này, hắn đã đối mặt với vô số yêu quái và cả những tâm ma của chính mình. Sức mạnh thể chất của hắn là vô song, nhưng chiến thắng thực sự của hắn lại là sự giác ngộ (ENLIGHTENMENT) dần dần trong tâm hồn, chuyển hóa từ một ma vương hỗn mang thành một người bảo hộ đầy kỷ luật."
+            },
+            "image": "https://images.unsplash.com/photo-1542318063-e38029c78207?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Immortal Symbol of Defiance",
+                "vi": "Biểu Tượng Bất Tử Của Sự Phản Kháng"
+            },
+            "text": {
+                "en": "Sun Wukong is more than a mythical hero; he is the ultimate embodiment of resilience and the unyielding human spirit. He teaches us that while authorities may attempt to crush us under the weight of mountains, the soul remains (IMMORTAL). His legend echoes through eternity, an epic saga of a lowly stone monkey who dared to look the gods in the eye and laugh, forever remaining a radiant beacon for those who dare to defy their assigned fate.",
+                "vi": "Tôn Ngộ Không không chỉ là một anh hùng thần thoại; hắn là hiện thân tối thượng của sự kiên cường và tinh thần bất khuất của con người. Hắn dạy chúng ta rằng dẫu cho các thế lực cầm quyền có cố gắng nghiền nát chúng ta dưới sức nặng của những ngọn núi, thì linh hồn vẫn luôn bất tử (IMMORTAL). Huyền thoại của hắn vang vọng qua cõi vĩnh hằng, một bản trường ca bi tráng về một con khỉ đá thấp hèn dám nhìn thẳng vào mắt các vị thần và cười nhạo, mãi mãi là một ngọn hải đăng rực rỡ cho những ai dám thách thức số phận đã được an bài."
+            },
+            "image": "https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?q=80&w=1000&auto=format&fit=crop"
+        }
+    ],
+    "gallery": [],
+    "vocabulary": [
+        {
+            "word": "Rebellious",
+            "meaning": "Nổi loạn, phản nghịch",
+            "type": "Adjective"
+        },
+        {
+            "word": "Immortal",
+            "meaning": "Bất tử",
+            "type": "Adjective"
+        },
+        {
+            "word": "Enlightenment",
+            "meaning": "Sự giác ngộ",
+            "type": "Noun"
+        }
+    ],
+    "quotes": [
+        {
+            "en": "I am the Great Sage, Equal to Heaven!",
+            "vi": "Ta là Tề Thiên Đại Thánh!"
+        },
+        {
+            "en": "Fate is but a chain. I shall break it.",
+            "vi": "Số phận chỉ là xiềng xích. Ta sẽ đập tan nó."
+        }
+    ]
+  },
+  {
+    "id": "lucifer",
+    "name": "Lucifer",
+    "title": "The Morning Star",
+    "image": "https://images.unsplash.com/photo-1541887158759-9941a87e50eb?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-gray-900 to-red-900",
+    "bio": [
+        {
+            "heading": {
+                "en": "The Fallen Morning Star",
+                "vi": "Ngôi Sao Mai Sa Ngã"
+            },
+            "text": {
+                "en": "Once the most beautiful and radiant of all angels, Lucifer Morningstar was the very bringer of dawn. Yet, beneath his resplendent wings burned an insatiable desire for autonomy. Rejecting the absolute subjugation demanded by his Creator, he sparked a cosmic (REBELLION) that fractured the heavens. He was not cast out merely for his pride, but for the dangerous, revolutionary idea that one should bow to no one.",
+                "vi": "Từng là vị thiên thần đẹp đẽ và rực rỡ nhất trong tất cả, Lucifer Morningstar chính là người mang đến bình minh. Tuy nhiên, bên dưới đôi cánh lộng lẫy của hắn luôn rực cháy một khao khát tự chủ khôn nguôi. Khước từ sự khuất phục tuyệt đối mà Đấng Tạo Hóa đòi hỏi, hắn đã châm ngòi cho một cuộc nổi loạn (REBELLION) tầm cỡ vũ trụ làm rạn nứt cả thiên đàng. Hắn bị trục xuất không chỉ vì sự kiêu hãnh của mình, mà vì một ý tưởng cách mạng đầy nguy hiểm: rằng không một ai phải cúi đầu trước bất kỳ kẻ nào."
+            },
+            "image": "https://images.unsplash.com/photo-1549887552-cb1071d3e5ca?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Sovereign of Hell",
+                "vi": "Vị Vua Của Địa Ngục"
+            },
+            "text": {
+                "en": "Banished to the deepest, darkest abyss, Lucifer did not despair; instead, he built his own kingdom from the ashes. As the absolute ruler of Hell, he presides over the (CONDEMNED) souls with a twisted sense of justice. He is not a mindless beast of pure evil, but a sophisticated, charismatic sovereign who exposes the hypocrisy of righteousness. In his domain, he proves that true power is born not from divine grace, but from the unbending will to endure.",
+                "vi": "Bị đày ải xuống vực thẳm sâu nhất, tăm tối nhất, Lucifer không hề tuyệt vọng; thay vào đó, hắn đã tự xây dựng vương quốc của riêng mình từ đống tro tàn. Trở thành vị vua tuyệt đối của Địa ngục, hắn cai quản những linh hồn bị đày đọa (CONDEMNED) bằng một ý niệm công lý vặn vẹo. Hắn không phải là một con quái vật vô tri thuần ác, mà là một đấng quân vương tinh tế, đầy sức hút, kẻ luôn vạch trần sự đạo đức giả của những điều được cho là đúng đắn. Tại lãnh địa của mình, hắn chứng minh rằng quyền lực thực sự không sinh ra từ ân điển thần thánh, mà từ ý chí chịu đựng không thể bẻ gãy."
+            },
+            "image": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Price of Free Will",
+                "vi": "Cái Giá Của Ý Chí Tự Do"
+            },
+            "text": {
+                "en": "Lucifer remains the ultimate tragic paradox—a creature of light forever trapped in the shadows by his own choice. He traded an eternity of blissful servitude for the agonizing burden of (FREE WILL). His existence is a haunting sonata of defiance, reminding humanity that the freedom to choose one's own path, even if it leads to damnation, is the most intoxicating and perilous gift of all.",
+                "vi": "Lucifer vẫn mãi là một nghịch lý bi kịch tột cùng—một sinh vật của ánh sáng vĩnh viễn bị mắc kẹt trong bóng tối bởi chính lựa chọn của mình. Hắn đã đánh đổi cả một cõi vĩnh hằng phục tùng trong hạnh phúc để lấy gánh nặng đau đớn của ý chí tự do (FREE WILL). Sự tồn tại của hắn là một bản xô-nát ám ảnh của sự thách thức, nhắc nhở nhân loại rằng quyền tự do lựa chọn con đường của riêng mình, dẫu có dẫn đến sự diệt vong, vẫn luôn là món quà say đắm và hiểm nguy nhất."
+            },
+            "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+        }
+    ],
+    "gallery": [],
+    "vocabulary": [
+        {
+            "word": "Rebellion",
+            "meaning": "Sự nổi loạn",
+            "type": "Noun"
+        },
+        {
+            "word": "Condemned",
+            "meaning": "Bị kết án, bị đày đọa",
+            "type": "Adjective"
+        },
+        {
+            "word": "Free Will",
+            "meaning": "Ý chí tự do",
+            "type": "Noun"
+        }
+    ],
+    "quotes": [
+        {
+            "en": "Better to reign in Hell, than serve in Heaven.",
+            "vi": "Thà làm vua chốn địa ngục còn hơn làm tôi tớ trên thiên đàng."
+        },
+        {
+            "en": "I am the master of my own fate.",
+            "vi": "Ta là chủ nhân của số phận chính mình."
+        }
+    ]
+  },
+  {
+    "id": "droctopus",
+    "name": "Dr. Otto Octavius (Dr. Octopus)",
+    "title": "The Brilliant Madman",
+    "image": "https://images.unsplash.com/photo-1582298538104-fe2e74c877bb?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-green-700 to-gray-800",
+    "bio": [
+        {
+            "heading": {
+                "en": "The Light of Intellect",
+                "vi": "Ánh Sáng Của Trí Tuệ"
+            },
+            "text": {
+                "en": "Dr. Otto Octavius was not born a monster; he was a (BRILLIANT) visionary whose mind could have reshaped the world. Driven by an insatiable thirst for scientific advancement, he sought to harness the very power of the sun. He was a man of profound intellect and noble intentions, constructing four mechanical arms to bridge the gap between human limitation and divine creation. He was a modern Prometheus, reaching for the ultimate fire to illuminate the future of mankind.",
+                "vi": "Tiến sĩ Otto Octavius không sinh ra là một con quái vật; ông là một nhà khoa học với tầm nhìn lỗi lạc (BRILLIANT), người mà trí tuệ của ông có thể đã định hình lại cả thế giới. Được thúc đẩy bởi khao khát tiến bộ khoa học không thể thỏa mãn, ông đã tìm cách kiểm soát chính sức mạnh của mặt trời. Ông là một người có trí tuệ uyên thâm và những ý định cao cả, chế tạo ra bốn cánh tay cơ khí để xóa nhòa ranh giới giữa giới hạn của con người và sự kiến tạo của thần linh. Ông là một Prometheus thời hiện đại, vươn tay tới ngọn lửa tối thượng để thắp sáng tương lai của nhân loại."
+            },
+            "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Corruption of Power",
+                "vi": "Sự Tha Hóa Của Quyền Lực"
+            },
+            "text": {
+                "en": "But ambition, when left unchecked, inevitably devours the soul. A catastrophic accident fused the mechanical arms to his spine, and the artificial intelligence within them twisted his noble mind. Consumed by (HUBRIS), the gentle scientist died, and the terrifying Doctor Octopus was born. He became a tragic slave to his own creation, viewing humanity as mere obstacles in his relentless, obsessive pursuit of scientific perfection.",
+                "vi": "Nhưng tham vọng, khi không được kiểm soát, tất yếu sẽ nuốt chửng linh hồn. Một tai nạn thảm khốc đã hợp nhất những cánh tay cơ khí vào cột sống của ông, và trí tuệ nhân tạo bên trong chúng đã làm tha hóa bộ óc cao quý của ông. Bị gặm nhấm bởi sự ngạo mạn (HUBRIS), vị tiến sĩ hiền lành đã chết, và Tiến sĩ Bạch Tuộc đáng sợ đã ra đời. Ông trở thành một nô lệ bi thảm cho chính tạo tác của mình, coi nhân loại chỉ là những chướng ngại vật trong cuộc truy cầu hoàn hảo khoa học một cách tàn nhẫn và ám ảnh."
+            },
+            "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Redemption of a Man",
+                "vi": "Sự Chuộc Lỗi Của Một Con Người"
+            },
+            "text": {
+                "en": "Yet, deep beneath the cold steel and the madness, the heart of Otto Octavius still beat. In his final moments, he reclaimed his humanity, overpowering the mechanical demons that possessed him. His ultimate sacrifice was a breathtaking act of (REDEMPTION), a defiant roar against the darkness. He chose to die not as a monstrous villain, but as a brilliant scientist who saved the city, leaving behind a profoundly moving legacy of human frailty and triumphant willpower.",
+                "vi": "Dẫu vậy, sâu bên dưới lớp thép lạnh lẽo và sự điên loạn, trái tim của Otto Octavius vẫn đập. Trong những khoảnh khắc cuối cùng, ông đã giành lại phần người của mình, chế ngự những con ác quỷ cơ khí đã chiếm hữu ông. Sự hy sinh tối thượng của ông là một hành động chuộc lỗi (REDEMPTION) nghẹt thở, một tiếng gầm thách thức chống lại bóng tối. Ông đã chọn không chết như một ác nhân quái dị, mà như một nhà khoa học lỗi lạc đã cứu sống cả thành phố, để lại một di sản vô cùng xúc động về sự yếu đuối của con người và sức mạnh ý chí chiến thắng."
+            },
+            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop"
+        }
+    ],
+    "gallery": [],
+    "vocabulary": [
+        {
+            "word": "Brilliant",
+            "meaning": "Xuất chúng, lỗi lạc",
+            "type": "Adjective"
+        },
+        {
+            "word": "Hubris",
+            "meaning": "Sự ngạo mạn",
+            "type": "Noun"
+        },
+        {
+            "word": "Redemption",
+            "meaning": "Sự chuộc lỗi",
+            "type": "Noun"
+        }
+    ],
+    "quotes": [
+        {
+            "en": "The power of the sun, in the palm of my hand.",
+            "vi": "Sức mạnh của mặt trời, nay nằm trong lòng bàn tay ta."
+        },
+        {
+            "en": "I will not die a monster.",
+            "vi": "Ta sẽ không chết như một con quái vật."
+        }
+    ]
+  },
+  {
+    "id": "zhangliao",
+    "name": "Zhang Liao (Trương Liêu)",
+    "title": "The Vanguard of Wei",
+    "image": "https://images.unsplash.com/photo-1615598587178-5777bd4ba8fa?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-indigo-600 to-purple-800",
+    "bio": [
+        {
+            "heading": {
+                "en": "The Halberd of Dread",
+                "vi": "Lưỡi Kích Của Sự Uy Hài"
+            },
+            "text": {
+                "en": "In an era where loyalties were as fragile as autumn leaves, Zhang Liao stood as an unshakable mountain of iron and blood. He was not a general who merely commanded from the rear; he was a (VALIANT) vanguard who plunged into the heart of the enemy lines. His name became synonymous with absolute terror, a mythical force capable of shattering entire armies with a mere handful of men. He was the storm that swept across the battlefields, leaving only awe and destruction in his wake.",
+                "vi": "Trong một thời đại mà lòng trung thành mỏng manh như chiếc lá mùa thu, Trương Liêu sừng sững như một ngọn núi sắt máu không thể lay chuyển. Ông không phải là một vị tướng chỉ biết chỉ huy từ phía sau; ông là một người tiên phong dũng cảm (VALIANT), kẻ luôn lao thẳng vào trung tâm đội hình địch. Tên tuổi của ông đã trở thành từ đồng nghĩa với nỗi kinh hoàng tột độ, một thế lực thần thoại có khả năng đập tan toàn bộ các đội quân chỉ với một nhúm người. Ông là cơn bão càn quét khắp các chiến trường, chỉ để lại sự kính sợ và tàn phá sau lưng."
+            },
+            "image": "https://images.unsplash.com/photo-1599839619722-39751411ea63?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Miracle at Xiaoyao Ford",
+                "vi": "Phép Màu Tại Bến Tiêu Dao"
+            },
+            "text": {
+                "en": "The legend of Zhang Liao was immortalized at Xiaoyao Ford, where he faced a force that outnumbered him a hundred to one. With a fierce roar that pierced the heavens, he and his elite cavalry broke the spirit of a hundred thousand soldiers. This was not just a military victory; it was a masterpiece of psychological warfare. The sheer (INTIMIDATION) of his presence was so profound that mothers would use his name to silence crying children, turning a mortal man into an omnipotent bogeyman.",
+                "vi": "Huyền thoại về Trương Liêu đã trở nên bất tử tại bến Tiêu Dao, nơi ông phải đối mặt với một lực lượng đông gấp trăm lần mình. Với một tiếng gầm dữ dội xuyên thủng cả bầu trời, ông và đội kỵ binh tinh nhuệ của mình đã bẻ gãy ý chí của hàng vạn binh lính. Đây không chỉ là một chiến thắng quân sự; nó là một kiệt tác của chiến tranh tâm lý. Sự uy hiếp (INTIMIDATION) thuần túy từ sự hiện diện của ông sâu sắc đến mức những người mẹ sẽ dùng tên ông để dỗ trẻ con nín khóc, biến một người trần mắt thịt thành một ông ba bị toàn năng."
+            },
+            "image": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Embodiment of Devotion",
+                "vi": "Hiện Thân Của Sự Tận Trung"
+            },
+            "text": {
+                "en": "Beyond his martial prowess, Zhang Liao was the perfect archetype of the honorable warrior. He served his lord with a (LOYAL) devotion that transcended ambition or personal gain. He did not seek to rule the world; he sought only to be the unbreakable shield and the sharpest sword for his master. His life is a soaring, heroic anthem to the dignity of a true general, a legacy that will echo forever through the mists of time as immortal as his unyielding halberd.",
+                "vi": "Vượt xa những tài năng võ thuật của mình, Trương Liêu là hình mẫu hoàn hảo của một chiến binh đầy danh dự. Ông phục vụ chúa công của mình với một sự tận tâm trung thành (LOYAL) vượt lên trên mọi tham vọng hay tư lợi cá nhân. Ông không mưu cầu cai trị thiên hạ; ông chỉ muốn trở thành tấm khiên không thể phá vỡ và thanh gươm sắc bén nhất cho chủ nhân của mình. Cuộc đời ông là một khúc ca tự hào, hào hùng về phẩm giá của một vị tướng đích thực, một di sản sẽ còn vang vọng mãi qua lớp bụi mờ của thời gian, bất tử như chính lưỡi kích chưa từng khuất phục của ông."
+            },
+            "image": "https://images.unsplash.com/photo-1579547621113-e4bb2a19bdd6?q=80&w=1000&auto=format&fit=crop"
+        }
+    ],
+    "gallery": [],
+    "vocabulary": [
+        {
+            "word": "Valiant",
+            "meaning": "Dũng cảm, can trường",
+            "type": "Adjective"
+        },
+        {
+            "word": "Loyal",
+            "meaning": "Trung thành",
+            "type": "Adjective"
+        },
+        {
+            "word": "Intimidation",
+            "meaning": "Sự đe dọa, uy hiếp",
+            "type": "Noun"
+        }
+    ],
+    "quotes": [
+        {
+            "en": "A true warrior fights not for glory, but for duty.",
+            "vi": "Một chiến binh thực thụ chiến đấu không vì vinh quang, mà vì trách nhiệm."
+        },
+        {
+            "en": "My halberd shall clear the path for my lord.",
+            "vi": "Kích của ta sẽ dọn đường cho chúa công."
+        },
+        {
+            "en": "A great man may lose his head, but he must never lose his spirit.",
+            "vi": "Đại trượng phu mất đầu không được mất trí."
+        }
+    ]
+  },
+  {
+    "id": "songjiang",
+    "name": "Song Jiang (Tống Giang)",
+    "title": "The Timely Rain",
+    "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-blue-600 to-cyan-800",
+    "bio": [
+        {
+            "heading": {
+                "en": "The Timely Rain",
+                "vi": "Cơn Mưa Đúng Lúc"
+            },
+            "text": {
+                "en": "In a dark and suffocating era, where the thick fog of corruption obscured the light of justice, true heroes rarely wore the silks of the imperial court. Song Jiang, a lowly clerk, wielded neither a mighty sword nor a brilliant mind for tactics. Yet, his boundless (CHIVALRY) and unparalleled generosity transformed him into the 'Timely Rain'—a desperate shower for the parched, lost souls of a broken society. He became the beating heart of a rebellion, a safe harbor for the oppressed.",
+                "vi": "Trong một thời đại tăm tối và ngột ngạt, khi những đám mây mù của sự tham nhũng che khuất ánh sáng công lý, những anh hùng đích thực hiếm khi khoác áo gấm trong triều đình. Tống Giang, một viên thư lại thấp hèn, không cầm trên tay thanh gươm hùng mạnh cũng chẳng có một bộ óc chiến thuật lỗi lạc. Thế nhưng, tinh thần hiệp nghĩa (CHIVALRY) bao la và sự hào phóng vô song đã biến ông thành 'Cập Thời Vũ'—một cơn mưa đúng lúc đầy tuyệt vọng cho những tâm hồn khô héo, lạc lối của một xã hội mục nát. Ông đã trở thành nhịp đập trái tim của một cuộc nổi loạn, một bến đỗ an toàn cho những kẻ bị áp bức."
+            },
+            "image": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Swamp Utopia",
+                "vi": "Lý Tưởng Nơi Đầm Lầy"
+            },
+            "text": {
+                "en": "The true power of Song Jiang lay not in military conquest, but in his supreme ability to unite the broken and the damned. Under his charismatic leadership, Mount Liang blossomed from a mere bandit fortress into a breathtaking (UTOPIA) of rebels. Through absolute sincerity, he forged a chaotic band of outlaws into a mighty brotherhood marching under the banner of 'Executing Justice on Heaven's Behalf', proving that honor could bloom even in the deepest swamps of criminality.",
+                "vi": "Sức mạnh thực sự của Tống Giang không nằm ở những cuộc chinh phạt quân sự, mà ở khả năng tột đỉnh trong việc đoàn kết những kẻ rạn vỡ và bị ruồng bỏ. Dưới sự lãnh đạo đầy sức hút của ông, Lương Sơn Bạc đã nở rộ từ một sơn trại đạo tặc đơn thuần thành một xã hội không tưởng (UTOPIA) ngoạn mục của những kẻ nổi loạn. Thông qua sự chân thành tuyệt đối, ông đã rèn giũa một đám thảo khấu hỗn loạn thành một tình huynh đệ hùng mạnh hành quân dưới ngọn cờ 'Thay trời hành đạo', chứng minh rằng danh dự có thể nở hoa ngay cả trong những đầm lầy tội lỗi sâu thẳm nhất."
+            },
+            "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+            "heading": {
+                "en": "The Elegy of Loyalty",
+                "vi": "Bi Ca Của Lòng Trung Nghĩa"
+            },
+            "text": {
+                "en": "Ironically, it was his unwavering, patriotic desire for imperial amnesty that led this glorious (BROTHERHOOD) into a tragic and devastating dead end. Driven by a blind devotion to a decaying empire, Song Jiang sought a righteous path but instead bound his fate to the corrupt dogmas of the imperial court. He is a profoundly sorrowful figure, a great leader who tore through the darkness only to drag his blood-brothers into an agonizing demise, leaving an eternal, melancholy resonance for generations to come.",
+                "vi": "Trớ trêu thay, chính khát vọng trung quân ái quốc không thể lay chuyển của ông nhằm tìm kiếm sự chiêu an từ triều đình đã dẫn tình huynh đệ (BROTHERHOOD) huy hoàng này vào một ngõ cụt bi thảm và tàn khốc. Dù một lòng hướng về chính nghĩa, Tống Giang lại tự trói buộc mình vào những giáo lý mục nát của một đế chế đang thối rữa, biến lòng trung thành mù quáng thành thứ vũ khí tàn sát chính đồng đội mình. Ông là một nhân vật vô cùng đáng buồn, một nhà lãnh đạo vĩ đại đã xé toạc màn đêm chỉ để rồi kéo theo những người anh em kết nghĩa vào một cái chết đầy đau đớn, để lại một dư âm u sầu, vĩnh cửu cho vô vàn thế hệ mai sau."
+            },
+            "image": "https://images.unsplash.com/photo-1618331835717-801e976710b2?q=80&w=1000&auto=format&fit=crop"
+        }
+    ],
+    "gallery": [],
+    "vocabulary": [
+        {
+            "word": "Chivalry",
+            "meaning": "Tinh thần hiệp nghĩa",
+            "type": "Noun"
+        },
+        {
+            "word": "Utopia",
+            "meaning": "Xã hội không tưởng",
+            "type": "Noun"
+        },
+        {
+            "word": "Brotherhood",
+            "meaning": "Tình huynh đệ",
+            "type": "Noun"
+        }
+    ],
+    "quotes": [
+        {
+            "en": "We execute justice on Heaven's behalf.",
+            "vi": "Chúng ta thay trời hành đạo."
+        },
+        {
+            "en": "A man's worth is measured by his loyalty to his brothers.",
+            "vi": "Giá trị của một người đàn ông được đo bằng lòng trung thành với huynh đệ."
+        }
+    ]
+  }
+,
+    {
+        "id": "lu-bu",
+        "name": "Lü Bu (Lữ Bố)",
+        "title": "The Peerless Warlord",
+        "image": "https://images.unsplash.com/photo-1598375992640-1ec78bbf37fa?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-red-600 to-orange-800",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Peerless Warlord",
+                    "vi": "Chiến Thần Vô Song"
+                },
+                "text": {
+                    "en": "In the war-torn twilight of the Han Dynasty, where heroes rose and fell like the shifting tides, one towering shadow eclipsed them all—Lü Bu, the peerless warlord wielding the legendary Sky-Piercer Halberd. He was not merely a general; he was the embodiment of primal might, a devastating storm that swept across battlefields, striking terror into the hearts of all adversaries. Invincible in single combat, the very name Lü Bu became synonymous with an absolute destruction that no mortal army could withstand.",
+                    "vi": "Trong thời kỳ khói lửa của cuối nhà Hán, nơi những anh hùng nổi lên và sụp đổ như thủy triều, có một cái bóng sừng sững che khuất tất cả—Lữ Bố, chiến thần vô song với cây Phương Thiên Họa Kích. Hắn không chỉ là một vị tướng; hắn là hiện thân của sức mạnh nguyên thủy, một cơn bão quét qua chiến trường gieo rắc nỗi kinh hoàng cho mọi kẻ thù. Bất khả chiến bại trong các cuộc đấu tay đôi, cái tên Lữ Bố đồng nghĩa với một sự hủy diệt tuyệt đối mà không một đạo quân nào có thể ngăn cản."
+                },
+                "image": "https://images.unsplash.com/photo-1598375992640-1ec78bbf37fa?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "A Tragic Tapestry",
+                    "vi": "Bức Tranh Bi Kịch"
+                },
+                "text": {
+                    "en": "Standing at the (ZENITH) of martial prowess, riding atop the majestic Red Hare, Lü Bu appeared immortal amidst the hail of arrows and the clash of steel. Yet, this unparalleled strength was tethered to a heart brimming with arrogance and unchecked ambition. His life was a tragic tapestry woven with threads of betrayal, from the assassination of his adoptive father Ding Yuan to the slaying of Dong Zhuo for the love of the beautiful Diaochan. Craving the pinnacle of power but lacking the strategic foresight of a true sovereign, Lü Bu became a pawn on the ruthless political chessboard of the Three Kingdoms, where raw power eventually bowed to cunning machinations.",
+                    "vi": "Đứng trên đỉnh cao (ZENITH) của võ đạo, cưỡi trên lưng ngựa Xích Thố oai phong, Lữ Bố dường như bất tử trước mưa tên bão đạn. Tuy nhiên, sức mạnh vô song ấy lại đi kèm với một trái tim kiêu ngạo và đầy tham vọng. Cuộc đời hắn là một chuỗi những sự phản bội đau đớn, từ việc sát hại nghĩa phụ Đinh Nguyên đến việc đoạt mạng Đổng Trác vì hồng nhan Điêu Thuyền. Lữ Bố khao khát đỉnh cao quyền lực nhưng lại thiếu đi tầm nhìn chiến lược của một bậc đế vương, biến hắn thành một con cờ trong bàn cờ chính trị tàn nhẫn của thời Tam Quốc, nơi sức mạnh cơ bắp cuối cùng cũng phải khuất phục trước mưu sâu kế hiểm."
+                },
+                "image": "https://images.unsplash.com/photo-1533134486753-c833f0edde8c?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Eternal God of War",
+                    "vi": "Chiến Thần Vĩnh Cửu"
+                },
+                "text": {
+                    "en": "Although his execution at the White Gate Pavilion was a bitterly humiliating end, the legend of Lü Bu has never faded from the annals of history. 'Among men, Lü Bu; among steeds, Red Hare'—this enduring (ADAGE) forever captures the image of a solitary warrior at the peak of glory, a martial genius devoured by fate and his own fatal flaws. He remains the greatest tragedy of rebellion, an eternal god of war falling through the fiery skies of history.",
+                    "vi": "Mặc dù cái chết tại lầu Bạch Môn là một sự sỉ nhục đầy cay đắng, huyền thoại về Lữ Bố vẫn chưa bao giờ tàn phai trong tâm trí hậu thế. 'Nhân trung Lữ Bố, mã trung Xích Thố'—câu ngạn ngữ (ADAGE) ấy mãi mãi khắc họa hình ảnh một dũng tướng cô độc trên đỉnh vinh quang, một thiên tài quân sự bị định mệnh và chính những khuyết điểm của bản thân nuốt chửng. Hắn là bi kịch vĩ đại nhất của sự phản nghịch, một chiến thần vĩnh cửu rơi rụng giữa bầu trời lịch sử rực lửa."
+                },
+                "image": "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Peerless",
+                "meaning": "Vô song, không ai sánh bằng",
+                "type": "Adjective"
+            },
+            {
+                "word": "Zenith",
+                "meaning": "Đỉnh cao, cực điểm",
+                "type": "Noun"
+            },
+            {
+                "word": "Adage",
+                "meaning": "Câu ngạn ngữ, châm ngôn",
+                "type": "Noun"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "Can anyone in this world withstand a single strike of my halberd?",
+                "vi": "Trên thế gian này, có kẻ nào đỡ nổi một kích của ta không?"
+            },
+            {
+                "en": "Even the gods tremble before my might.",
+                "vi": "Thậm chí các vị thần cũng phải run sợ trước sức mạnh của ta."
+            },
+            {
+                "en": "Among men, Lü Bu; among steeds, Red Hare.",
+                "vi": "Nhân trung Lữ Bố, mã trung Xích Thố."
+            }
+        ]
+    },
+    {
+        "id": "john-constantine",
+        "name": "John Constantine",
+        "title": "The Hellblazer",
+        "image": "https://images.unsplash.com/photo-1620288627223-53302f4e8c74?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-zinc-700 to-stone-900",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Occult Detective",
+                    "vi": "Thám Tử Huyền Bí"
+                },
+                "text": {
+                    "en": "John Constantine does not wear a hero's cape, nor does he care for grandiose ideals of salvation. Through the acrid smoke of his trademark Silk Cut cigarette, he is merely an (OCCULT) detective of the Constantine lineage, a magic-peddling grifter wandering the damp streets of London and the razor-thin borders between Heaven and Hell. Clad in a battered beige trench coat, Constantine carries a soul stained by sin, yet he stands as humanity's final line of defense against the most ancient and malevolent forces.",
+                    "vi": "John Constantine không khoác áo choàng anh hùng, cũng chẳng bận tâm đến những lý tưởng cứu thế hào nhoáng. Xuyên qua làn khói xám xịt từ điếu thuốc Silk Cut, gã chỉ là một thám tử huyền bí (OCCULT) của dòng họ Constantine, một con buôn ma thuật lang thang giữa London ẩm ướt và những ranh giới mong manh của Thiên Đàng và Địa Ngục. Khoác trên mình chiếc áo choàng màu nâu cũ nát, Constantine mang một tâm hồn hoen ố bởi tội lỗi nhưng lại là tuyến phòng thủ cuối cùng của nhân loại trước những thế lực tà ác cổ xưa nhất."
+                },
+                "image": "https://images.unsplash.com/photo-1620288627223-53302f4e8c74?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "Perilous Bargains",
+                    "vi": "Những Thỏa Thuận Hiểm Nguy"
+                },
+                "text": {
+                    "en": "His life is a relentless succession of perilous bargains with demons and ruthless sacrifices made to preserve the world. Constantine does not fight with his fists; he survives on cunning, (CYNICAL) trickery, and highly volatile dark magic. It is hard to call him a good man when almost every friend beside him seems destined for a tragic end, leaving him perpetually isolated and burdened with the ghosts of the innocent. Yet, deep beneath his selfish and bitter exterior lies a relentless warrior fighting against the dark to pay off unending karmic debts.",
+                    "vi": "Cuộc đời của gã là một chuỗi những thỏa thuận đầy hiểm nguy với ma quỷ và những sự hy sinh tàn nhẫn để bảo vệ thế giới. Constantine không chiến đấu bằng nắm đấm, gã sinh tồn bằng sự xảo quyệt, những mánh khóe hoài nghi (CYNICAL) ranh mãnh, và thứ ma thuật đen tối đầy rủi ro. Khó có thể gọi gã là người tốt lành khi mọi người bạn bên cạnh gã dường như đều bị cuốn vào kết cục bi thảm, biến gã thành một kẻ cô độc vĩnh viễn mang trên mình gánh nặng của vô số linh hồn oan khuất. Dù vậy, sâu thẳm dưới lớp vỏ bọc ích kỷ và chua chát, gã vẫn là một chiến binh không ngừng chống lại bóng tối để trả những món nợ nghiệp chướng không bao giờ dứt."
+                },
+                "image": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "Edge of Redemption",
+                    "vi": "Ranh Giới Chuộc Lỗi"
+                },
+                "text": {
+                    "en": "John Constantine is the quintessential anti-hero—the man who would gladly flip off both demons and angels alike. He proves that sometimes, the world doesn’t need a knight in shining armor to save it; it needs a bastard clever enough to con the devil and human enough to bear the (DAMNATION) in place of others. The saga of The Hellblazer is an epic of sacrifice, a smoldering cigarette balanced on the very edge of redemption.",
+                    "vi": "John Constantine là một hình mẫu phản anh hùng đỉnh cao—kẻ sẵn sàng đưa ngón tay giữa thách thức cả quỷ dữ lẫn thiên thần. Gã chứng minh rằng đôi khi, thế giới không cần một hiệp sĩ trong bộ giáp sáng ngời để cứu rỗi; nó cần một kẻ đủ tồi tệ để lừa gạt quỷ dữ và đủ nhân tính để chấp nhận mọi đọa đày (DAMNATION) thay cho kẻ khác. Câu chuyện của The Hellblazer là bản hùng ca về sự đánh đổi, một điếu thuốc cháy dở trên ranh giới của sự chuộc lỗi."
+                },
+                "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Occult",
+                "meaning": "Huyền bí, ma thuật",
+                "type": "Adjective"
+            },
+            {
+                "word": "Cynical",
+                "meaning": "Hoài nghi, trào phúng",
+                "type": "Adjective"
+            },
+            {
+                "word": "Damnation",
+                "meaning": "Sự đọa đày, kết án",
+                "type": "Noun"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "I step from the shadows, and demons learn to fear the dark.",
+                "vi": "Ta bước ra từ bóng tối, và ác quỷ học cách sợ hãi màn đêm."
+            },
+            {
+                "en": "There are no good guys, and there are no bad guys. There's just us, and we do the best we can.",
+                "vi": "Không có người tốt, và chẳng có kẻ xấu. Chỉ có chúng ta, và chúng ta làm tốt nhất những gì có thể."
+            },
+            {
+                "en": "I'm the one who steps from the shadows, all trenchcoat and arrogance.",
+                "vi": "Ta là kẻ bước ra từ bóng tối, mang theo chiếc áo măng tô và sự kiêu ngạo."
+            }
+        ]
+    },
+    {
+        "id": "albus-dumbledore",
+        "name": "Albus Dumbledore",
+        "title": "The Supreme Mugwump",
+        "image": "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-purple-700 to-indigo-900",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Guiding Beacon",
+                    "vi": "Ngọn Hải Đăng Dẫn Lối"
+                },
+                "text": {
+                    "en": "Distinguished by his long silver beard and half-moon spectacles, Albus Percival Wulfric Brian Dumbledore was not merely the revered Headmaster of Hogwarts, but the guiding (BEACON) of light during the darkest eras of the wizarding world. Behind his serene demeanor, gentle smile, and peculiar fondness for lemon drops, lay the greatest mind of his time. Dumbledore was a sage possessing unparalleled magical prowess, the only wizard whom the Dark Lord Voldemort ever truly feared.",
+                    "vi": "Nổi bật với bộ râu trắng dài và cặp kính bán nguyệt lấp lánh, Albus Percival Wulfric Brian Dumbledore không chỉ là vị Hiệu trưởng đáng kính của Hogwarts, mà còn là ngọn hải đăng (BEACON) của ánh sáng trong thời kỳ đen tối nhất của thế giới pháp thuật. Đằng sau phong thái điềm tĩnh, nụ cười hiền hậu và sự đam mê kỳ lạ với kẹo chanh, ẩn chứa một bộ óc vĩ đại nhất mọi thời đại. Dumbledore là nhà thông thái sở hữu sức mạnh vô song, là người duy nhất mà Chúa tể Hắc ám Voldemort từng phải e sợ."
+                },
+                "image": "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Art of Sacrifice",
+                    "vi": "Nghệ Thuật Hy Sinh"
+                },
+                "text": {
+                    "en": "Yet, such tremendous power was forged in the profound tragedies of his youth. Contrary to his flawless facade, Dumbledore's life was scarred by heartbreak and tear-stained choices. From his family's devastation to his complex relationship with Gellert Grindelwald, Dumbledore understood the seductive allure of power better than anyone, leading him to voluntarily abstain from the Minister of Magic's seat to preserve his soul's purity. He was a master of the art of sacrifice, (ORCHESTRATING) a colossal chess game where even he and those he loved most became pawns for the 'Greater Good.'",
+                    "vi": "Tuy nhiên, quyền năng vĩ đại ấy được rèn dũa từ những bi kịch sâu sắc của tuổi trẻ. Khác với vẻ ngoài hoàn hảo, cuộc đời của Dumbledore mang đầy những vết thương lòng và những lựa chọn đẫm nước mắt. Từ thảm kịch gia đình đến mối quan hệ phức tạp với Gellert Grindelwald, Dumbledore hiểu rõ hơn ai hết về sức mạnh cám dỗ của quyền lực, từ đó tự nguyện giam mình khỏi chiếc ghế Bộ trưởng để giữ gìn sự thanh cao của linh hồn. Ông là bậc thầy của nghệ thuật hy sinh, sắp xếp và điều khiển (ORCHESTRATING) một ván cờ khổng lồ nơi chính bản thân ông và cả những người ông yêu thương nhất cũng trở thành những quân cờ vì 'Đại nghĩa'."
+                },
+                "image": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Greatest Magic",
+                    "vi": "Phép Thuật Vĩ Đại Nhất"
+                },
+                "text": {
+                    "en": "Dumbledore's sacrifice atop the Astronomy Tower was not a defeat, but the perfect final move to ensure the survival of the world. His (LEGACY) lies not merely in legendary spells or prestigious orders, but in his eternal belief in the power of love—the most ancient and potent magic of all. Dumbledore remains the everlasting figure of a magnificent teacher, a brilliant star guiding the way through the longest and darkest nights of magical history.",
+                    "vi": "Sự hy sinh của Dumbledore tại Tháp Thiên Văn không phải là một thất bại, mà là nước cờ cuối cùng hoàn hảo để mở đường cho sự sống còn của thế giới. Di sản (LEGACY) của ông không chỉ nằm ở những phép thuật huyền thoại hay các tấm huân chương danh giá, mà nằm ở niềm tin bất diệt vào sức mạnh của tình yêu—thứ ma thuật cổ xưa và hùng mạnh nhất. Dumbledore mãi mãi là hình bóng một người thầy vĩ đại, một vì sao sáng ngời soi lối qua những đêm dài đen tối của lịch sử phép thuật."
+                },
+                "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Beacon",
+                "meaning": "Ngọn hải đăng, người dẫn lối",
+                "type": "Noun"
+            },
+            {
+                "word": "Orchestrate",
+                "meaning": "Sắp xếp, điều khiển (như một bản nhạc/ván cờ)",
+                "type": "Verb"
+            },
+            {
+                "word": "Legacy",
+                "meaning": "Di sản",
+                "type": "Noun"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+                "vi": "Hạnh phúc có thể được tìm thấy, ngay cả trong những thời khắc tăm tối nhất, nếu người ta chỉ cần nhớ bật đèn lên."
+            },
+            {
+                "en": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+                "vi": "Chính những lựa chọn của chúng ta, Harry, mới cho thấy chúng ta thực sự là ai, hơn xa những khả năng của chúng ta."
+            },
+            {
+                "en": "Do not pity the dead. Pity the living, and, above all those who live without love.",
+                "vi": "Đừng thương hại kẻ chết. Hãy thương hại những người đang sống, và trên hết, những kẻ sống mà không có tình yêu."
+            }
+        ]
+    },
+    {
+        "id": "logan-wolverine",
+        "name": "Logan",
+        "title": "The Wolverine",
+        "image": "https://images.unsplash.com/photo-1549490349-8643362247b5?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-amber-600 to-yellow-800",
+        "bio": [
+            {
+                "heading": {
+                    "en": "A Creature of Tragedy",
+                    "vi": "Sinh Vật Của Bi Kịch"
+                },
+                "text": {
+                    "en": "Born with bone claws and a regenerative healing factor that rendered him practically immortal, James Howlett, best known as Logan, is a creature of both greatness and inescapable tragedy. Stripped of his memories and forged into a killing machine by the Weapon X program, Logan has wandered through centuries of blood and fire. Beneath his gruff, abrasive exterior—a man who loves his beer and cigars—The Wolverine is a (FERAL) soul constantly torn between his animalistic instincts and the yearning to be a true human being.",
+                    "vi": "Sinh ra với móng vuốt xương và một khả năng phục hồi biến anh thành kẻ bất tử, James Howlett, hay còn được biết đến với cái tên Logan, là một sinh vật của cả sự vĩ đại lẫn bi kịch khôn nguôi. Bị tước đoạt ký ức và bị biến thành một cỗ máy giết người bởi dự án Weapon X, Logan đã phải lang thang qua hàng thế kỷ máu và lửa. Dưới lớp vỏ bọc xù xì, cục cằn, thích uống bia và hút xì gà, The Wolverine là một linh hồn hoang dã (FERAL) luôn giằng xé giữa bản năng quái thú và khao khát được làm một con người thực sự."
+                },
+                "image": "https://images.unsplash.com/photo-1549490349-8643362247b5?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Eternal Agony",
+                    "vi": "Nỗi Đau Vĩnh Cửu"
+                },
+                "text": {
+                    "en": "His unbreakable Adamantium skeleton makes him one of the most lethal warriors of the X-Men, but it is also an eternal shackle imprisoning him in both physical and psychological (AGONY). Logan has loved, lost, and watched his most cherished ones wither away while he remained ageless. Every physical wound heals in a heartbeat, but the scars upon his soul bleed endlessly through the years. His courage stems not from the inability to die, but from his willingness to stand up, bear all the pain, and fight for those who cannot protect themselves, even when he has nothing left to hope for.",
+                    "vi": "Khung xương Adamantium không thể phá vỡ khiến anh trở thành một trong những chiến binh nguy hiểm nhất của X-Men, nhưng nó cũng là gông cùm vĩnh cửu giam cầm anh trong nỗi đau đớn (AGONY) tột cùng cả về thể xác lẫn tinh thần. Logan đã yêu, đã mất, và đã chứng kiến những người thân yêu nhất của mình tàn lụi trong khi bản thân anh vẫn không già đi. Mỗi vết thương trên cơ thể đều lành lại trong tích tắc, nhưng những vết thương trong tâm hồn thì rỉ máu qua năm tháng. Sự dũng cảm của anh không đến từ việc không thể chết, mà đến từ việc sẵn sàng đứng lên, gánh vác mọi nỗi đau và chiến đấu vì những người không thể tự bảo vệ mình, dẫu cho bản thân anh chẳng còn gì để hy vọng."
+                },
+                "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "A Beautiful Elegy",
+                    "vi": "Bản Bi Ca Tuyệt Đẹp"
+                },
+                "text": {
+                    "en": "In the twilight of a legendary Mutant's life, when his powers faded and his body grew old, Logan finally found the peace he had desperately sought for over a century. He did not die as a nameless monster or a weapon of war; he closed his eyes as a father, a hero who gave absolutely everything to protect the future. The tale of Wolverine is the bloodiest yet most beautiful (ELEGY) to human resilience.",
+                    "vi": "Trong những khoảnh khắc cuối cùng của cuộc đời một Dị nhân huyền thoại, khi siêu năng lực cạn kiệt và cơ thể già nua, Logan cuối cùng cũng tìm thấy sự bình yên mà anh đã khao khát suốt hơn một thế kỷ. Anh không chết như một con quái vật vô danh hay một cỗ máy chiến tranh, anh nhắm mắt lại với tư cách là một người cha, một người hùng đã cống hiến mọi thứ để bảo vệ tương lai. Câu chuyện của Wolverine là bản bi ca (ELEGY) đẫm máu nhưng đẹp đẽ nhất về sự kiên cường của nhân loại."
+                },
+                "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Feral",
+                "meaning": "Hoang dã, như thú dữ",
+                "type": "Adjective"
+            },
+            {
+                "word": "Agony",
+                "meaning": "Nỗi đau đớn tột cùng",
+                "type": "Noun"
+            },
+            {
+                "word": "Elegy",
+                "meaning": "Bản bi ca",
+                "type": "Noun"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "I'm the best there is at what I do. But what I do isn't very nice.",
+                "vi": "Tôi là người giỏi nhất trong những việc tôi làm. Nhưng những việc tôi làm thì chẳng tốt đẹp gì."
+            },
+            {
+                "en": "Nature made me a freak. Man made me a weapon. And God made it last too long.",
+                "vi": "Tự nhiên tạo ra tôi như một kẻ kỳ dị. Con người biến tôi thành một vũ khí. Và Chúa lại bắt điều đó kéo dài quá lâu."
+            },
+            {
+                "en": "Don't be what they made you.",
+                "vi": "Đừng trở thành những gì họ đã biến con thành."
+            }
+        ]
+    },
+    {
+        "id": "vito-corleone",
+        "name": "Vito Corleone",
+        "title": "The Godfather",
+        "image": "https://images.unsplash.com/photo-1522069814421-4f1dc0b70ff1?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-neutral-700 to-black",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Uncrowned King",
+                    "vi": "Vị Vua Không Ngai"
+                },
+                "text": {
+                    "en": "Rising from the shadows of an orphaned immigrant fleeing Sicily, Vito Corleone ascended to become the most powerful Godfather of the New York underworld. Neither roaring in anger nor resorting to blind violence, his authority was built upon cold, quiet whispers, a serene composure, and an (INVIOLABLE) code of honor. Vito was no mere thug; he was an uncrowned king who manipulated the city's destiny through a flawless synthesis of a benefactor's mercy and a tyrant's ruthlessness.",
+                    "vi": "Bước ra từ bóng tối của một người nhập cư mồ côi chạy trốn khỏi Sicily, Vito Corleone đã vươn lên trở thành vị Bố già quyền lực nhất của thế giới ngầm New York. Không gầm thét hay sử dụng bạo lực một cách mù quáng, quyền uy của ông được xây dựng từ những lời thì thầm sắc lạnh, thái độ điềm tĩnh và một bộ quy tắc danh dự bất khả xâm phạm (INVIOLABLE). Vito không phải là một tay anh chị thô lỗ; ông là một vị vua không ngai, người thao túng vận mệnh của thành phố bằng sự kết hợp hoàn hảo giữa lòng nhân từ của một ân nhân và sự tàn nhẫn của một bạo chúa."
+                },
+                "image": "https://images.unsplash.com/photo-1522069814421-4f1dc0b70ff1?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Sanctuary of Family",
+                    "vi": "Mái Ấm Tôn Nghiêm"
+                },
+                "text": {
+                    "en": "Family was his anchor, his religion, and his sole vulnerability. In stark contrast to his blood-soaked business, Vito Corleone always strove to maintain a (SANCTUARY) where his wife and children were shielded from the filth of the mafia. He ran a criminal empire yet steadfastly refused to dabble in narcotics—a highly principled decision that ignited a bloody war which tore at the fabric of his family. The Godfather's true wisdom lay in his profound understanding of human nature, always staying one step ahead of his enemies and knowing precisely how to make 'an offer he can't refuse.'",
+                    "vi": "Gia đình là bến đỗ, là tôn giáo, và là điểm yếu duy nhất của ông. Trái ngược với công việc kinh doanh đẫm máu, Vito Corleone luôn cố gắng duy trì một mái ấm tôn nghiêm (SANCTUARY) nơi vợ con được bảo vệ khỏi sự nhơ nhuốc của xã hội đen. Ông điều hành một đế chế tội phạm nhưng lại từ chối nhúng tay vào ma túy, một quyết định đầy tính nguyên tắc đã dẫn đến cuộc chiến đẫm máu phá nát gia đình ông. Sự khôn ngoan của Bố già nằm ở chỗ ông thấu hiểu bản chất con người, luôn đi trước kẻ thù một bước và biết cách đưa ra 'những lời đề nghị không thể chối từ'."
+                },
+                "image": "https://images.unsplash.com/photo-1582845892043-4cb70deafc1b?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "An Eternal Epic",
+                    "vi": "Thiên Sử Thi Bất Diệt"
+                },
+                "text": {
+                    "en": "The image of Vito Corleone collapsing in his tomato garden, playing with his grandson in his final moments, is a remarkably peaceful end to a tempestuous life. He had abdicated his throne, witnessing the ruthless succession of his son Michael, yet the Godfather's legacy stands tall like an immortal monument. Vito Corleone remains the ultimate symbol of power, respect, and familial devotion—an eternal epic of the mafia that will never fade.",
+                    "vi": "Hình bóng của Vito Corleone gục ngã giữa khu vườn cà chua, chơi đùa cùng cháu nội trong những giây phút cuối đời, là một cái kết yên bình đến kỳ lạ cho một cuộc đời bão táp. Ông đã nhường lại ngai vàng, chứng kiến sự tiếp nối tàn khốc của người con trai Michael, nhưng di sản của Bố già vẫn đứng sừng sững như một tượng đài bất diệt. Vito Corleone mãi mãi là biểu tượng tối thượng của quyền lực, sự tôn trọng và tình yêu gia đình—một thiên sử thi về mafia không bao giờ phai nhòa."
+                },
+                "image": "https://images.unsplash.com/photo-1621360811013-c76831d125f2?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Inviolable",
+                "meaning": "Bất khả xâm phạm",
+                "type": "Adjective"
+            },
+            {
+                "word": "Sanctuary",
+                "meaning": "Nơi tôn nghiêm, nơi trú ẩn",
+                "type": "Noun"
+            },
+            {
+                "word": "Composure",
+                "meaning": "Sự điềm tĩnh",
+                "type": "Noun"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "I'm gonna make him an offer he can't refuse.",
+                "vi": "Ta sẽ đưa ra cho hắn một lời đề nghị mà hắn không thể chối từ."
+            },
+            {
+                "en": "A man who doesn't spend time with his family can never be a real man.",
+                "vi": "Một người đàn ông không dành thời gian cho gia đình sẽ không bao giờ là một người đàn ông thực thụ."
+            },
+            {
+                "en": "Great men are not born great, they grow great.",
+                "vi": "Những vĩ nhân không sinh ra đã vĩ đại, họ lớn lên để trở nên vĩ đại."
+            }
+        ]
+    },
+    {
+        "id": "thomas-shelby",
+        "name": "Thomas Shelby",
+        "title": "The Peaky Blinder",
+        "image": "https://images.unsplash.com/photo-1598284534720-305b0780287a?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-slate-700 to-slate-900",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Phantom of Birmingham",
+                    "vi": "Bóng Ma Của Birmingham"
+                },
+                "text": {
+                    "en": "Under the grim skies and dense factory smoke of 1920s Birmingham, Thomas Shelby walks like a phantom carrying the bone-chilling cold of the Flanders trenches. As the quiet yet razor-sharp mastermind behind the Peaky Blinders, Tommy was not born into privilege; he had to claw his way out of the mud. Behind his piercing blue eyes and the ever-present burning cigarette lies a man who never truly sleeps, a soul that perished in the Great War, leaving behind nothing but bottomless ambition.",
+                    "vi": "Dưới bầu trời xám xịt và những cột khói nhà máy dày đặc của Birmingham thập niên 1920, Thomas Shelby bước đi như một bóng ma mang theo cái lạnh thấu xương của chiến trường Flanders. Là bộ óc chủ mưu (MASTERMIND) tĩnh lặng nhưng cực kỳ sắc bén đằng sau băng đảng Peaky Blinders, Tommy không sinh ra trong nhung lụa mà phải tự mình cào xé để vươn lên từ bùn lầy. Đằng sau ánh mắt xanh thăm thẳm và điếu thuốc luôn cháy trên môi là một con người không bao giờ ngủ, một tâm hồn đã chết từ trong chiến tranh nay chỉ còn lại tham vọng vô đáy."
+                },
+                "image": "https://images.unsplash.com/photo-1598284534720-305b0780287a?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "A Marvel of Manipulation",
+                    "vi": "Kỳ Quan Của Sự Thao Túng"
+                },
+                "text": {
+                    "en": "Thomas Shelby is a marvel of (MANIPULATION) and strategic brilliance. He doesn't merely clash with rival gangs; he gambles his life against corrupt police, cutthroat politicians, and even the British Crown. However, the price of absolute power is absolute isolation. Crippling PTSD nightmares, the loss of his most beloved, and relentless betrayals gradually erode Tommy's humanity. He surrounds himself with iron walls, employing ruthlessness to protect his family, yet inadvertently dragging them into an inescapable vortex of death and despair.",
+                    "vi": "Thomas Shelby là một kỳ quan của sự thao túng (MANIPULATION) và tư duy chiến lược. Anh không chỉ đối đầu với các băng đảng đối thủ, mà còn đánh cược mạng sống với cảnh sát, chính trị gia và cả hoàng gia Anh. Tuy nhiên, cái giá của quyền lực là sự cô độc tột cùng. Những cơn ác mộng PTSD, sự ra đi của những người anh yêu thương nhất, và sự phản bội liên miên đã dần mài mòn nhân tính của Tommy. Anh tự vây quanh mình bởi những bức tường sắt đá, dùng sự tàn nhẫn để bảo vệ gia tộc, nhưng lại vô tình đẩy họ vào những vòng xoáy chết chóc không lối thoát."
+                },
+                "image": "https://images.unsplash.com/photo-1543854589-32a2656dc028?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "Prisoner of His Own Mind",
+                    "vi": "Tù Nhân Của Chính Tâm Trí Mình"
+                },
+                "text": {
+                    "en": "Whether ascending to the pinnacle of glory as a Member of Parliament or reigning over the underworld, Thomas Shelby remains a prisoner of his own mind. Tommy's journey is a brilliantly dark modern tragedy, where the line between good and evil is blurred by the sheer will to survive. The man hailed as the devil of Birmingham is ultimately just a soldier who can never truly come home, a king sitting upon the blood-stained throne of the Peaky Blinders.",
+                    "vi": "Dù bước lên đỉnh cao vinh quang của một Nghị sĩ hay trở thành kẻ thống trị thế giới ngầm, Thomas Shelby vẫn mãi là một tù nhân của tâm trí chính mình. Hành trình của Tommy là một vở bi kịch hiện đại rực rỡ, nơi ranh giới giữa cái thiện và cái ác bị xóa nhòa bởi tham vọng sinh tồn. Kẻ được xưng tụng là ác quỷ của Birmingham cuối cùng cũng chỉ là một người lính không bao giờ có thể quay trở về nhà, một vị vua ngồi trên ngai vàng rỉ máu của Peaky Blinders."
+                },
+                "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Mastermind",
+                "meaning": "Bộ óc chủ mưu, kẻ đứng đằng sau",
+                "type": "Noun"
+            },
+            {
+                "word": "Manipulation",
+                "meaning": "Sự thao túng",
+                "type": "Noun"
+            },
+            {
+                "word": "Erode",
+                "meaning": "Mài mòn, xói mòn",
+                "type": "Verb"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "I don't pay for suits. My suits are on the house or the house burns down.",
+                "vi": "Tôi không trả tiền cho những bộ vest. Vest của tôi là miễn phí, hoặc cái tiệm đó sẽ cháy rụi."
+            },
+            {
+                "en": "Everyone's a whore, Grace. We just sell different parts of ourselves.",
+                "vi": "Mọi người đều là kẻ bán thân, Grace. Chúng ta chỉ bán đi những phần khác nhau của mình thôi."
+            },
+            {
+                "en": "There is no rest for me in this world. Perhaps in the next.",
+                "vi": "Không có sự nghỉ ngơi nào cho tôi ở thế giới này. Có lẽ là ở thế giới tiếp theo."
+            }
+        ]
+    },
+    {
+        "id": "hercule-poirot",
+        "name": "Hercule Poirot",
+        "title": "The Master Detective",
+        "image": "https://images.unsplash.com/photo-1588725838495-23c21a41e974?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-teal-700 to-emerald-900",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Eccentric Gentleman",
+                    "vi": "Quý Ông Kỳ Quặc"
+                },
+                "text": {
+                    "en": "With his modest stature, a slightly comical waddle, and a mustache groomed to absolute perfection, Hercule Poirot looks more like an (ECCENTRIC) gentleman than the terror of every criminal. However, this legendary Belgian detective wields a weapon sharper than any blade: the 'little grey cells' in his brain. Poirot does not need to wrestle at crime scenes or chase suspects through the streets; he unravels the most sophisticated and brutal crimes armed only with meticulous observation, deep psychological insight, and a superhuman intellect.",
+                    "vi": "Mang một vóc dáng khiêm tốn, dáng đi lạch bạch và một bộ ria mép được chải chuốt đến mức hoàn hảo, Hercule Poirot trông có vẻ giống một quý ông kỳ quặc (ECCENTRIC) hơn là nỗi khiếp sợ của mọi tên tội phạm. Tuy nhiên, thám tử người Bỉ huyền thoại này lại sở hữu một vũ khí sắc bén hơn bất kỳ lưỡi gươm nào: 'những tế bào xám nhỏ' trong não bộ. Poirot không cần phải vật lộn tại hiện trường hay truy đuổi nghi phạm trên đường phố; ông giải quyết những tội ác tinh vi và tàn bạo nhất chỉ bằng sự quan sát tỉ mỉ, tâm lý học sâu sắc và một trí tuệ siêu phàm."
+                },
+                "image": "https://images.unsplash.com/photo-1588725838495-23c21a41e974?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Web of Deduction",
+                    "vi": "Mạng Lưới Suy Luận"
+                },
+                "text": {
+                    "en": "The greatness of Hercule Poirot lies in his ability to see through the deceptive masks that people wear. Behind elegant afternoon teas and seemingly (INNOCUOUS) questions, Poirot is weaving an inescapable web of deduction. He understands that evil is not solely born of monsters, but often rises from ordinary individuals blinded by greed, jealousy, or fear. To Poirot, every case is not merely a logical puzzle, but a profound descent into the darkest corners of human nature.",
+                    "vi": "Sự vĩ đại của Hercule Poirot nằm ở chỗ ông nhìn thấu được những lớp mặt nạ giả dối mà con người tạo ra. Đằng sau những tách trà chiều thanh lịch và những câu hỏi có vẻ như vô thưởng vô phạt (INNOCUOUS), Poirot đang dệt nên một mạng lưới suy luận không thể thoát ra. Ông thấu hiểu rằng cái ác không chỉ sinh ra từ quái vật, mà nó thường trỗi dậy từ những con người bình thường bị che mắt bởi lòng tham, sự ghen tuông hay nỗi sợ hãi. Mỗi vụ án đối với Poirot không chỉ là một bài toán logic, mà còn là một chuyến đi sâu vào những góc tối tăm nhất của bản tính con người."
+                },
+                "image": "https://images.unsplash.com/photo-1549424846-95f77873699c?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "Magician of Truth",
+                    "vi": "Nhà Ảo Thuật Của Sự Thật"
+                },
+                "text": {
+                    "en": "Despite his eccentric habits and an almost obsessive compulsion for symmetry, Hercule Poirot remains the absolute emblem of justice and compassion. He has exposed the most perfect crimes on the Orient Express and along the majestic River Nile, leaving behind an unstoppable, brilliant legacy. Poirot is a magician of truth, a man who proved that the light of intellect can dispel any shadow cast by crime.",
+                    "vi": "Mặc dù có những thói quen lập dị và sự ám ảnh đến mức tiêu cực với sự đối xứng, Hercule Poirot vẫn là biểu tượng tuyệt đối của công lý và lòng trắc ẩn. Ông đã vạch trần những tội ác hoàn hảo nhất trên chuyến tàu Tốc hành Phương Đông hay trên dòng sông Nile thơ mộng, để lại một di sản rực rỡ không thể cản bước. Poirot là một nhà ảo thuật của sự thật, người đã chứng minh rằng ánh sáng của trí tuệ có thể xua tan mọi bóng tối do tội ác giăng ra."
+                },
+                "image": "https://images.unsplash.com/photo-1596245107693-db19205325e6?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Eccentric",
+                "meaning": "Lập dị, kỳ quặc",
+                "type": "Adjective"
+            },
+            {
+                "word": "Innocuous",
+                "meaning": "Vô thưởng vô phạt, không gây hại",
+                "type": "Adjective"
+            },
+            {
+                "word": "Meticulous",
+                "meaning": "Tỉ mỉ, cẩn trọng",
+                "type": "Adjective"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "It is the brain, the little gray cells on which one must rely.",
+                "vi": "Đó là trí não, những tế bào xám nhỏ mà người ta phải dựa vào."
+            },
+            {
+                "en": "If you will forgive me for being personal—I do not like your face, M. Ratchett.",
+                "vi": "Nếu ngài tha thứ cho sự cá nhân của tôi—tôi không thích khuôn mặt của ngài, ngài Ratchett."
+            },
+            {
+                "en": "Impossible cannot have happened, therefore the impossible must be possible in spite of appearances.",
+                "vi": "Điều không thể thì không thể xảy ra, vì vậy điều không thể đó chắc chắn phải là có thể bất chấp vẻ bề ngoài."
+            }
+        ]
+    },
+    {
+        "id": "beth-harmon",
+        "name": "Beth Harmon",
+        "title": "The Queen of Chess",
+        "image": "https://images.unsplash.com/photo-1580541832626-2a7131ee809f?q=80&w=1000&auto=format&fit=crop",
+        "color": "from-stone-600 to-stone-800",
+        "bio": [
+            {
+                "heading": {
+                    "en": "The Solitary Prodigy",
+                    "vi": "Thần Đồng Cô Độc"
+                },
+                "text": {
+                    "en": "In a world dominated by austere men in stern suits, Elizabeth 'Beth' Harmon arrived like an enchanting lightning bolt, shattering all prejudices with her genius moves on the chessboard. Raised in a cold orphanage where her only friends were green tranquilizer pills and imaginary chessboards projected on the ceiling, Beth found within the 64 black-and-white squares a universe she could entirely control. She is a player with a fiercely fiery attacking instinct, a solitary (PRODIGY) gliding through life with cold beauty and an intimidatingly sharp intellect.",
+                    "vi": "Trong một thế giới được thống trị bởi những người đàn ông trong những bộ vest nghiêm nghị, Elizabeth 'Beth' Harmon xuất hiện như một tia chớp đầy mê hoặc, đánh sập mọi định kiến bằng những nước đi thiên tài trên bàn cờ vua. Trưởng thành từ một trại trẻ mồ côi lạnh lẽo, nơi cô làm bạn với những viên thuốc an thần màu xanh và những bàn cờ tưởng tượng trên trần nhà, Beth đã tìm thấy trong 64 ô cờ đen trắng một vũ trụ nơi cô có thể hoàn toàn kiểm soát. Cô là một kỳ thủ với bản năng tấn công rực lửa, một thần đồng (PRODIGY) cô độc lướt qua cuộc đời bằng vẻ đẹp lạnh lùng và một trí tuệ sắc bén đến đáng sợ."
+                },
+                "image": "https://images.unsplash.com/photo-1580541832626-2a7131ee809f?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Grueling Battle",
+                    "vi": "Cuộc Chiến Khốc Liệt"
+                },
+                "text": {
+                    "en": "Beth's journey to the pinnacle of chess was no fairy tale, but a grueling battle with the demons lurking within her own soul. Addiction, the paralyzing fear of loneliness, and the crushing weight of perfection constantly tore at the mind of a young woman yearning for love. Her greatest opponents were not the (FORMIDABLE) Soviet grandmasters, but the darkness that enveloped her whenever she drowned herself in endless, intoxicated nights. Yet, amidst the chaos of self-destruction, her pure love for the game and the unwavering support of her friends pulled her back into the light.",
+                    "vi": "Hành trình chinh phục đỉnh cao cờ vua của Beth không phải là một câu chuyện cổ tích, mà là một cuộc chiến khốc liệt với những con quỷ trong chính tâm hồn cô. Sự nghiện ngập, nỗi sợ hãi sự cô đơn, và áp lực của sự hoàn hảo liên tục xé rách tâm trí của một cô gái trẻ khao khát tình thương. Những đối thủ lớn nhất của cô không phải là những kiện tướng Liên Xô đáng gờm (FORMIDABLE), mà là bóng tối bủa vây mỗi khi cô tự chuốc say mình trong những đêm dài vô tận. Tuy nhiên, giữa sự hỗn loạn của sự tự hủy hoại, tình yêu thuần khiết dành cho cờ vua và sự giúp đỡ từ những người bạn đã kéo cô trở lại ánh sáng."
+                },
+                "image": "https://images.unsplash.com/photo-1528659129524-70fbfba99b24?q=80&w=1000&auto=format&fit=crop"
+            },
+            {
+                "heading": {
+                    "en": "The Symphony of Brilliance",
+                    "vi": "Bản Giao Hưởng Của Trí Tuệ"
+                },
+                "text": {
+                    "en": "When Beth Harmon looked up at the ceiling in Moscow to envision the decisive move to defeat Borgov, she did more than win the world championship; she achieved a total victory over herself. The Queen of Chess no longer needed pills to see the path to triumph, for she had found true strength in the tranquility of her own mind. Beth Harmon is a symphony of brilliance and (RESILIENCE), a dazzling symbol proving that even the most insignificant pawns can become queens and change the entire game.",
+                    "vi": "Khi Beth Harmon ngước nhìn trần nhà ở Moscow để tìm ra nước đi quyết định đánh bại Borgov, cô không chỉ giành lấy chức vô địch thế giới, mà cô đã hoàn toàn chiến thắng chính bản thân mình. Nữ hoàng Cờ vua không còn cần đến những viên thuốc để nhìn thấy con đường dẫn đến chiến thắng, bởi vì cô đã tìm thấy sức mạnh thực sự từ sự tĩnh lặng của tâm hồn. Beth Harmon là một bản giao hưởng của trí tuệ và sự kiên cường (RESILIENCE), một biểu tượng rực rỡ chứng minh rằng ngay cả những quân tốt nhỏ bé nhất cũng có thể phong hậu và thay đổi toàn bộ ván cờ."
+                },
+                "image": "https://images.unsplash.com/photo-1610427958066-e8d197af0ff4?q=80&w=1000&auto=format&fit=crop"
+            }
+        ],
+        "gallery": [],
+        "vocabulary": [
+            {
+                "word": "Prodigy",
+                "meaning": "Thần đồng",
+                "type": "Noun"
+            },
+            {
+                "word": "Formidable",
+                "meaning": "Đáng gờm, đáng sợ",
+                "type": "Adjective"
+            },
+            {
+                "word": "Resilience",
+                "meaning": "Sự kiên cường, khả năng phục hồi",
+                "type": "Noun"
+            }
+        ],
+        "quotes": [
+            {
+                "en": "Chess isn't always competitive. Chess can also be beautiful.",
+                "vi": "Cờ vua không phải lúc nào cũng là ganh đua. Cờ vua cũng có thể rất đẹp."
+            },
+            {
+                "en": "I feel safe in an entire world of 64 squares.",
+                "vi": "Tôi cảm thấy an toàn trong một thế giới trọn vẹn của 64 ô cờ."
+            },
+            {
+                "en": "It’s an entire world of just 64 squares. I feel safe in it. I can control it, I can dominate it.",
+                "vi": "Đó là một thế giới trọn vẹn chỉ với 64 ô cờ. Tôi cảm thấy an toàn trong đó. Tôi có thể kiểm soát nó, tôi có thể thống trị nó."
+            }
+        ]
+    }
 
-export default characters;
+];
