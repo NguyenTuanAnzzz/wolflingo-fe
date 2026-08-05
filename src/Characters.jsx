@@ -318,7 +318,7 @@ function Characters() {
           </div>
           <h1 className="text-5xl md:text-6xl font-bold mb-4">Học Qua <span className="text-gradient">Nhân Vật</span></h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
-            Heroes & Anti-heroes. Khám phá tiểu sử chuyên sâu, từ vựng đặc trưng và những câu nói kinh điển của các biểu tượng văn hóa đại chúng.
+            Những con người làm nên những câu chuyện vĩ đại. Từ hào quang đến bi kịch, từ thiên tài đến kẻ phản diện — mỗi hành trình đều mang trong mình những điều đáng để nhìn lại và học hỏi.
           </p>
         </div>
 
