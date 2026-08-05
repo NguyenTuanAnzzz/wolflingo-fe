@@ -4132,6 +4132,388 @@ export const characters = [
         "vi": "Một vị Vua có thể điều động một người, một người cha có thể đòi hỏi một người con, nhưng hãy nhớ rằng ngay cả khi những kẻ điều khiển ngươi là Vua chúa hay những người quyền lực, linh hồn của ngươi chỉ thuộc về riêng ngươi mà thôi."
       }
     ]
+  },
+  {
+    "id": "sima-yi",
+    "name": "Sima Yi (Tư Mã Ý)",
+    "title": "The Master of Patience",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-slate-900 to-amber-900",
+    "bio": [
+      {
+        "heading": {
+          "en": "The Ultimate Victor of an Era",
+          "vi": "Chiến Thắng Của Cả Một Thời Đại"
+        },
+        "text": {
+          "en": "In the vast river of history, some figures blaze like the sun, demanding the awe of posterity with their brilliance and glorious deeds. Yet there are others who seek neither radiant glory nor the applause of the world, for what they pursue is the ultimate triumph of an entire era. The Three Kingdoms was a chessboard where countless heroes contested for sovereignty. There was Zhuge Liang with divine intellect, Cao Cao with the ambition to pacify the realm, and Guan Yu with immortal loyalty. Yet among these shining stars stood a man who walked a quieter path: never rushing for momentary victories, never flaunting his brilliance, but waiting with terrifying patience for the decisive moment. That man was Sima Yi.",
+          "vi": "Trong dòng chảy dài của lịch sử, có những con người tỏa sáng như mặt trời, khiến hậu thế phải ngước nhìn bởi tài năng và chiến công hiển hách. Nhưng cũng có những kẻ không cần ánh hào quang rực rỡ, không cần tiếng vỗ tay của thế gian, bởi thứ họ theo đuổi là chiến thắng cuối cùng của cả một thời đại. Thời Tam Quốc là một bàn cờ nơi vô số anh hùng cùng tranh đoạt thiên hạ. Có Gia Cát Lượng với trí tuệ được ví như thần cơ diệu toán, có Tào Tháo với tham vọng \"mang kiếm bình định thiên hạ\", có Quan Vũ với lòng trung nghĩa lưu danh muôn thuở. Nhưng giữa những vì sao rực rỡ ấy, tồn tại một con người chọn con đường âm thầm hơn: không vội vàng tranh thắng, không phô bày tài năng, mà kiên nhẫn chờ đợi thời cơ tuyệt đối. Đó chính là Tư Mã Ý."
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "The Master of Supreme Patience",
+          "vi": "Bậc Thầy Của Nghệ Thuật Nhẫn Nhịn"
+        },
+        "text": {
+          "en": "Sima Yi is the consummate embodiment of the philosophy 'forbear to endure, conceal to ascend'. Facing the formidable Zhuge Liang, he did not recklessly seek battle, but used stillness and restraint to neutralize the fiercest offenses. He endured slander, survived the suspicion of successive Cao emperors, and even feigned infirmity for years to disarm his rivals' vigilance. His genius lay not in flamboyant stratagems, but in a transcendent strategic foresight: knowing precisely when to retreat into the shadows and when to deliver the fatal, decisive strike.",
+          "vi": "Tư Mã Ý là minh chứng hoàn hảo cho triết lý 'nhẫn để vững vàng, ẩn để vươn lên'. Đối đầu với một Gia Cát Lượng kỳ tài, ông không kiêu ngạo nghênh chiến mà biết thu mình, dùng sự tĩnh lặng để hóa giải mọi đòn tấn công mãnh liệt nhất. Ông chấp nhận những lời gièm pha, chịu đựng sự nghi kỵ của các đời vua Tào, và thậm chí giả bệnh trong nhiều năm trời để làm tản mạn sự cảnh giác của kẻ thù. Trí tuệ của ông không nằm ở những kế sách phô trương, mà là tầm nhìn chiến lược vượt thời gian: biết khi nào cần lùi bước và khi nào cần tung ra nhát kiếm quyết định."
+        },
+        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "The Architect of Unified Dynasty",
+          "vi": "Người Mở Đường Cho Thiên Hạ Quy Một"
+        },
+        "text": {
+          "en": "When the moment arrived at the Incident of Gaoping Tombs, Sima Yi drew his sword in a single day to culminate decades of silent waiting, seizing absolute power and laying the unshakeable foundation for the Jin Dynasty to unite the realm. He proved to the world that a true conqueror is not the one who wins fleeting skirmishes, but the final survivor on history's chessboard. Sima Yi's legacy is a monumental lesson in supreme patience, extraordinary fortitude, and a profound vision that outlasts all momentary ambitions.",
+          "vi": "Khi thời cơ đến tại Sự biến Cao Bình Lăng, Tư Mã Ý đã rút kiếm chỉ trong một ngày để kết thúc sự chờ đợi suốt mấy mươi năm, nắm trọn quyền lực và đặt nền móng vững chắc cho triều đại Tây Tấn thống nhất thiên hạ. Ông cho thế gian thấy rằng anh hùng thực sự không phải là người thắng trong từng trận đánh nhỏ, mà là người sống sót cuối cùng trên bàn cờ lịch sử. Di sản của Tư Mã Ý là bài học vĩ đại về sự kiên nhẫn, bản lĩnh phi thường và một tầm nhìn sâu sắc vượt lên trên mọi tranh đoạt nhất thời."
+        },
+        "image": "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "vocabulary": [
+      {
+        "word": "Sovereignty",
+        "meaning": "Chủ quyền, quyền thống trị tối cao",
+        "type": "Noun",
+        "example": "Countless heroes contested for sovereignty."
+      },
+      {
+        "word": "Consummate",
+        "meaning": "Hoàn hảo, tài giỏi tột bậc",
+        "type": "Adjective",
+        "example": "Sima Yi is the consummate embodiment of patience."
+      },
+      {
+        "word": "Forbear",
+        "meaning": "Nhẫn nhịn, kiềm chế",
+        "type": "Verb",
+        "example": "He learned to forbear and endure through decades."
+      },
+      {
+        "word": "Stratagem",
+        "meaning": "Mưu kế, chiến lược",
+        "type": "Noun",
+        "example": "His genius lay not in flamboyant stratagems."
+      },
+      {
+        "word": "Posterity",
+        "meaning": "Hậu thế, đời sau",
+        "type": "Noun",
+        "example": "Some figures demand the awe of posterity."
+      },
+      {
+        "word": "Fortitude",
+        "meaning": "Bản lĩnh, kiên cường",
+        "type": "Noun",
+        "example": "A monumental lesson in supreme patience and fortitude."
+      }
+    ],
+    "quotes": [
+      {
+        "en": "A hero fights for the moment; a true conqueror fights for eternity.",
+        "vi": "Anh hùng tranh nhất thời, hào kiệt tranh thiên cổ."
+      },
+      {
+        "en": "I have swung my sword only once, but I spent over a decade sharpening it.",
+        "vi": "Tôi vung kiếm chỉ một lần, nhưng đã mài kiếm suốt mười mấy năm."
+      },
+      {
+        "en": "One of great ambition is not entangled by momentary humiliation, but eyes only the final triumph.",
+        "vi": "Người chí lớn không bị vướng bận bởi cái nhục trước mắt, chỉ hướng tới chiến thắng sau cùng."
+      }
+    ]
+  },
+  {
+    "id": "deathstroke",
+    "name": "Slade Wilson (Deathstroke)",
+    "title": "The World's Greatest Assassin - Sát Thủ Vĩ Đại Nhất",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-orange-600 to-slate-900",
+    "bio": [
+      {
+        "heading": {
+          "en": "Beyond Hero and Villain",
+          "vi": "Vượt Trên Anh Hùng Và Phản Diện"
+        },
+        "text": {
+          "en": "The world forever divides mankind into two realms: heroes and villains. Yet sometimes, there exist those who belong to neither domain. They do not crusade for justice, nor do they serve the forces of malice; they pledge allegiance only to their own prowess and a self-forged code. Deathstroke is such a man. As the world's supreme mercenary, he embodies cold precision, iron discipline, and lethal perfection—a warrior whose shadow commands fear even among gods and heroes.",
+          "vi": "Thế giới luôn phân chia con người thành hai phía: anh hùng và phản diện. Nhưng đôi khi, tồn tại những kẻ không thuộc về bất kỳ bên nào. Họ không chiến đấu vì công lý, cũng không phục vụ cho cái ác. Họ chỉ trung thành với năng lực của bản thân và những nguyên tắc do chính mình đặt ra. Deathstroke là một con người như thế. Là sát thủ vĩ đại nhất thế giới, ông không chỉ sở hữu sức mạnh vượt xa người thường mà còn là hiện thân của sự lạnh lùng, kỷ luật và chết chóc—một chiến binh mà ngay cả những siêu anh hùng cũng phải dè chừng."
+        },
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "The Apex Super-Soldier",
+          "vi": "Siêu Chiến Binh Đỉnh Cao"
+        },
+        "text": {
+          "en": "Transformed by secret experiments, Slade Wilson's physiology ascended to become an enhanced apex of warfare. Every reflex and muscle was forged into an unstoppable instrument of combat. Yet what renders him truly formidable is not mere physical strength, but a brilliant tactical intellect that deconstructs entire armies and calculates every enemy maneuver with mathematical infallibility.",
+          "vi": "Được cường hóa bởi những thử nghiệm bí mật, thể chất của Slade Wilson đã vươn tới cảnh giới hoàn hảo nhất của một chiến binh. Từng múi cơ, từng phản xạ đều được trui rèn thành thứ vũ khí chết chóc không thể ngăn cản. Nhưng thứ khiến ông thực sự đáng gờm không chỉ là sức mạnh cơ bắp, mà là bộ óc chiến thuật phi thường có thể tính toán trước mọi bước đi của quân thù với độ chính xác mang tính toán học."
+        },
+        "image": "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "An Unbreakable Code of Death",
+          "vi": "Quy Tắc Chết Chóc Bất Khả Xâm Phạm"
+        },
+        "text": {
+          "en": "Though draped in the mantle of a ruthless executioner, Slade Wilson abides by a personal code of honor more rigid than forged steel. Once a contract is sealed, no god nor empire on Earth can turn him from his path. He is the cold tempest of the battlefield, a living legend of uncompromising professionalism where mortal emotion bows before unbreakable discipline.",
+          "vi": "Dù khoác lên mình chức danh của một kẻ giết người tàn nhẫn, Slade Wilson lại sống theo một bản quy tắc danh dự kiên cố hơn cả thép. Một khi bản hợp đồng đã ký, không thần thánh hay quân vương nào trên thế gian có thể khiến ông lùi bước. Ông là cơn bão ngầm lạnh lùng của chiến trường, một huyền thoại của sự thực thi chuyên nghiệp nơi mọi cảm xúc phàm tục đều phải cúi đầu trước kỷ luật thép."
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "vocabulary": [
+      {
+        "word": "Mercenary",
+        "meaning": "Lính đánh thuê, chiến binh tự do",
+        "type": "Noun",
+        "example": "As the world's supreme mercenary, he embodies cold precision and iron discipline."
+      },
+      {
+        "word": "Enhanced",
+        "meaning": "Được cường hóa, siêu việt",
+        "type": "Adjective",
+        "example": "Slade Wilson's physiology ascended to become an enhanced apex of warfare."
+      },
+      {
+        "word": "Formidable",
+        "meaning": "Đáng gờm, đáng sợ",
+        "type": "Adjective",
+        "example": "Yet what renders him truly formidable is not mere physical strength."
+      },
+      {
+        "word": "Tactical",
+        "meaning": "Thuộc về chiến thuật",
+        "type": "Adjective",
+        "example": "A brilliant tactical intellect that deconstructs entire armies."
+      },
+      {
+        "word": "Ruthless",
+        "meaning": "Tàn nhẫn, không khoan nhượng",
+        "type": "Adjective",
+        "example": "Though draped in the mantle of a ruthless executioner, he abides by a strict code of honor."
+      }
+    ],
+    "quotes": [
+      {
+        "en": "I don't hate you. You're just a target, and I never miss.",
+        "vi": "Tôi không căm ghét anh. Anh chỉ là một mục tiêu, và tôi chưa bao giờ trượt."
+      },
+      {
+        "en": "A contract is a contract. Once I accept it, nothing on Earth can stop me.",
+        "vi": "Hợp đồng là hợp đồng. Một khi tôi đã nhận, không thứ gì trên Trái Đất này có thể ngăn cản tôi."
+      },
+      {
+        "en": "Victory isn't about who hits the hardest. It's about who thinks three steps ahead.",
+        "vi": "Chiến thắng không nằm ở việc ai ra đòn mạnh nhất. Nó nằm ở việc ai nhìn xa hơn ba bước."
+      }
+    ]
+  },
+  {
+    "id": "guan-yu",
+    "name": "Guan Yu (Quan Vũ)",
+    "title": "The God of War and Righteousness - Võ Thánh",
+    "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-emerald-700 to-red-800",
+    "bio": [
+      {
+        "heading": {
+          "en": "The Myth of the Martial Saint",
+          "vi": "Huyền Thoại Võ Thánh"
+        },
+        "text": {
+          "en": "Throughout the vast annals of Chinese history, many illustrious generals have etched their names in blood and triumph. Some are remembered for their tactical genius, others for their ferocious battlefield victories. Yet, only a rare few transcend the boundaries of mortality to become the eternal symbol of a civilization. Guan Yu stands supreme among them. More than a legendary commander of the Shu Han, he is the living incarnation of righteousness, courage, and honor—a name invoked across millennia with revered awe as the Martial Saint.",
+          "vi": "Trong suốt chiều dài lịch sử Trung Hoa, không thiếu những danh tướng lập nên chiến công hiển hách. Có người được nhớ đến bởi tài thao lược, có người lưu danh nhờ những trận chiến oanh liệt. Thế nhưng, chỉ có rất ít người vượt qua giới hạn của một con người để trở thành biểu tượng của cả một nền văn hóa. Quan Vũ chính là một trong số đó. Ông không chỉ là vị tướng của nhà Thục Hán, mà còn là hiện thân của lòng trung nghĩa, khí phách và danh dự—một cái tên khiến hậu thế tôn xưng bằng hai chữ đầy kính trọng: Võ Thánh."
+        },
+        "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "The Peach Garden Brotherhood",
+          "vi": "Lời Thề Vườn Đào Bất Diệt"
+        },
+        "text": {
+          "en": "Amidst the twilight of a dying empire, beneath a blooming peach orchard, an eternal oath of brotherhood forged an indestructible bond that echoed through the ages. When his Green Dragon Crescent Blade sang in battle, armies trembled before his martial majesty. Even when captive to the warlord Cao Cao, tempted by boundless riches and the legendary Red Hare, his absolute loyalty to his lord remained an immovable monolith, untainted by ambition.",
+          "vi": "Giữa thuở hán thất suy tàn, trong vườn đào rực rỡ sắc hoa, lời thề huynh đệ giữa Lưu Bị, Quan Vũ và Trương Phi đã trở thành bản trường ca bất hủ về tình nghĩa trần gian. Khi Thanh Long Yển Nguyệt Đao tuốt khỏi vỏ, vạn quân thù cũng phải xé lòng khiếp sợ. Ngay cả khi sa cơ rơi vào tay Tào Tháo, đứng trước vô số vinh hoa phú quý cùng thần mã Xích Thố, lòng trung thành tuyệt đối của ông với hiền huynh vẫn trường tồn như tảng đá ngàn năm không thể lay chuyển."
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "The Eternal God of War",
+          "vi": "Bản Hùng Ca Bất Tử Của Võ Thánh"
+        },
+        "text": {
+          "en": "His moral righteousness was so profound that at Huarong Trail, he sacrificed personal glory to spare his former benefactor, elevating honor above worldly triumph. Though his mortal frame fell in a tragic yet majestic climax, his indomitable spirit transcended earthly records. Guan Yu lives on not merely in epic folklore, but as the immortal God of War, permanently consecrated as mankind's beacon of integrity and fidelity.",
+          "vi": "Chính nghĩa của Quan Vũ cao cả đến mức ông từng gạt bỏ vinh quang cá nhân để tha bổng cho Tào Tháo tại Hoa Dung Đạo, trọn vẹn chí hướng trả món nợ ân tình năm xưa. Dù thân xác phàm trần đã ngã xuống trong kiếp nạn bi tráng, khí phách ngút trời và đức độ của ông đã hóa thánh thần. Quan Vũ không chỉ sống trong những áng sử thi, mà đã trở thành Đức Thánh Quân hiển linh, vĩnh viễn là biểu tượng tối thượng cho lòng trung trinh và công lý của nhân loại."
+        },
+        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "vocabulary": [
+      {
+        "word": "Illustrious",
+        "meaning": "Lừng lẫy, hiển hách, vẻ vang",
+        "type": "Adjective",
+        "example": "Throughout the vast annals of Chinese history, many illustrious generals have etched their names in blood and triumph."
+      },
+      {
+        "word": "Incarnation",
+        "meaning": "Hiện thân, sự hóa thân",
+        "type": "Noun",
+        "example": "He is the living incarnation of righteousness, courage, and honor."
+      },
+      {
+        "word": "Brotherhood",
+        "meaning": "Tình huynh đệ, tình anh em kết nghĩa",
+        "type": "Noun",
+        "example": "An eternal oath of brotherhood forged an indestructible bond that echoed through the ages."
+      },
+      {
+        "word": "Loyalty",
+        "meaning": "Lòng trung thành, sự trung trinh tuyệt đối",
+        "type": "Noun",
+        "example": "His absolute loyalty to his lord remained an immovable monolith, untainted by ambition."
+      },
+      {
+        "word": "Righteousness",
+        "meaning": "Sự chính nghĩa, đức độ trượng nghĩa",
+        "type": "Noun",
+        "example": "His moral righteousness was so profound that at Huarong Trail, he sacrificed personal glory."
+      }
+    ],
+    "quotes": [
+      {
+        "en": "Even if the mountains crumble and rivers run dry, a vow of brotherhood shall never be broken.",
+        "vi": "Dù cho núi lở sông cạn, lời thề huynh đệ vĩnh viễn không bao giờ phai nhạt."
+      },
+      {
+        "en": "I would rather die in honor than live in dishonor under another's banner.",
+        "vi": "Thà chết oanh liệt vì danh dự còn hơn sống nhục nhã dưới ngọn cờ của kẻ khác."
+      },
+      {
+        "en": "Righteousness weighs heavier than gold, and loyalty is engraved deeper than stone.",
+        "vi": "Chính nghĩa nặng hơn vàng muôn dật, trung nghĩa khắc sâu hơn cả bia đá."
+      }
+    ]
+  },
+  {
+    "id": "dr-strange",
+    "name": "Doctor Stephen Strange (Dr. Strange)",
+    "title": "The Sorcerer Supreme - Phù Thủy Tối Thượng",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+    "color": "from-purple-700 to-amber-600",
+    "bio": [
+      {
+        "heading": {
+          "en": "The Shattered Pride of a Genius",
+          "vi": "Sự Sụp Đổ Của Niềm Kiêu Hãnh"
+        },
+        "text": {
+          "en": "There are those who stand born upon the summit of the world, yet only when they lose everything do they discover the true meaning of existence. Doctor Stephen Strange was once a peerless medical prodigy who believed that mortal science held the answers to all things. However, a devastating tragedy crushed both his brilliant career and his arrogance, shattering his hands and opening a doorway into a realm where magic, time, and the multiverse converge. From that moment, Doctor Strange ascended not merely as the Sorcerer Supreme, but as the bearer of the burden to safeguard reality itself.",
+          "vi": "Có những con người sinh ra đã đứng trên đỉnh cao của thế giới, nhưng chỉ khi đánh mất tất cả, họ mới tìm thấy ý nghĩa thật sự của cuộc đời. Stephen Strange từng là một bác sĩ thiên tài, người tin rằng khoa học có thể giải đáp mọi điều. Thế nhưng, một tai nạn đã nghiền nát cả sự nghiệp lẫn lòng kiêu hãnh của ông, mở ra cánh cửa dẫn đến một thế giới nơi phép thuật, thời gian và đa vũ trụ cùng tồn tại. Từ đó, Doctor Strange không chỉ trở thành Phù thủy Tối thượng, mà còn là người gánh vác trách nhiệm bảo vệ chính thực tại."
+        },
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "Awakening of the Mystic Arts",
+          "vi": "Sự Thức Tỉnh Nghệ Thuật Huyền Bí"
+        },
+        "text": {
+          "en": "Within the sacred sanctuary of Kamar-Taj, Strange relinquished his mortal ego to embrace wisdom beyond empirical understanding. Guided by the Ancient One, he mastered the mystic arts, learning to manipulate the boundless energies of space and time. Empowered by the Eye of Agamotto and the Cloak of Levitation, he underwent a glorious rebirth from the ashes of despair into an awakened sorcerer capable of reshaping the cosmic order.",
+          "vi": "Nơi thánh địa Kamar-Taj thiêng liêng, Strange đã rũ bỏ cái tôi kiêu ngạo để đón nhận những tri thức vượt ngoài tầm hiểu biết phàm tục. Dưới sự dẫn dắt của Thượng Cổ Tôn Giả, ông làm chủ phép thuật huyền bí, thao túng vô lượng năng lượng của không gian và thời gian. Con mắt Agamotto cùng Áo choàng Bay không chỉ là bảo vật, mà là minh chứng cho một kiếp tái sinh oai hùng từ đống tro tàn của sự tuyệt vọng."
+        },
+        "image": "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop"
+      },
+      {
+        "heading": {
+          "en": "The Eternal Guardian of Reality",
+          "vi": "Người Gánh Vác Thực Tại"
+        },
+        "text": {
+          "en": "Against infinite darkness and interdimensional horrors that threaten existence, Doctor Strange stands as humanity's eternal lighthouse. He understands that true triumph lies not in glory, but in enduring solitary vigilance for the preservation of all life. From confronting cosmic deities like Dormammu to safeguarding the fragile fabric of existence, he remains the steadfast guardian of reality itself.",
+          "vi": "Giữa bóng tối vô tận và những thế lực hung tàn rình rập ngoài không gian chiều, Doctor Strange đứng đó như ngọn hải đăng vĩnh cửu của nhân loại. Ông thấu hiểu rằng sự hy sinh cao cả nhất không phải là đoạt lấy vinh quang, mà là chấp nhận chịu đựng sự cô độc để canh giữ sự bình yên cho vạn vật. Từ việc thương lượng với thực thể Dormammu đến bảo vệ từng đường chỉ mỏng manh của vũ trụ, ông vĩnh viễn là người bảo vệ vĩ đại nhất của thực tại."
+        },
+        "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop"
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1508873696983-2df529a3c882?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?q=80&w=1000&auto=format&fit=crop"
+    ],
+    "vocabulary": [
+      {
+        "word": "Arrogance",
+        "meaning": "Sự kiêu ngạo, lòng kiêu hãnh",
+        "type": "Noun",
+        "example": "A devastating tragedy crushed both his brilliant career and his arrogance."
+      },
+      {
+        "word": "Multiverse",
+        "meaning": "Đa vũ trụ",
+        "type": "Noun",
+        "example": "Opening a doorway into a realm where magic, time, and the multiverse converge."
+      },
+      {
+        "word": "Mystic",
+        "meaning": "Huyền bí, thần bí",
+        "type": "Adjective",
+        "example": "Guided by the Ancient One, he mastered the mystic arts."
+      },
+      {
+        "word": "Sorcerer",
+        "meaning": "Pháp sư, phù thủy",
+        "type": "Noun",
+        "example": "He underwent a glorious rebirth from the ashes of despair into an awakened sorcerer."
+      },
+      {
+        "word": "Guardian",
+        "meaning": "Người bảo vệ, hộ vệ",
+        "type": "Noun",
+        "example": "He remains the steadfast guardian of reality itself."
+      }
+    ],
+    "quotes": [
+      {
+        "en": "We never lose our demons. We only learn to live above them.",
+        "vi": "Chúng ta không bao giờ đánh mất những con quỷ trong tâm khảm. Chúng ta chỉ học cách sống vượt lên trên chúng."
+      },
+      {
+        "en": "Dormammu, I've come to bargain.",
+        "vi": "Dormammu, ta đến để thương lượng."
+      },
+      {
+        "en": "Faith is my sword. Truth is my shield. Knowledge my armor.",
+        "vi": "Niềm tin là thanh kiếm. Sự thật là tấm khiên. Tri thức là bộ giáp của ta."
+      }
+    ]
   }
 ];
 

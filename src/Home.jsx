@@ -1,7 +1,8 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ChevronDown, ArrowRight, Sparkles, BookOpen, GraduationCap, Globe2, Users, PlayCircle, Zap, Quote } from 'lucide-react';
+import { ChevronDown, ArrowRight, Sparkles, BookOpen, GraduationCap, Globe2, Users, PlayCircle, Zap, Quote, Headphones } from 'lucide-react';
 import logo from './assets/logo.svg';
+import Navbar from './components/Navbar';
 
 function Home() {
   const navigate = useNavigate();
@@ -27,43 +28,8 @@ function Home() {
         <div className="absolute bottom-[-20%] left-[20%] w-[500px] h-[500px] bg-fuchsia-600/20 rounded-full mix-blend-screen filter blur-[120px] animate-blob animation-delay-4000"></div>
       </div>
 
-      {/* Modern Glass Navbar */}
-      <nav className="fixed w-full z-50 top-0 transition-all duration-300 bg-[#050505]/50 backdrop-blur-xl border-b border-white/10">
-        <div className="max-w-[1400px] mx-auto px-6 h-[90px] flex items-center justify-between">
-          
-          {/* HUGE LOGO */}
-          <div className="flex items-center">
-            {/* The wrapper forces a minimum height and width to ensure the logo is never small */}
-            <div className="h-[60px] w-auto sm:h-[80px] flex items-center justify-center">
-              <img 
-                src={logo} 
-                alt="Logo" 
-                className="h-full w-auto object-contain filter drop-shadow-[0_0_15px_rgba(255,255,255,0.5)] invert" 
-                style={{ minHeight: '60px' }}
-              />
-            </div>
-          </div>
-
-          {/* Navigation Links */}
-          <div className="hidden lg:flex items-center gap-10 text-[15px] font-medium tracking-wide">
-            <a href="#" className="flex items-center gap-1.5 text-gray-300 hover:text-white transition-colors group">
-              Khóa Học
-              <ChevronDown size={14} className="text-gray-500 group-hover:text-white transition-colors" />
-            </a>
-            <a href="#" onClick={(e) => { e.preventDefault(); navigate('/learn'); }} className="flex items-center gap-1.5 text-gray-300 hover:text-white transition-colors group cursor-pointer">
-              Luyện Tập
-            </a>
-            <a href="#" onClick={(e) => { e.preventDefault(); navigate('/characters'); }} className="text-gray-300 hover:text-white transition-colors cursor-pointer">
-              Nhân Vật
-            </a>
-          </div>
-
-          {/* Actions */}
-          <div className="flex items-center gap-6">
-            {/* Hidden for now */}
-          </div>
-        </div>
-      </nav>
+      {/* Shared Responsive Navbar */}
+      <Navbar />
 
       {/* Hero Section */}
       <main className="relative pt-[160px] pb-24 px-6 min-h-screen flex items-center">
@@ -128,7 +94,10 @@ function Home() {
             {/* Floating Glass Cards */}
             <div className="relative w-full h-full animate-float">
               {/* Card 1: IELTS */}
-              <div className="absolute top-[10%] left-[5%] w-[260px] glass-panel p-6 shadow-2xl transform -rotate-6 hover:rotate-0 transition-transform duration-500">
+              <div 
+                onClick={() => navigate('/learn/ielts')}
+                className="absolute top-[10%] left-[5%] w-[260px] glass-panel p-6 shadow-2xl transform -rotate-6 hover:rotate-0 transition-transform duration-500 cursor-pointer hover:border-blue-500/50"
+              >
                 <div className="w-12 h-12 rounded-full bg-blue-500/20 flex items-center justify-center mb-4">
                   <GraduationCap className="text-blue-400" size={24} />
                 </div>
@@ -140,7 +109,10 @@ function Home() {
               </div>
 
               {/* Card 2: TOEIC */}
-              <div className="absolute top-[40%] right-[0%] w-[280px] glass-panel p-6 shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500 animation-delay-2000">
+              <div 
+                onClick={() => navigate('/learn/toeic')}
+                className="absolute top-[40%] right-[0%] w-[280px] glass-panel p-6 shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-500 animation-delay-2000 cursor-pointer hover:border-purple-500/50"
+              >
                 <div className="flex items-center justify-between mb-4">
                   <div className="w-12 h-12 rounded-full bg-purple-500/20 flex items-center justify-center">
                     <Zap className="text-purple-400" size={24} />
@@ -166,6 +138,110 @@ function Home() {
           </div>
         </div>
       </main>
+
+      {/* Practice Modes Section */}
+      <section className="relative py-20 px-6 z-10 border-t border-white/10">
+        <div className="max-w-[1400px] mx-auto">
+          <div className="text-center mb-16">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-purple-500/10 border border-purple-500/30 text-purple-400 text-sm font-medium mb-4">
+              <Sparkles size={16} />
+              <span>Chương Trình Học Toàn Diện</span>
+            </div>
+            <h2 className="text-3xl md:text-5xl font-bold mb-4">
+              Luyện Tập <span className="text-gradient">TOEIC, IELTS & CEFR</span>
+            </h2>
+            <p className="text-gray-400 max-w-2xl mx-auto">
+              Trải nghiệm môi trường thi trắc nghiệm thực tế, bài tập nghe đọc tương tác, ôn luyện từ vựng chuẩn CEFR cùng sự hỗ trợ của trí tuệ nhân tạo.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* TOEIC Card */}
+            <div 
+              onClick={() => navigate('/learn/toeic')}
+              className="glass-panel p-8 rounded-3xl border border-white/10 hover:border-purple-500/50 hover:-translate-y-2 transition-all duration-300 cursor-pointer group relative overflow-hidden flex flex-col justify-between bg-gradient-to-b from-white/[0.05] to-transparent"
+            >
+              <div className="absolute top-0 right-0 w-48 h-48 bg-purple-500/10 rounded-full filter blur-[50px] group-hover:bg-purple-500/20 transition-all"></div>
+              <div>
+                <div className="flex items-center justify-between mb-6">
+                  <div className="w-14 h-14 rounded-2xl bg-purple-500/20 border border-purple-500/40 flex items-center justify-center text-purple-400 group-hover:scale-110 transition-transform">
+                    <Headphones size={28} />
+                  </div>
+                  <span className="px-3 py-1 bg-purple-500/20 border border-purple-500/40 rounded-full text-xs font-semibold text-purple-300">
+                    Phổ Biến
+                  </span>
+                </div>
+                <h3 className="text-2xl font-bold text-white mb-3 group-hover:text-purple-300 transition-colors">
+                  Luyện Thi TOEIC
+                </h3>
+                <p className="text-gray-400 text-sm leading-relaxed mb-6">
+                  Luyện Nghe & Đọc trọn bộ từ Part 1 đến Part 5. Hệ thống câu hỏi sát đề thi thật với phát âm AI chuẩn giọng bản xứ và dịch nghĩa chi tiết.
+                </p>
+              </div>
+              <div className="pt-6 border-t border-white/10 flex items-center justify-between text-sm font-semibold text-purple-400 group-hover:text-purple-300">
+                <span>Vào Luyện TOEIC Ngay</span>
+                <ArrowRight size={18} className="transform group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+
+            {/* IELTS Card */}
+            <div 
+              onClick={() => navigate('/learn/ielts')}
+              className="glass-panel p-8 rounded-3xl border border-white/10 hover:border-blue-500/50 hover:-translate-y-2 transition-all duration-300 cursor-pointer group relative overflow-hidden flex flex-col justify-between bg-gradient-to-b from-white/[0.05] to-transparent"
+            >
+              <div className="absolute top-0 right-0 w-48 h-48 bg-blue-500/10 rounded-full filter blur-[50px] group-hover:bg-blue-500/20 transition-all"></div>
+              <div>
+                <div className="flex items-center justify-between mb-6">
+                  <div className="w-14 h-14 rounded-2xl bg-blue-500/20 border border-blue-500/40 flex items-center justify-center text-blue-400 group-hover:scale-110 transition-transform">
+                    <GraduationCap size={28} />
+                  </div>
+                  <span className="px-3 py-1 bg-blue-500/20 border border-blue-500/40 rounded-full text-xs font-semibold text-blue-300">
+                    Học Thuật
+                  </span>
+                </div>
+                <h3 className="text-2xl font-bold text-white mb-3 group-hover:text-blue-300 transition-colors">
+                  Chinh Phục IELTS
+                </h3>
+                <p className="text-gray-400 text-sm leading-relaxed mb-6">
+                  Luyện Reading bài đọc học thuật với highlight từ vựng C1-C2 khó & Listening bài giảng cùng hệ thống giải thích nghĩa từ vựng chuyên sâu.
+                </p>
+              </div>
+              <div className="pt-6 border-t border-white/10 flex items-center justify-between text-sm font-semibold text-blue-400 group-hover:text-blue-300">
+                <span>Vào Luyện IELTS Ngay</span>
+                <ArrowRight size={18} className="transform group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+
+            {/* CEFR Vocabulary Card */}
+            <div 
+              onClick={() => navigate('/learn')}
+              className="glass-panel p-8 rounded-3xl border border-white/10 hover:border-fuchsia-500/50 hover:-translate-y-2 transition-all duration-300 cursor-pointer group relative overflow-hidden flex flex-col justify-between bg-gradient-to-b from-white/[0.05] to-transparent"
+            >
+              <div className="absolute top-0 right-0 w-48 h-48 bg-fuchsia-500/10 rounded-full filter blur-[50px] group-hover:bg-fuchsia-500/20 transition-all"></div>
+              <div>
+                <div className="flex items-center justify-between mb-6">
+                  <div className="w-14 h-14 rounded-2xl bg-fuchsia-500/20 border border-fuchsia-500/40 flex items-center justify-center text-fuchsia-400 group-hover:scale-110 transition-transform">
+                    <BookOpen size={28} />
+                  </div>
+                  <span className="px-3 py-1 bg-fuchsia-500/20 border border-fuchsia-500/40 rounded-full text-xs font-semibold text-fuchsia-300">
+                    CEFR A1 - C1
+                  </span>
+                </div>
+                <h3 className="text-2xl font-bold text-white mb-3 group-hover:text-fuchsia-300 transition-colors">
+                  Từ Vựng & Ôn Tập
+                </h3>
+                <p className="text-gray-400 text-sm leading-relaxed mb-6">
+                  Kho từ vựng khổng lồ theo 5 cấp độ tiêu chuẩn châu Âu CEFR, thẻ flashcard tương tác, kiểm tra trắc nghiệm và quản lý danh sách từ đã lưu.
+                </p>
+              </div>
+              <div className="pt-6 border-t border-white/10 flex items-center justify-between text-sm font-semibold text-fuchsia-400 group-hover:text-fuchsia-300">
+                <span>Học Từ Vựng Ngay</span>
+                <ArrowRight size={18} className="transform group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
       {/* Vocabulary Stats Section */}
       <section className="relative py-16 px-6 z-10 border-t border-white/10 bg-[#0a0a0a]">

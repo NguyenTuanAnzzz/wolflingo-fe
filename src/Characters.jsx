@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Sparkles, Sword, BookOpen, Quote, ChevronLeft } from 'lucide-react';
 import { useNavigate, useParams } from 'react-router-dom';
+import Navbar from './components/Navbar';
 
 const HighlightedText = ({ text, vocabulary, lang = 'en' }) => {
   if (!text || !vocabulary || vocabulary.length === 0) {
@@ -306,17 +307,10 @@ function Characters() {
   }
 
   return (
-    <div className="min-h-screen bg-[#050505] text-white font-inter selection:bg-fuchsia-500/30 pb-20">
-      <nav className="w-full z-50 top-0 bg-[#050505] border-b border-white/10 px-6 py-4 flex justify-between items-center">
-        <button 
-          onClick={() => navigate('/')} 
-          className="text-gray-400 hover:text-white transition-colors flex items-center gap-2 font-medium"
-        >
-          <ChevronLeft size={20} /> Về trang chủ
-        </button>
-      </nav>
+    <div className="min-h-screen bg-[#050505] text-white font-inter selection:bg-fuchsia-500/30 pb-20 overflow-x-hidden">
+      <Navbar />
 
-      <div className="max-w-[1400px] mx-auto px-6 pt-16">
+      <div className="max-w-[1400px] mx-auto px-6 pt-[110px]">
         <div className="text-center mb-16">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-panel mb-6 border-white/20">
             <Sword size={16} className="text-red-400" />
